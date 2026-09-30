@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>מבזקי חדשות | כיכר השבת</title>
+        <link>https://www.kikar.co.il/scoop-news</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Sep 2026 14:34:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>he</language>
+        <copyright>כל הזכויות שמורות</copyright>
+        <category>scoop-news</category>
+        <atom:link href="https://www.kikar.co.il/scoop-news/feed" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://api.kikar.news/v1/websub/rss-scoop-news/latest" rel="hub"/>
+        <item>
+            <title><![CDATA[מטוס החילוץ המריא מסעודיה - וינחת בנתב"ג בעוד 45 דקות]]></title>
+            <link>https://www.kikar.co.il/scoop-news/86026</link>
+            <guid>86026</guid>
+            <pubDate>Wed, 30 Sep 2026 14:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[קשרו עם אוזניות בזמן שהמטוס צולל - וההגה שהתנתק | פרטים חדשים נחשפים]]></title>
+            <link>https://www.kikar.co.il/world-news/tm6lcp</link>
+            <guid>86025</guid>
+            <pubDate>Wed, 30 Sep 2026 14:33:32 GMT</pubDate>
+            <description><![CDATA[פרטים חדשים מרגעי הדרמה על מטוס פליי דובאי מתבררים כעת | לפי הדיווחים העדכניים, ישראלים ששהו על הטיסה יצרו צוות חירום - חלק השתלטו על המחבל וקשרו אותו באמצעות אוזניות, ואילו אחרים - טייסים - הנחיתו את המטוס בבטחה | הפרטים החדשים שנחשפים כעת (חדשות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/6ece6030-bcb4-11f1-a481-e33f948f3756__h397_w322.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[הפקודה הדרמטית שניתנה הבוקר בחיל האוויר: מאחורי הקלעים של ניסיון החטיפה ]]></title>
+            <link>https://www.kikar.co.il/security-news/tm6kak</link>
+            <guid>86024</guid>
+            <pubDate>Wed, 30 Sep 2026 14:14:30 GMT</pubDate>
+            <description><![CDATA[מאחורי הקלעים של האירוע הדרמטי הבוקר, ישנה פקודה ייעודית אחת שניתנת בחיל האוויר ברגע שמתרחשת תקרית חירום | הבוקר - הפקודה ניתנה, ורק כעת מתברר כי מדובר היה באירוע טרור, אירוע אמת | מאחורי הקלעים (חדשות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/04/05/ed5840b0-30af-11f1-ab0a-abcfd5619055__h1066_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[הדרמה על אדמת סעודיה: הישראלים התרצו לעלות על הטיסה אחרי שהמוסד אישר את הטייסים]]></title>
+            <link>https://www.kikar.co.il/world-news/tm6hgr</link>
+            <guid>86023</guid>
+            <pubDate>Wed, 30 Sep 2026 13:57:20 GMT</pubDate>
+            <description><![CDATA[בעוד עשרות ישראלים נותרו על אדמת מדינה שאינה מקיימת קשרים רשמיים עם ישראל, מתברר כי סעודיה סירבה לצה"ל או למדינת ישראל לשגר מטוס רשמי לחילוץ הנוסעים | במקום זאת, סעודיה הורתה על חילוץ באמצעות מטוס החברה שביצעה את הטיסה הראשונית - פליי דובאי, בתחילה דווח כי חלק מהישראלים סירבו לעלות על מטוס החברה בדרכו ארצה, והתרצו לאחר אישור המוסד| הדרמה בנמל התעופה הסעודי (חדשות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/efa52060-bca8-11f1-a481-e33f948f3756__h454_w417.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[סעודיה אינה מוכנה לתמונה של מטוס הרקולס צה"לי על המסלול שלה - והדילמה הקשה]]></title>
+            <link>https://www.kikar.co.il/news/tm6j3f</link>
+            <guid>86022</guid>
+            <pubDate>Wed, 30 Sep 2026 13:53:08 GMT</pubDate>
+            <description><![CDATA[לפי הדיווח בישראל, סעודיה מתנגדת לנחיתת מטוסי ההרקולס שנועדו להשיב את נוסעי הטיסה הדרמטית | מול האיום האיראני והחות׳י, ההתנגדות הזאת מעלה שאלה קשה: כמה מחופש הפעולה שלה מוכנה ריאד להקריב כדי להימנע מתמונה של שיתוף פעולה גלוי עם ישראל? (פרשנות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2017/05/03/04b5d510-18d9-11ef-81a4-aba8ed63efe6__h360_w640.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[שר הביטחון קובע: מדובר בניסיון פיגוע על ידי "גיהאדיסט"]]></title>
+            <link>https://www.kikar.co.il/scoop-news/86021</link>
+            <guid>86021</guid>
+            <pubDate>Wed, 30 Sep 2026 13:40:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[נתניהו חושף פרטים חדשים בהצהרה דרמטית וקובע: מדובר באירוע ביטחוני]]></title>
+            <link>https://www.kikar.co.il/news/tm6i9y</link>
+            <guid>86020</guid>
+            <pubDate>Wed, 30 Sep 2026 13:25:57 GMT</pubDate>
+            <description><![CDATA[ראש הממשלה נתניהו פרסם אחר הצהריים סרטון מיוחד בו הוא קבע בתחילת דבריו כי מדובר ב"אירוע ביטחוני" | נתניהו חשף פרטים חדשים על רגעי האימה במטוס ו"צוות האוויר" שהצליח להשתלט על המטוס (חדשות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/391fdea0-bcd2-11f1-88fa-bb761e31e3f3__h720_w1280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[נתניהו חושף פרטים חדשים בהצהרה דרמטית וקובע: מדובר באירוע ביטחוני]]></title>
+            <link>https://www.kikar.co.il/news/tm6i9y</link>
+            <guid>86019</guid>
+            <pubDate>Wed, 30 Sep 2026 13:25:37 GMT</pubDate>
+            <description><![CDATA[ראש הממשלה נתניהו פרסם אחר הצהריים סרטון מיוחד בו הוא קבע בתחילת דבריו כי מדובר ב"אירוע ביטחוני" | נתניהו חשף פרטים חדשים על רגעי האימה במטוס ו"צוות האוויר" שהצליח להשתלט על המטוס (חדשות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/391fdea0-bcd2-11f1-88fa-bb761e31e3f3__h720_w1280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מאחורי הקלעים; מדוע ביקש ראש הישיבה לעשות קנין באתרוג? ]]></title>
+            <link>https://www.kikar.co.il/haredim-news/tm68rd</link>
+            <guid>86018</guid>
+            <pubDate>Wed, 30 Sep 2026 13:13:42 GMT</pubDate>
+            <description><![CDATA[הקפדתו המדוקדקת של ראש הישיבה הגאון רבי דב לנדו נחשפת: מדוע ביקש לרכוש במיוחד אתרוג מהודר לקראת יום טוב שני של גלויות, ואיך זכו בחורי ישיבת סלבודקא האמריקאים לקיים את המצווה בהידור?]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/5ac9cc70-bcd0-11f1-88fa-bb761e31e3f3__h1024_w900.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[לקראת פגיעה בעולם התורה: בקשה דחופה הוגשה לבג"ץ]]></title>
+            <link>https://www.kikar.co.il/law-and-order/tm6h6p</link>
+            <guid>86017</guid>
+            <pubDate>Wed, 30 Sep 2026 13:05:08 GMT</pubDate>
+            <description><![CDATA[איגוד מנהלי הישיבות והמוסדות התורניים מבקש מבג"ץ לעצור את המהלך הנוגע להטבות המס למוסדות תורניים: "נזק אנוש ובלתי הפיך" (משפט)]]></description>
+            <enclosure url="https://i.kikar.co.il/2025/04/30/18d89660-25d3-11f0-85cc-e3944c7a854a__h2714_w6633.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[אלפים צבאו על הבית; מעמד ה'ריתחא דאורייתא' בסוכתו של הגר"ד לנדו • צפו]]></title>
+            <link>https://www.kikar.co.il/haredim-news/tm68l1</link>
+            <guid>86016</guid>
+            <pubDate>Wed, 30 Sep 2026 13:04:27 GMT</pubDate>
+            <description><![CDATA[גלריה ממעמד הריתחא דאורייתא שהתקיים אמש (שלישי), ג' דחוה"מ סוכות, בסוכתו של ראש הישיבה הגאון רבי דב לנדו. בהשתתפות גדולי הרבנים וראשי הישיבות כשאלפים צופים בשידור חי במסכים ברחובות הסמוכים | לאחר המעמד הופיע ראש הישיבה למעמד 'הקבלת פני רבו' ברחובה של עיר (חרדים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/c02cc380-bcce-11f1-88fa-bb761e31e3f3__h900_w1600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[דרמה על אדמת סעודיה: ישראלים מסרבים לעלות על מטוס החילוץ  | המוסד אישר את הטייסים]]></title>
+            <link>https://www.kikar.co.il/world-news/tm6hgr</link>
+            <guid>86015</guid>
+            <pubDate>Wed, 30 Sep 2026 13:03:43 GMT</pubDate>
+            <description><![CDATA[בעוד עשרות ישראלים נותרו על אדמת מדינה שאינה מקיימת קשרים רשמיים עם ישראל, מתברר כי סעודיה סירבה לצה"ל או למדינת ישראל לשגר מטוס רשמי לחילוץ הנוסעים | במקום זאת, סעודיה הורתה על חילוץ באמצעות מטוס החברה שביצעה את הטיסה הראשונית - פליי דובאי, אלא שישראלים מסרבים כעת לעלות על מטוס החברה בדרכו ארצה | הדרמה בנמל התעופה הסעודי (חדשות) ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/efa52060-bca8-11f1-a481-e33f948f3756__h454_w417.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[נס בגילה: צנחה מגובה 5 מטרים לגינה וחולצה בידי הכבאים | צפו]]></title>
+            <link>https://www.kikar.co.il/israel-news/gila-jerusalem-car-fall-garden-rescue</link>
+            <guid>86014</guid>
+            <pubDate>Wed, 30 Sep 2026 12:51:50 GMT</pubDate>
+            <description><![CDATA[תאונת דרכים חריגה ומלחיצה בירושלים: רכב פרטי הידרדר וצנח מגובה של כחמישה מטרים אל תוך חצר פרטית בשכונת גילה. לוחמי האש שהוזעקו לזירה חילצו את הנהגת מתוך הרכב שהתהפך על צדו, והיא פונתה לקבלת טיפול רפואי כשמצבה מוגדר קל עד בינוני (בארץ)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/985d87a0-bccd-11f1-a481-e33f948f3756__h1600_w1200.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[עיתונאי שמאל באולטימטום לינון מגל: התנצל בשידור או שתיתבע]]></title>
+            <link>https://www.kikar.co.il/law-and-order/tm6gdr</link>
+            <guid>86013</guid>
+            <pubDate>Wed, 30 Sep 2026 12:46:10 GMT</pubDate>
+            <description><![CDATA[רונן ברגמן מאיים לנקוט הליכים משפטיים נגד מגיש "הפטריוטים", ודורש להסיר את האייטם ולפרסם התנצלות בתוכנית הקרובה (משפט)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/13/3db01060-4e8d-11f1-b59a-1100c0739ff7__h4733_w7100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[לשבור את מעגל ההטפה | הגיע הזמן לדבר אחרת על חוק הגיוס •  טור דעה]]></title>
+            <link>https://www.kikar.co.il/haredim-news/haredi-idf-draft-law-debate</link>
+            <guid>86012</guid>
+            <pubDate>Wed, 30 Sep 2026 12:44:58 GMT</pubDate>
+            <description><![CDATA[הקונפליקט סביב חוק הגיוס קורע את החברה הישראלית ומותיר את כולם בתחושת עוול ותסכול • משה גרוסמן בטור דעה ראשון בסדרה שמבקש להחליף את ההטפה בשיח של הקשבה והבנה הדדית (מגזיין)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/29/f970ceb0-bc3e-11f1-a481-e33f948f3756__h5464_w8192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[השאלה הדרמטית שעוד נותרה פתוחה - והנוסעים המסתוריים שהצילו את המצב]]></title>
+            <link>https://www.kikar.co.il/news/tm6feu</link>
+            <guid>86011</guid>
+            <pubDate>Wed, 30 Sep 2026 12:44:24 GMT</pubDate>
+            <description><![CDATA[שאלות רבות נותרו אחרי ניסיון חטיפת המטוס הבוקר. מה שכרגע נראה יותר ויותר ברור, הוא שאכן מדובר בניסיון חטיפת מטוס ישראלי על רקע טרור, למרות שהדבר עדיין לא קיבל אישור רשמי | אם אכן יתברר כי מדובר בניסיון פיגוע, יש שאלה אחת שעדיין נותרה פתוחה ועשויה לקבוע את עתיד השבועות והחודשים הקרובים (פרשנות)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/768922b0-bcb4-11f1-88fa-bb761e31e3f3__h900_w1600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[לפיד: אירוע המטוס לא הופיע בעדכון • גורם מדיני: קיבל אזהרה]]></title>
+            <link>https://www.kikar.co.il/political-news/lapid-political-clash-flydubai-security-update</link>
+            <guid>86010</guid>
+            <pubDate>Wed, 30 Sep 2026 12:16:32 GMT</pubDate>
+            <description><![CDATA[ראש האופוזיציה מבהיר כי אירוע הדקירה בטיסה לא הוזכר בפגישה עם נתניהו • גורם מדיני בכיר מגיב: "עודכן על התגברות משמעותית של פח"ע בחו"ל" | העימות הפוליטי מתלקח (פוליטי מדיני)]]></description>
+            <enclosure url="https://i.kikar.co.il/2025/08/13/13153650-7841-11f0-8909-57dfd20f72ed__h900_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[רבבות בשמחת בית השואבה הגדולה בישראל של חסידות מישקולץ בפתח תקוה - באצטדיון הגדול בישראל]]></title>
+            <link>https://www.kikar.co.il/hasidism/tm6esy</link>
+            <guid>86009</guid>
+            <pubDate>Wed, 30 Sep 2026 12:13:17 GMT</pubDate>
+            <description><![CDATA[כ"ק מרן אדמו"ר ממישקולץ שליט"א – מנהיגה הרוחני של פתח תקוה, אמר בנאומו: "האם בני הישיבות נקראים עריקים? העריקים הם אלו שמונעים מבני הישיבות ללמוד תורה! הם ערקו מכבר מלימוד התורה ששומרת על עם ישראל וזה מה שגורם למלחמות וצרות! אם נחזק את התורה ולומדיה, נזכה תיכף ומיד לגאולה"]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/dbbcc0d0-bcbc-11f1-a481-e33f948f3756__h4128_w6192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[רבבות בשמחת בית השואבה הגדולה בישראל של חסידות מישקולץ בפתח תקוה באצטדיון הגדול בישראל]]></title>
+            <link>https://www.kikar.co.il/hasidism/tm6bgq</link>
+            <guid>86008</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:41 GMT</pubDate>
+            <description><![CDATA[ כ"ק מרן אדמו"ר ממישקולץ שליט"א – מנהיגה הרוחני של פתח תקוה בנאומו: האם בני הישיבות נקראים עריקים? העריקים הם אלו שמונעים מבני הישיבות ללמוד תורה! הם ערקו מכבר מלימוד התורה ששומרת על עם ישראל וזה מה שגורם למלחמות וצרות! אם נחזק את התורה ולומדיה, נזכה תיכף ומיד לגאולה]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/dbbbd670-bcbc-11f1-a481-e33f948f3756__h4128_w6192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["אבא אוהב לראות את הילדים חיים בשלום": הראש"ל הגר"ד יוסף נועד עם נשיא המדינה]]></title>
+            <link>https://www.kikar.co.il/haredim/chief-rabbis-president-herzog-sukkot-unity-call</link>
+            <guid>86007</guid>
+            <pubDate>Wed, 30 Sep 2026 11:17:49 GMT</pubDate>
+            <description><![CDATA[הראשון לציון הגר"ד יוסף קיבל את נשיא המדינה בסוכתו • הרב הראשי בר קרא לנשיא להוביל קו מאחד בתקופת הבחירות | מפגש חם בסוכה (חרדים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/2542bef0-bcc0-11f1-88fa-bb761e31e3f3__h1132_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[מנתקים את הוואטסאפ: עולם הדרייברים בדרך למהפך מפתיע]]></title>
+            <link>https://www.kikar.co.il/haredim/drivers-whatsapp-telegram-transition-bots</link>
+            <guid>86006</guid>
+            <pubDate>Wed, 30 Sep 2026 10:59:50 GMT</pubDate>
+            <description><![CDATA[מערכות בוטים מרכזיות נערכות למעבר הדרגתי מוואטסאפ לטלגרם • העומס על המכשירים והצורך בטלפונים מתקדמים מובילים את השינוי | האם זו תחילת מהפכה בענף? (חרדים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/02/05/b2f9af20-026b-11f1-aa58-a97fcd0fd8f5__h1024_w1024.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["תפסיקו להשחיז חרבות": הרב הראשי קורא לנשיא להוביל אחדות]]></title>
+            <link>https://www.kikar.co.il/haredim/chief-rabbi-bar-president-herzog-unity-call</link>
+            <guid>86005</guid>
+            <pubDate>Wed, 30 Sep 2026 10:40:57 GMT</pubDate>
+            <description><![CDATA[בביקור חגיגי בסוכתו של הרב הראשי לישראל הגאון רבי קלמן מאיר בר, קרא נשיא מועצת הרבנות הראשית לנשיא המדינה יצחק הרצוג להוביל קו מאחד וערכי על רקע מערכת הבחירות וחילוקי הדעות בציבור, והדגיש: "הקב"ה אוהב לראות את הילדים שלו חיים בשלום" (חרדים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/120cc8d0-bcbb-11f1-a481-e33f948f3756__h1009_w1079.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[בגלל תקלה: מטוס פליי דובאי נוסף חזר על עקבותיו]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-returns-dubai-pilot-incident</link>
+            <guid>86004</guid>
+            <pubDate>Wed, 30 Sep 2026 10:30:17 GMT</pubDate>
+            <description><![CDATA[אירוע חריג בשמי המזרח התיכון: טיסת "פליי דובאי" בדרכה לישראל נאלצה להסתובב חזרה בעיצומה של הדרך, כשהסיבה לצעד החריג טרם התבררה (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/d9f66010-bcb9-11f1-a481-e33f948f3756__h533_w799.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[חורבן מוחלט: 82% מרצועת עזה נמחקו מהמפה]]></title>
+            <link>https://www.kikar.co.il/political-news/gaza-strip-total-destruction-82-percent</link>
+            <guid>86003</guid>
+            <pubDate>Wed, 30 Sep 2026 10:03:06 GMT</pubDate>
+            <description><![CDATA[נתוני לוויין של האו"ם חושפים הרס חסר תקדים • 200 אלף מבנים ניזוקו או נמחקו לחלוטין | המשבר הכלכלי החמור ביותר שנרשם אי פעם (חדשות)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/29/a6047e80-bc1a-11f1-a481-e33f948f3756__h533_w800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[איך הגיע טייס ממוצא עומאני לישראל? מערכת הביטחון בודקת מחדל חמור]]></title>
+            <link>https://www.kikar.co.il/security-news/oman-pilot-security-clearance-investigation</link>
+            <guid>86002</guid>
+            <pubDate>Wed, 30 Sep 2026 09:51:44 GMT</pubDate>
+            <description><![CDATA[במערכת הביטחון ורשות שדות התעופה בודקים כיצד ניתן אישור לטייס ממוצא עומאני • הרמטכ"ל, ראש השב"כ וראש המוסד קיימו התייעצות טלפונית דחופה | כל הנוסעים והצוות יועברו לתחקור מיידי (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/768922b0-bcb4-11f1-88fa-bb761e31e3f3__h900_w1600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[אחרי יותר מ-20 שנים: צבא ארה"ב מסיים את הנוכחות הצבאית שלו בעיראק | ההודעה המלאה]]></title>
+            <link>https://www.kikar.co.il/security-news/us-forces-end-iraq-mission-operation-inherent-reso</link>
+            <guid>86001</guid>
+            <pubDate>Wed, 30 Sep 2026 09:32:17 GMT</pubDate>
+            <description><![CDATA[פיקוד המרכז האמריקני השלים את הפינוי מבסיס ארביל • סיום משימת מבצע נחישות טבועה לאחר למעלה מעשור | המעבר ליחסי הגנה דו-צדדיים (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/a6ab3f30-bcb1-11f1-88fa-bb761e31e3f3__h325_w583.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ממדאני הציג דוח ענק נגד אנטישמיות בניו יורק | הזעם: ישראל נעלמה ממנו לחלוטין]]></title>
+            <link>https://www.kikar.co.il/world-news/adams-antisemitism-report-israel-omission-new-york</link>
+            <guid>86000</guid>
+            <pubDate>Wed, 30 Sep 2026 09:17:48 GMT</pubDate>
+            <description><![CDATA[ראש עיריית ניו יורק פרסם תוכנית מקיף בת 35 עמודים עם תקציב של 29 מיליון דולר • אך הדוח מתעלם לחלוטין מישראל ומהתקיפות בחסות מחאות פרו-פלסטיניות | סערה בקהילה היהודית (בעולם)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/903ad730-bcaf-11f1-a481-e33f948f3756__h900_w1600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מלך הולנד הגיע לבית הכנסת והביע הזדהות: "אל תגעו ביהודים, הם אינם אחראים למצב"]]></title>
+            <link>https://www.kikar.co.il/world-news/dutch-king-visits-synagogue-hague-solidarity</link>
+            <guid>85999</guid>
+            <pubDate>Wed, 30 Sep 2026 09:06:43 GMT</pubDate>
+            <description><![CDATA[וילם-אלכסנדר ערך ביקור הזדהות בבית הכנסת 'בית יהודה' • קרא לרוב הדומם להתייצב ולהגן על הקהילה היהודית | 'אזרחי הולנד היהודים אינם אחראים למתרחש בישראל' (בעולם)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/01/05/edb06aa0-ea15-11f0-9c58-a50b25ffb03e__h4406_w6000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תִּיבוּ אֻשְׁפִּיזִין קַדִּישִׁין | תיעוד מיוחד מהרבי משבט הלוי בטיש לחיים בימי המועד]]></title>
+            <link>https://www.kikar.co.il/hasidism/tm618y</link>
+            <guid>85998</guid>
+            <pubDate>Wed, 30 Sep 2026 08:41:30 GMT</pubDate>
+            <description><![CDATA[האדמו"ר משבט הלוי עורך מדי ערב בימי המועד טיש לחיים לרגל ימי החג, במהלך הטיש נושא האדמו"ר דברי קודש ופנינים יקרים מענייני האושפיזין החל באותו יום| באחד מלילי החג מתקיימת שמחת בית השואבה המרכזית בליווי תופים ומחולות | צפו בתיעוד מאחד הטישים שערך האדמו"ר השבוע (חסידים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/091bd670-bc9e-11f1-88fa-bb761e31e3f3__h3648_w5472.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[צפו בעבודת השרעפים של הרבי מקרעטשניף סיגעט עם סיגריה בעת שמחת בית השואבה]]></title>
+            <link>https://www.kikar.co.il/hasidism/tm60xe</link>
+            <guid>85997</guid>
+            <pubDate>Wed, 30 Sep 2026 08:37:47 GMT</pubDate>
+            <description><![CDATA[האדמו"ר מקרעטשניף סיגעט ערך שמחת בית השואבה בסוכה בסמוך לבית מדרשו בירושלים | במהלך הטיש נצפה הרבי מעלה עשן מסיגריה כשהוא אחוז שרעפים מתוך דבקות בעת שהחסידים זימרו מניגוני החג ]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/12fe7770-bc9d-11f1-88fa-bb761e31e3f3__h3648_w5472.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[הטייס ניסה להשתלט על המטוס ולרסק אותו יחד עם כל הנוסעים | תיעוד מלא בדם - לאחר מאבק]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-pilot-fight-emergency-landing-saudi-arabi</link>
+            <guid>85996</guid>
+            <pubDate>Wed, 30 Sep 2026 08:34:56 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שידרה קוד מצוקה והוזנקו מטוסי קרב • נוסעים ישראלים תיארו דם בתא הטייס ורגעי אימה | המטוס נחת בסעודיה והנוסעים חזרו בשלום | כרגע הכיוון הוא, כי אחד הטייסים ניסה להשתלט על המטוס, ולרסק אותו יחד עם כל הנוסעים | בכיר ביטחוני מסר: "נמנע היום אסון כבד בשמיים" (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/f1902780-bca8-11f1-a481-e33f948f3756__h900_w1600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[הסימנים כרגע מראים: הטייס ניסה להשתלט על המטוס ולרסק אותו יחד עם כל הנוסעים | תיעוד נוסע מלא בדם - לאחר מאבק]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-pilot-fight-emergency-landing-saudi-arabi</link>
+            <guid>85995</guid>
+            <pubDate>Wed, 30 Sep 2026 08:28:54 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שידרה קוד מצוקה והוזנקו מטוסי קרב • נוסעים ישראלים תיארו דם בתא הטייס ורגעי אימה | המטוס נחת בסעודיה והנוסעים חזרו בשלום | כרגע הכיוון הוא, כי אחד הטייסים ניסה להשתלט על המטוס, ולרסק אותו יחד עם כל הנוסעים | בכיר ביטחוני מסר: "נמנע היום אסון כבד בשמיים" (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/f1902780-bca8-11f1-a481-e33f948f3756__h900_w1600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["צרחתי שמע ישראל": נוסעת מתארת את רגעי האימה בטיסת החירום מדובאי]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-stabbing-testimony</link>
+            <guid>85994</guid>
+            <pubDate>Wed, 30 Sep 2026 07:54:01 GMT</pubDate>
+            <description><![CDATA[נוסעת ישראלית מתארת את רגעי האימה בטיסה מדובאי • "מישהו דקר את הטייס באולר, צרחתי שמע ישראל" • ישראלים ניטרלו את התוקף ונחתו נחיתת חירום | התברר: קטטה בין הטייסים (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/07/08/f8cfcbf0-7ad0-11f1-ae8b-fbad3efecf8f__h960_w1280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תיעוד עוצמתי; אלפי חסידי באיאן פיזזו לקול שירת 'טאטאלע קום שוין אהיים']]></title>
+            <link>https://www.kikar.co.il/hasidism/tm629m</link>
+            <guid>85993</guid>
+            <pubDate>Wed, 30 Sep 2026 07:47:19 GMT</pubDate>
+            <description><![CDATA[האדמו"ר מבאיאן ערך אמש את שולחנו הטהור המרכזי לכבוד החג בשילוב שמחת בית השואבה | רגעים מרוממים נרשמו בעת הריקודים, כשאלפי החסידים פיזזו בעוז וזימרו את השיר המרגש שהלחין המשגיח הגה"צ רבי דן סגל, 'טאטאלע קום שוין אהיים', תוך שהאדמו"ר מעודד בעוז את השירה האדירה (חסידים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/054fb670-bca2-11f1-a481-e33f948f3756__h414_w478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[במבצע נרחב בתל אביב: חשודים נעצרו בפריצות - אחד נתפס עם מזוודה מלאה | צפו]]></title>
+            <link>https://www.kikar.co.il/police/tel-aviv-four-burglary-arrests-police-operation</link>
+            <guid>85992</guid>
+            <pubDate>Wed, 30 Sep 2026 07:46:56 GMT</pubDate>
+            <description><![CDATA[שוטרי תחנת לב תל אביב עצרו 4 חשודים באירועי פריצה שונים • אחד התפרץ לדירה וגנב כסף וטבעת, אחר נתפס בקטנוע גנוב | כתב אישום הוגש (משטרה)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/871c2ad0-bca2-11f1-a481-e33f948f3756__h720_w1280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[המתיחות הביטחונית | דרמטי: הרמטכ"ל ביטל את נסיעתו הדחופה לארצות הברית]]></title>
+            <link>https://www.kikar.co.il/security-news/idf-chief-cancels-us-visit-heightened-alert</link>
+            <guid>85991</guid>
+            <pubDate>Wed, 30 Sep 2026 07:35:41 GMT</pubDate>
+            <description><![CDATA[הרמטכ"ל אייל זמיר ביטל את ביקורו המתוכנן בארה"ב • היה אמור להיפגש עם ראש המטות המשולבים ומפקד CENTCOM | ההחלטה התקבלה בשל העלאת הכוננות (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/08/27/3005ba90-a1f4-11f1-b2cb-e7d7501f167a__h2616_w3924.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[דרמת ענק באוויר: קטטה אלימה בין טייסים הובילה לשידור אות מצוקה | המטוס נחת בשדה תעופה בסעודיה]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85990</guid>
+            <pubDate>Wed, 30 Sep 2026 07:24:35 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה ושר הביטחון כ"ץ כינסו התייעצות ביטחונית דחופה • מתברר: קטטה בין הטייסים הובילה לדרמה שהכניסה את כל המזרח התיכון לדרמת ענק (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[הראשון לציון בהוראה לנציגים: "לא תקום ממשלה בלי שיבטיחו את מעמד תלמידי הישיבות"]]></title>
+            <link>https://www.kikar.co.il/haredim-news/tm615g</link>
+            <guid>85989</guid>
+            <pubDate>Wed, 30 Sep 2026 07:17:17 GMT</pubDate>
+            <description><![CDATA[הראשון לציון הגר"י יוסף מבהיר כי הסיעות החרדיות לא ייכנסו לממשלה הבאה ללא חוק גיוס והסדרת מעמד תלמידי הישיבות  ועונה לרבנית עדינה בר שלום שחברה לגדי איזנקוט: "תוך עקיצה למהלכיה של אחותו עדינה בר שלום: "מה המורשת של מרן? ללחוץ יד לאיזנקוט?" (חרדים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/19/f068b900-b459-11f1-a481-e33f948f3756__h1069_w1600.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[סקר מפתיע: איזנקוט מוביל עם 21 מנדטים אך גוש נתניהו משיג רוב של 53 מנדטים]]></title>
+            <link>https://www.kikar.co.il/political-news/netanyahu-bloc-leads-53-mandates-shas-yahadut-hato</link>
+            <guid>85988</guid>
+            <pubDate>Wed, 30 Sep 2026 07:06:44 GMT</pubDate>
+            <description><![CDATA[סקר ערוץ 16: איזנקוט מוביל עם 21 מנדטים, הליכוד 19 • ש"ס ועוצמה יהודית 8 כל אחת, יהדות התורה 7 | וינטר והנדל-זליכה עוברים את אחוז החסימה (פוליטי מדיני)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/08/26/31de7a00-a177-11f1-b2cb-e7d7501f167a__h533_w800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[אֲזַמִין לִסְעוּדָתִי אוּשְׁפִּיזִין עִילָאִין; הירושלמים נוהרים בהמוניהם לסקולען | צפו בגלריה]]></title>
+            <link>https://www.kikar.co.il/hasidism/tm60ku</link>
+            <guid>85987</guid>
+            <pubDate>Wed, 30 Sep 2026 07:02:35 GMT</pubDate>
+            <description><![CDATA[רבים מבני ירושלים נוהרים בימי המועד אל סוכתו של האדמו"ר מסקולען ברחוב חנה, שם מתרוממים בזמירות, שירות ותשבחות למלך ק-ל חי וקים במעמדי ההוד של שמחת בית השואבה | צפו בתיעוד מעריכת הטיש באחד מלילות השבוע (חסידים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/127c6ba0-bc9c-11f1-a481-e33f948f3756__h3648_w5472.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[סערה בארה"ב; שלטי ענק שהציבו יהודים נגד נתניהו עוררו הד תקשורתי בינלאומי - גם במדינות מוסלמיות]]></title>
+            <link>https://www.kikar.co.il/world-news/tm5yrd</link>
+            <guid>85986</guid>
+            <pubDate>Wed, 30 Sep 2026 07:02:06 GMT</pubDate>
+            <description><![CDATA[בעקבות נאומו של ראש הממשלה בנימין נתניהו באו"ם שבו תקף את ראש עיריית ניו יורק המוסלמי זוהר ממדני וטען כי יהודי ניו יורק אינם מרגישים בטוחים, ארגון קיצוני יצא בקמפיין שלטי חוץ רחב היקף בעלות של אלפי דולרים במוקד הפרסום המרכזי במנהטן | הקמפיין, תפס את כותרות כלי התקשורת המובילים בעולם הערבי, בטורקיה ובפקיסטן (חדשות בעולם)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/815dcb00-bc96-11f1-a481-e33f948f3756__h861_w1130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[דרמת ענק באוויר: קטטה אלימה בין טייסים הובילה לשידור אות מצוקה | המטוס נחת בשדה תעופה בסעודיה]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85985</guid>
+            <pubDate>Wed, 30 Sep 2026 06:55:08 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה ושר הביטחון כ"ץ כינסו התייעצות ביטחונית דחופה • מתברר: קטטה בין הטייסים הובילה לדרמה שהכניסה את כל המזרח התיכון לדרמת ענק (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[רבי נחמן מאומן; כך ציין הרבי הצינור את הילולת הרה"ק מברסלב זי"ע]]></title>
+            <link>https://www.kikar.co.il/hasidism/tm608n</link>
+            <guid>85984</guid>
+            <pubDate>Wed, 30 Sep 2026 06:54:59 GMT</pubDate>
+            <description><![CDATA[המונים נוהרים בלילי חול המועד אל סוכתו של האדמו"ר הצינור מקרעטשניף כפר אתא לשוש ולשמוח בשמחת בית השואבה | השבוע, בליל האושפיזין של יעקב אבינו, ערך הרבי את הטיש ברוב דבקות לרגל הילולת רבו, הרה"ק רבי נחמן מברסלב זי"ע (חסידים)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/09/30/064f0230-bc9b-11f1-88fa-bb761e31e3f3__h3648_w5472.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[הערכה בישראל: אירוע אלימות בין הטייסים הוביל לשידור אות מצוקה | המטוס נחת בשדה תעופה בסעודיה]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85983</guid>
+            <pubDate>Wed, 30 Sep 2026 06:51:21 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה ושר הביטחון כ"ץ כינסו התייעצות ביטחונית דחופה • מסתמן: קטטה בין הטייסים הובילה לדרמה שהכניסה את כל המזרח התיכון לדרמת ענק (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[חשד לחטיפת מטוס נוסעים מאבו דאבי לישראל | הטייס הפעיל אותות מצוקה, מטוסי חיל האוויר הוזנקו]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85982</guid>
+            <pubDate>Wed, 30 Sep 2026 06:46:49 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה  ומאז לא יצר קשר נוסף | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[חשד לחטיפת מטוס נוסעים מאבו דאבי לישראל | הטייס הפעיל אותות מצוקה, מטוסי חיל האוויר הוזנקו]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85981</guid>
+            <pubDate>Wed, 30 Sep 2026 06:40:50 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה  ומאז לא יצר קשר נוסף | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[חשד לחטיפת מטוס נוסעים מאבו דאבי לישראל | הטייס הפעיל אותות מצוקה, מטוסי חיל האוויר הוזנקו]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85980</guid>
+            <pubDate>Wed, 30 Sep 2026 06:36:01 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה  ומאז לא יצר קשר נוסף | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[חשד לחטיפת מטוס נוסעים מאבו דאבי לישראל | הטייס הפעיל אותות מצוקה, מטוסי חיל האוויר הוזנקו]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85979</guid>
+            <pubDate>Wed, 30 Sep 2026 06:30:12 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה  ומאז לא יצר קשר נוסף | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[החשד לחטיפת מטוס נוסעים: ראש הממשלה ושר הביטחון מכנסים התייעצות ביטחונית דחופה]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85978</guid>
+            <pubDate>Wed, 30 Sep 2026 06:28:54 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה  ומאז לא יצר קשר נוסף | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[החשד לחטיפת מטוס נוסעים בדרכו לתל אביב: מעל 150 נוסעים ישראלים על המטוס]]></title>
+            <link>https://www.kikar.co.il/security-news/flydubai-flight-emergency-pilot-fight</link>
+            <guid>85977</guid>
+            <pubDate>Wed, 30 Sep 2026 06:27:19 GMT</pubDate>
+            <description><![CDATA[טיסת פליי דובאי שעשתה את דרכה מדובאי לתל אביב ועליה נוסעים ישראלים הסתובבה מעל שמי ירדן | המטוס הפעיל קוד חירום ושידר מצוקה המעידה על חטיפה  ומאז לא יצר קשר נוסף | מטוסי קרב של צה"ל הוזנקו | ראש הממשלה נתניהו ושר הביטחון כ"ץ מכנסים התייעצות ביטחונית דחופה • מתעדכן (צבא וביטחון)]]></description>
+            <enclosure url="https://i.kikar.co.il/2026/05/03/621eb630-46b9-11f1-9b5f-41384fe39900__h1142_w1600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
