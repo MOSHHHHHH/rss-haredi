@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>רשימת RSS וחדשות</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans min-h-screen p-6">
+    <div class="max-w-4xl mx-auto space-y-8">
+        
+        <!-- כותרת ראשית -->
+        <header class="text-center bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+            <h1 class="text-3xl font-bold text-blue-600">RSS LIST</h1>
+            <p class="text-gray-500 mt-2">RSS LIST</p>
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            
+            <!-- סעיף רשימת חדשות מתוך JSON -->
+            <section class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                <h2 class="text-xl font-semibold mb-4 text-gray-700 border-b pb-2 flex items-center gap-2">
+                    <span>📰</span> כותרות לדוגמה
+                </h2>
+                <div id="news-container" class="space-y-3">
+                    <p class="text-gray-400 text-sm">טוען חדשות...</p>
+                </div>
+            </section>
+
+            <!-- סעיף כתובות RSS מתוך TXT -->
+            <section class="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+                <h2 class="text-xl font-semibold mb-4 text-gray-700 border-b pb-2 flex items-center gap-2">
+                    <span>🔗</span> רשימת כתובות RSS (list.txt)
+                </h2>
+                <div id="rss-container" class="space-y-2">
+                    <p class="text-gray-400 text-sm">טוען כתובות...</p>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <script>
+        // טעינת רשימת החדשות מתוך JSON
+        async function loadNews() {
+            const container = document.getElementById('news-container');
+            try {
+                const response = await fetch('./sample/news.json');
+                if (!response.ok) throw new Error('שגיאה בטעינת קובץ החדשות');
+                const newsItems = await response.json();
+
+                if (newsItems.length === 0) {
+                    container.innerHTML = '<p class="text-gray-500 text-sm">אין פריטים להצגה.</p>';
+                    return;
+                }
+
+                container.innerHTML = newsItems.map(item => `
+                    <div class="p-3 bg-gray-50 rounded-lg hover:bg-blue-50 transition border border-gray-100">
+                        <a href="${item.link}" target="_blank" class="font-medium text-blue-600 hover:underline block">
+                            ${item.title}
+                        </a>
+                        <span class="text-xs text-gray-400 mt-1 block">${new Date(item.time).toLocaleString('he-IL')}</span>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error(error);
+                container.innerHTML = '<p class="text-red-500 text-sm">לא ניתן לטעון את קובץ ה-JSON (יש לוודא הרצה דרך שרת מקומי או GitHub Pages).</p>';
+            }
+        }
+
+        // טעינת כתובות ה-RSS מתוך קובץ הטקסט
+        async function loadRssList() {
+            const container = document.getElementById('rss-container');
+            try {
+                const response = await fetch('./list.txt');
+                if (!response.ok) throw new Error('שגיאה בטעינת קובץ הרשימה');
+                const text = await response.text();
+                
+                // פיצול שורות והסרת שורות ריקות
+                const urls = text.split('\n').map(url => url.trim()).filter(url => url.length > 0);
+
+                if (urls.length === 0) {
+                    container.innerHTML = '<p class="text-gray-500 text-sm">הרשימה ריקה.</p>';
+                    return;
+                }
+
+                container.innerHTML = urls.map(url => `
+                    <div class="p-2 bg-gray-50 rounded-lg hover:bg-gray-100 transition border border-gray-100 flex items-center justify-between">
+                        <a href="${url}" target="_blank" class="text-sm text-gray-700 hover:text-blue-600 truncate max-w-[280px]" title="${url}">
+                            ${url}
+                        </a>
+                        <a href="${url}" target="_blank" class="text-xs bg-blue-100 text-blue-600 px-2 py-1 rounded shrink-0">פתח פיד</a>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error(error);
+                container.innerHTML = '<p class="text-red-500 text-sm">לא ניתן לטעון את קובץ ה-TXT.</p>';
+            }
+        }
+
+        // הפעלת הטעינה בטעינת העמוד
+        window.onload = () => {
+            loadNews();
+            loadRssList();
+        };
+    </script>
+</body>
+</html>
