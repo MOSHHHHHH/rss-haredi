@@ -12,7 +12,7 @@
 	<atom:link href="https://hm-news.co.il/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hm-news.co.il</link>
 	<description>כל מה שחדש במגזר החרדי</description>
-	<lastBuildDate>Wed, 30 Sep 2026 20:21:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 04:08:40 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>עשרות רבנים באמירת מזמור לתודה בעקבות נס ההצלה במטוס</title>
+		<link>https://hm-news.co.il/659094/</link>
+					<comments>https://hm-news.co.il/659094/#respond</comments>
+		
+		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 19:04:00 +0000</pubDate>
+				<category><![CDATA[חרדים]]></category>
+		<category><![CDATA[הרב זבדיה כהן]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=659094</guid>
+
+					<description><![CDATA["צריך להיות עיוור כדי לא לראות את הניסים": בסוכתו של הרה"ר לתל אביב הרב זבדיה כהן התייחס הרה"ר לישראל הגאון רבי קלמן מאיר בר לנס ההצלה במטוס פליי דובאי, וקרא יחד עם כלל המשתתפים מזמור לתודה • צילום: משה ערבה]]></description>
+										<content:encoded><![CDATA[<figure class="hm-bunny-video"><div class="hm-bunny-video__frame"><iframe class="hm-bunny-video__iframe" src="https://iframe.mediadelivery.net/embed/261698/4d301b98-4217-475c-84d3-2c648a52276c?autoplay=false&#038;loop=false&#038;muted=false&#038;preload=false&#038;responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen title="נגן וידאו"></iframe></div></figure>]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/659094/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>גם כשכואב: השיעור של משה רבנו &#124; הרב אברהם שוורץ</title>
 		<link>https://hm-news.co.il/659084/</link>
 					<comments>https://hm-news.co.il/659084/#respond</comments>
@@ -805,37 +824,5 @@
 			<media:rating scheme="urn:simple">nonadult</media:rating>
 		</media:content>
 	</item>
-		<item>
-		<title>נציגי &#039;יהדות התורה&#039; התכנסו לישיבת סיעה חגיגית בסוכת היו&#034;ר</title>
-		<link>https://hm-news.co.il/658838/</link>
-					<comments>https://hm-news.co.il/658838/#respond</comments>
-		
-		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 16:35:26 +0000</pubDate>
-				<category><![CDATA[פוליטי]]></category>
-		<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[בחירות 2026]]></category>
-		<category><![CDATA[יהדות התורה]]></category>
-		<category><![CDATA[יעקב אשר]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=658838</guid>
-
-					<description><![CDATA[לקראת מערכת הבחירות, נציגי 'יהדות התורה' דגל התורה ואגו"י קיימו ישיבת סיעה חגיגית בסימן אחדות • חברי הסיעה דנו באתגרים הגורליים והדגישו את ההתגייסות המשותפת לשמירה על חזית מאוחדת]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">לקראת מערכת הבחירות הגורלית, התכנסו היום (רביעי) נציגי 'יהדות התורה' &#8211; דגל התורה ואגו&quot;י לישיבת סיעה חגיגית, שנערכה בסוכתו של יו&quot;ר יהדות התורה ח&quot;כ יעקב אשר.</p>
-
-
-
-<p class="wp-block-paragraph">במהלך הישיבה עמדו המועמדים לחברי הכנסת על רצונם של גדולי ישראל לאחדות השורות בין כלל הנציגים ושמירה על חזית מאוחדת, וציינו כי כלל הנציגים, הוותיקים והחדשים כאחד, פועלים יחד מתוך תחושת שליחות ומטרה משותפת.</p>
-
-
-
-<p class="wp-block-paragraph">בהמשך המפגש, דנו חברי הסיעה באתגרי מערכת הבחירות הגורלית שבפתח, תוך סיכום על המשך התיאום ושיתוף הפעולה בין כלל חברי המפלגה לטובת הצלחת המערכה.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/658838/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
 	</channel>
 </rss>
