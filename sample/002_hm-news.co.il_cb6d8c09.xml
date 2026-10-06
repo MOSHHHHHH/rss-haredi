@@ -12,7 +12,7 @@
 	<atom:link href="https://hm-news.co.il/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hm-news.co.il</link>
 	<description>כל מה שחדש במגזר החרדי</description>
-	<lastBuildDate>Mon, 05 Oct 2026 21:07:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Oct 2026 21:22:50 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>בשפה ברורה: הצטרפו ללימוד הדף היומי – בכורות דף י&#034;ח</title>
+		<link>https://hm-news.co.il/660369/</link>
+					<comments>https://hm-news.co.il/660369/#respond</comments>
+		
+		<dc:creator><![CDATA[יוחאי דנינו]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 04:45:00 +0000</pubDate>
+				<category><![CDATA[בית המדרש]]></category>
+		<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[הדף היומי]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=660369</guid>
+
+					<description><![CDATA[אתר 'המחדש' בשיתוף מכון הדרן, מגישים את הדף היומי עם הסבר קצר ושווה לכל נפש • הצטרפו עוד היום לרבבות לומדי הדף היומי • האזינו]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://hm-news.co.il/wp-content/uploads/2026/10/Bechorot-018.mp3"></audio></figure>
+
+
+
+<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hm-news.co.il/wp-content/uploads/2026/10/018.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="הטמעה של 018."></object><a id="wp-block-file--media-282bfa1c-e659-4990-aea2-f507cbd80406" href="https://hm-news.co.il/wp-content/uploads/2026/10/018.pdf">018</a><a href="https://hm-news.co.il/wp-content/uploads/2026/10/018.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-282bfa1c-e659-4990-aea2-f507cbd80406">הורד</a></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/660369/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://hm-news.co.il/wp-content/uploads/2026/10/Bechorot-018.mp3" length="1121034" type="audio/mpeg" />
+
+			</item>
+		<item>
 		<title>טבריה: תינוק בן חמישה חודשים פונה תוך כדי החייאה</title>
 		<link>https://hm-news.co.il/660367/</link>
 					<comments>https://hm-news.co.il/660367/#respond</comments>
@@ -642,50 +673,5 @@
 			<media:rating scheme="urn:simple">nonadult</media:rating>
 		</media:content>
 	</item>
-		<item>
-		<title>אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;</title>
-		<link>https://hm-news.co.il/660249/</link>
-					<comments>https://hm-news.co.il/660249/#respond</comments>
-		
-		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 16:44:26 +0000</pubDate>
-				<category><![CDATA[גלריות]]></category>
-		<category><![CDATA[היכלי הישיבות]]></category>
-		<category><![CDATA[וידאו]]></category>
-		<category><![CDATA[סטוריז]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=660249</guid>
-
-					<description><![CDATA[מעמד ההקפות השניות בישיבת "משכנות התורה" בבני ברק בראשות ראש הישיבה הגאון רבי אפרים כהן שליט"א והמשגיח הגאון הצדיק רבי משה דוד ליפקוביץ שליט"א וכלל רבני הישיבה יחד עם מאות בני הישיבה, בוגרים, ותושבי העיר • פסגת המעמד היה כאשר פתח המשגיח הגרמ"ד ליפקוביץ שליט"א בשירת 'אנא עבדא דקדשא בריך הוא' יחד עם ראש הישיבה ומאות מתלמידי הישיבה • צילום: ש.פ.ה]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-gallery has-nested-images columns-1 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660250" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9245-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660250" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9245-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9245-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9245-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9245-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9245-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660251" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9246-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660251" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9246-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9246-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9246-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9246-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9246-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660252" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9247-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660252" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9247-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9247-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9247-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9247-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9247-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660253" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9248-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660253" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9248-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9248-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9248-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9248-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9248-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">צילום: ש.פ.ה</figcaption></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660260" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9240-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660260" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9240-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9240-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9240-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9240-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9240-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660261" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9241-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660261" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9241-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9241-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9241-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9241-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9241-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660256" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9242-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660256" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9242-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9242-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9242-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9242-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9242-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660254" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9244-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660254" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9244-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9244-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9244-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9244-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9244-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="660257" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9227-1024x683.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660257" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9227-1024x683.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9227-300x200.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9227-768x512.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9227-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660255" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9237-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660255" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9237-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9237-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9237-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9237-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9237-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660258" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9238-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660258" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9238-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9238-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9238-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9238-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9238-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="660259" src="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9239-1024x768.jpg" alt="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" class="wp-image-660259" title="אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא: הקפות שניות ב&#039;משכנות התורה&#039;" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9239-1024x768.jpg 1024w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9239-300x225.jpg 300w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9239-768x576.jpg 768w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9239-420x315.jpg 420w, https://hm-news.co.il/wp-content/uploads/2026/10/IMG_9239-scaled.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/660249/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
 	</channel>
 </rss>
