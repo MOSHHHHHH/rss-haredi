@@ -13,7 +13,7 @@
 	<atom:link href="https://www.emess.co.il/feed" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>מקבוצת קול חי</description>
-	<lastBuildDate>Thu, 08 Oct 2026 19:57:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Oct 2026 21:41:30 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>&#034;לא להפריע ללומדי התורה, אלא לעודד אותם&#034;</title>
 		<link>https://www.emess.co.il/radio/1940968</link>
-					<comments>https://www.emess.co.il/radio/1940968#respond</comments>
+					<comments>https://www.emess.co.il/radio/1940968#comments</comments>
 		
 		<dc:creator><![CDATA[שניאור כהן]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2026 19:57:17 +0000</pubDate>
@@ -48,7 +48,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1940968/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
@@ -95,7 +95,7 @@
 		
 		<dc:creator><![CDATA[יהודה קדם]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2026 18:59:09 +0000</pubDate>
-				<category><![CDATA[כללי]]></category>
+				<category><![CDATA[פרשת השבוע חדש]]></category>
 		<category><![CDATA[ווארט לפרשה]]></category>
 		<category><![CDATA[מני גירא שוורץ]]></category>
 		<category><![CDATA[פרשת בראשית]]></category>
@@ -245,7 +245,7 @@
 		<item>
 		<title>הטיול הסתבך: אב ובתו מביתר נתקעו בלב היער</title>
 		<link>https://www.emess.co.il/radio/1940934</link>
-					<comments>https://www.emess.co.il/radio/1940934#respond</comments>
+					<comments>https://www.emess.co.il/radio/1940934#comments</comments>
 		
 		<dc:creator><![CDATA[שניאור כהן]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2026 18:30:30 +0000</pubDate>
@@ -266,14 +266,14 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1940934/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>אחרי הנסיעה לאומן: המהלך החדש בנתב&#034;ג נגד &#039;עריקים&#039;</title>
 		<link>https://www.emess.co.il/radio/1940933</link>
-					<comments>https://www.emess.co.il/radio/1940933#respond</comments>
+					<comments>https://www.emess.co.il/radio/1940933#comments</comments>
 		
 		<dc:creator><![CDATA[שניאור כהן]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2026 18:30:22 +0000</pubDate>
@@ -297,14 +297,14 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1940933/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>הותר לפרסום: אליאב חיים צפלמוס הי&#034;ד נפל בדרום לבנון</title>
 		<link>https://www.emess.co.il/radio/1940932</link>
-					<comments>https://www.emess.co.il/radio/1940932#respond</comments>
+					<comments>https://www.emess.co.il/radio/1940932#comments</comments>
 		
 		<dc:creator><![CDATA[שניאור כהן]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2026 18:24:38 +0000</pubDate>
@@ -329,7 +329,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1940932/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>3</slash:comments>
 		
 		
 			</item>
@@ -376,7 +376,7 @@
 		<item>
 		<title>בוסו נגד בן גביר: &#034;מכתבים בשביל פוליטיקה&#034;</title>
 		<link>https://www.emess.co.il/radio/1940885</link>
-					<comments>https://www.emess.co.il/radio/1940885#respond</comments>
+					<comments>https://www.emess.co.il/radio/1940885#comments</comments>
 		
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2026 18:03:12 +0000</pubDate>
@@ -411,7 +411,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1940885/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
