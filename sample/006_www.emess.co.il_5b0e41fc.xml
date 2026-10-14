@@ -13,7 +13,7 @@
 	<atom:link href="https://www.emess.co.il/feed" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>מקבוצת קול חי</description>
-	<lastBuildDate>Wed, 14 Oct 2026 20:02:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Oct 2026 20:29:58 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -58,7 +58,7 @@
 		<item>
 		<title>ההרוג באסון בביתר עילית: הילד אליהו עזריאל ז&#034;ל בן ה-9</title>
 		<link>https://www.emess.co.il/radio/1944116</link>
-					<comments>https://www.emess.co.il/radio/1944116#respond</comments>
+					<comments>https://www.emess.co.il/radio/1944116#comments</comments>
 		
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Wed, 14 Oct 2026 19:46:08 +0000</pubDate>
@@ -87,7 +87,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1944116/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
@@ -161,7 +161,7 @@
 		<item>
 		<title>ניתוח בזהות בדויה: שב&#034;חית מחברון נעצרה בבילינסון</title>
 		<link>https://www.emess.co.il/radio/1944110</link>
-					<comments>https://www.emess.co.il/radio/1944110#respond</comments>
+					<comments>https://www.emess.co.il/radio/1944110#comments</comments>
 		
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Wed, 14 Oct 2026 19:08:46 +0000</pubDate>
@@ -187,7 +187,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.emess.co.il/radio/1944110/feed</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
@@ -458,7 +458,7 @@
 		<category><![CDATA[מועצת חכמי התורה]]></category>
 		<guid isPermaLink="false">https://www.emess.co.il/?p=1944071</guid>
 
-					<description><![CDATA[<p>חברי מועצת חכמי התורה שלחו מכתבים נרגשים ומחזקים לאסיר עולם התורה הבחור החשוב אליהו דבדה שנשפט ל-20 ימי מאסר ב'עוון' לימוד תורה. "אל תפול רוחך. אנחנו יודעים שהמציאות בה אתה במעצר אינה קלה"</p>
+					<description><![CDATA[<p>חברי מועצת החכמים שלחו מכתבים נרגשים ומחזקים לאסיר עולם התורה הבחור החשוב אליהו דבדה שנשפט ל-20 ימי מאסר ב'עוון' לימוד תורה. "אל תפול רוחך. אנחנו יודעים שהמציאות בה אתה במעצר אינה קלה"</p>
 <p>The post <a href="https://www.emess.co.il/radio/1944071">&quot;כולנו איתך&quot;: חברי המועצת שלחו מכתבים לאליהו דבדה</a> appeared first on <a href="https://www.emess.co.il">אמס MS</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>בעקבות שפיטתו של הבחור אליהו דבדה ל-20 ימי מאסר בכלא הצבאי, יצאו חברי מועצת חכמי התורה במכתבי חיזוק מיוחדים ונרגשים אל בין כותלי הכלא בסיוע של ארגון &quot;עם קדוש&quot;.</p>
