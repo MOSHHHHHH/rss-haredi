@@ -12,7 +12,7 @@
 	<atom:link href="https://hm-news.co.il/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hm-news.co.il</link>
 	<description>כל מה שחדש במגזר החרדי</description>
-	<lastBuildDate>Wed, 28 Oct 2026 10:46:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 16:51:15 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,407 +28,749 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>החורף מגיע ואיתו הבית החדש שלכם באבני החושן</title>
-		<link>https://hm-news.co.il/664799/</link>
-					<comments>https://hm-news.co.il/664799/#respond</comments>
+		<title>אנדרטאות נהרסו ומבוקשים נעצרו: המבצע הדרמטי בשומרון</title>
+		<link>https://hm-news.co.il/664870/</link>
+					<comments>https://hm-news.co.il/664870/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 16:51:13 +0000</pubDate>
+				<category><![CDATA[צבא וביטחון]]></category>
+		<category><![CDATA[וידאו]]></category>
+		<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[סטוריז]]></category>
+		<category><![CDATA[צה"ל]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664870</guid>
+
+					<description><![CDATA[כוחות הביטחון הרסו בביתא את בתי שני המחבלים שביצעו שלושה פיגועים, ועצרו בכפר יאציד שני חשודים בסחר ובייצור מטענים • במהלך המבצע נסרקו כ־300 איתורים, הוחרמו כלי נשק ותחמושת ונהרסו 12 אנדרטאות של מחבלים ומסיתים לטרור]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">72 שעות של במבצע ממוקד לסיכול טרור בשמונה כפרים שונים ובעיר שכם:  כוחות חטיבת שומרון ויחידת יהל״ם הרסו הבוקר (רביעי) את בתיהם של שני מחבלים בכפר ביתא שבשומרון, שביצעו שלושה פיגועי טרור באמצעות מטעני נפץ במהלך השנים 2024 ו־2025. בשניים מהפיגועים נפצעו אנשי כוחות הביטחון.</p>
+
+
+
+<p class="wp-block-paragraph">המחבלים, זכריה מחמד עבד דאוד ואבראהים עבד אלכרים עבד דאוד, עמדו מאחורי הפיגועים שבוצעו לאורך התקופה. הריסת הבתים בוצעה במסגרת פעילות כוחות הביטחון במרחב.</p>
+
+
+<figure class="hm-bunny-video"><div class="hm-bunny-video__frame"><iframe class="hm-bunny-video__iframe" src="https://iframe.mediadelivery.net/embed/261698/fd7a109e-6604-4265-a1f2-64b0a0bed06c?autoplay=false&#038;loop=false&#038;muted=false&#038;preload=false&#038;responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen title="נגן וידאו"></iframe></div></figure>
+
+
+<p class="wp-block-paragraph">במקביל, בכפר יאציד פעלו לוחמי יחידת דובדבן ועצרו, בהכוונת שב״כ, מחבל החשוד בסחר במטענים ובאמצעי לחימה ובהעברתם לחוליית טרור. בפעילות נוספת באותו הכפר עצרו לוחמי ימ״ס איו״ש מבוקש שעסק בייצור מטענים ונשקים, בסחר באמצעי לחימה ובתכנון פיגועים.</p>
+
+
+
+<p class="wp-block-paragraph">במסגרת המערכה נגד הסתה לטרור, הרסו כוחות הביטחון 12 אנדרטאות של מחבלים הקשורים לפיגועים ולהסתה לטרור. לפי הודעת כוחות הביטחון, הפעילות בוצעה כחלק מתוכניות עבודה שאושרו מראש ומהמאמצים המתמשכים בתחום.</p>
+
+
+
+<p class="wp-block-paragraph">במהלך המבצע סרקו לוחמי צה״ל כ־300 איתורים, עצרו שמונה מבוקשים ואיתרו והחרימו אמצעי לחימה, בהם נשק ציידים, אקדח ותחמושת.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664870/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>נתניהו יפרוש מהחיים הפוליטיים? הדיל של הרצוג לממשלת אחדות</title>
+		<link>https://hm-news.co.il/664868/</link>
+					<comments>https://hm-news.co.il/664868/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 16:39:25 +0000</pubDate>
+				<category><![CDATA[פוליטי]]></category>
+		<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[בחירות 2026]]></category>
+		<category><![CDATA[בנימין נתניהו]]></category>
+		<category><![CDATA[יצחק הרצוג]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664868</guid>
+
+					<description><![CDATA[נחשף מתווה הרצוג לממשלת אחדות – רוטציה שבה נתניהו יכהן ראשון שנתיים, יפרוש מהפוליטיקה ויקבל חנינה • בבית הנשיא ממהרים להכחיש בתוקף וטוענים: "פייק מוחלט, לא היה ולא נברא". ההכרעה תתקבל רק לאחר הגשת התוצאות הרשמיות]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">מהלך דרמטי מתרחש מאחורי הקלעים במטרה להביא לפתרון המבוך הפוליטי והפלונטר בין הגושים, כאשר נשיא המדינה יצחק הרצוג פועל לגבש מתווה להקמת ממשלת אחדות לאומית בין נתניהו לאיזנקוט.</p>
+
+
+
+<p class="wp-block-paragraph">כפי שחשף העיתונאי מוטי קסטל בערוץ 14, המתווה המתגבש מציע ממשלת רוטציה שבמסגרתה בנימין נתניהו יכהן ראשון בתפקיד ראש הממשלה במשך שנתיים נוספות. בתמורה לכך, נתניהו יתחייב לפרוש כליל מהחיים הפוליטיים בתום התקופה &#8211; ויקבל חנינה מלאה.</p>
+
+
+
+<p class="wp-block-paragraph">במידה והתוכנית תצא לפועל, נתניהו יעמוד על כך שיכהן ראשון בתפקיד. עמדה זו נובעת מהרצון לנצל את חלון ההזדמנויות ההיסטורי של עבודה משותפת לצד נשיא ארה&quot;ב דונלד טראמפ בשנתיים הקרובות, לצד החשש הכבד מהקמת ממשלת שמאל הנשענת על גורמים תומכי טרור – תרחיש שעלול להוביל לביטול הישגי המערכה ולנסיגה מוחלטת ממוקדי הלחימה בעזה, בלבנון, בסוריה ומול איראן.</p>
+
+
+
+<p class="wp-block-paragraph">בעקבות הפרסום הגיבו בבית הנשיא בביטול מוחלט והכחישו את הדברים: &quot;פייק מוחלט, לא היה ולא נברא. לא עוסקים בספקולציות באשר להליך הטלת המנדט להרכבת הממשלה. תוצאות הבחירות הרשמיות יוגשו לנשיא המדינה רק ביום רביעי הבא, כפי שעדכן השופט סולברג. לאחר מכן יקיים הנשיא את ההתייעצויות עם הסיעות וישקול את הדברים בהתאם לסמכות ולשיקול הדעת הרחב המסורים לו על פי חוק&quot;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664868/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>בר מצווה מאוחרת: הטייס שהתגלה כיהודי והניח תפילין לראשונה בחייו</title>
+		<link>https://hm-news.co.il/664865/</link>
+					<comments>https://hm-news.co.il/664865/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 16:25:18 +0000</pubDate>
+				<category><![CDATA[חרדים]]></category>
+		<category><![CDATA[הרב יצחק דוד גרוסמן]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664865</guid>
+
+					<description><![CDATA[בגובה של כ־30 אלף רגל, הרב יצחק דוד גרוסמן זיהה את הטייס כיהודי וגילה שמעולם לא הניח תפילין • לאחר הנחיתה בקנדה נערך לו טקס בר מצווה מרגש למרגלות המטוס, עם תפילין וריקודי שמחה]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">כל מסע של אבי תנועת הקירוב הרב יצחק דוד גרוסמן מוליד סיפור של קירוב יהודים לאביהם שבשמים, והפעם, זה היה בגובה של כשלושים אלף רגל מעל פני האדמה, במטוס שעושה את דרכו מניו יורק לטורנטו שבקנדה.</p>
+
+
+
+<p class="wp-block-paragraph">הרב גרוסמן העושה את הימים האחרונים בארה&quot;ב עבור אלפי חניכי מוסדות 'מגדל אור' נסע השבוע במטוס פרטי, תרומת ידידי המוסדות, לקנדה. בדרך, האורכת כשעה וחצי, יצא הטייס מהקוקפיט ובירך לשלום את הנוסעים.</p>
+
+
+
+<p class="wp-block-paragraph">הרב גרוסמן לחץ את ידו ומיד אמר בנחרצות: &quot;יו אר ג'ואיש &#8211; אתה יהודי&quot;. התשובה של הטייס המופתע הייתה קריאת &quot;וואו, איי אם א ג'ו!&quot; (- אכן. אני יהודי).<br>לאחר מכן, שאלו אם הניח כבר תפילין היום, אך הטייס אמר שמעולם לא הניח תפילין. &quot;גם ביום הבר מצוה לא הנחת?&quot;, ניסה הרב גרוסמן לסנגר, אבל הטייס, שהיה תינוק שנשבה, ענה: &quot;אין לי דבר עם היהדות, גם בר מצוה לא נערכה לי&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">בשלב הזה, הרב גרוסמן שמלווה בנכדו הרב דוב בעריש הניג, שליח הרבי מליובאוויטש בצ'נגדו שבסין, החליטו כי הם יחגגו לו בר מצוה מיד עם הנחיתה. ואכן, לאחר הנחיתה הניחו לו תפילין למרגלות המטוס בהתרגשות והתעוררות רבה, ולאחר מכן יצאו במחול ובריקוד &quot;סימן טוב ומזל טוב&quot; לכבודה של מצווה ובר מצוה שנערכה באיחור, תוך כדי שעוד ניצוץ נדלק ועוד לב יהודי שב אל בוראו.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664865/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>הליכוד דורש חקירת שב&#034;כ: &#034;הבחירות נגנבו על ידי מפלגות ערביות&#034;</title>
+		<link>https://hm-news.co.il/664862/</link>
+					<comments>https://hm-news.co.il/664862/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 16:16:57 +0000</pubDate>
+				<category><![CDATA[פוליטי]]></category>
+		<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[בחירות 2026]]></category>
+		<category><![CDATA[הליכוד]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664862</guid>
+
+					<description><![CDATA[הליכוד טוען כי תוצאות הבחירות נגנבו בקלפיות הערביות באמצעות זיופים, שוחד ואיומים, ודורש חקירה דחופה • בהודעה שפרסמה המפלגה נכתבכי היא העבירה למשטרה ולשב"כ מאות עדויות וראיות קשות, וקוראת לוועדת הבחירות להתערב מיידית  ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">אחרי תוצאות הבחירות לכנסת: הליכוד פרסם היום (רביעי) הודעה חריפה בעקבות הבחירות, ובה טען לעבירות פליליות חמורות בקלפיות ערביות, שלטענתו פגעו בטוהר ההצבעה. במפלגה דורשים מהמשטרה, מהשב״כ ומוועדת הבחירות המרכזית לפתוח בחקירה מיידית ולבדוק את הטענות.</p>
+
+
+
+<p class="wp-block-paragraph">בפתח הודעתו הציג הליכוד את טענתו המרכזית בנוגע לתוצאות הבחירות, והאשים את המפלגות הערביות במעשים פליליים חמורים: &quot;הבחירות במדינת ישראל נגנבו על ידי מפלגות ערביות שתומכות בטרור ובחיסול המדינה היהודית באמצעות עבירות פליליות חמורות של שוחד, איומים, אלימות, זיופים ושימוש בתוכנות אסורות להמרצת מצביעים.</p>
+
+
+
+<p class="wp-block-paragraph">בהמשך ההודעה טען הליכוד כי בידיו תיעוד ועדויות למקרים שלטענתו התרחשו בקלפיות שונות: &quot;מפלגת הליכוד מעבירה למשטרה, לשב״כ ולוועדת הבחירות מאות עדויות וראיות על גניבת בחירות בקלפיות ערביות רבות- אלפי מעטפות עם כסף מזומן ופתקי רע״ם, איומים ואלימות כלפי חברי הקלפי, ריבוי מצביעים מאחורי הפרגוד, הצבעות בזהות כפולה, פערים בין מספר המעטפות למספר המצביעים, שימוש בתוכנות המרצה אסורות ועוד&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">על רקע הטענות, במפלגה פנו למשטרה ולשב״כ בדרישה לפתוח בבדיקה מקיפה: &quot;אנו דורשים מהמשטרה ומהשב״כ חקירה יסודית בגין גניבת הבחירות על ידי המפלגות הערביות ומיצוי הדין עם העבריינים&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">הליכוד הפנה דרישה נפרדת גם לוועדת הבחירות המרכזית, וקרא לה להתייחס בדחיפות לחשדות שהועלו: &quot;אנו דורשים מוועדת הבחירות התייחסות מיידית לחקירת העבירות הפליליות הללו שפגעו באופן קיצוני בטוהר הבחירות בישראל ובתוצאות הבחירות&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">את הודעתו חתם הליכוד בקריאה לגופי האכיפה לפעול במהירות, תוך הדגשת חומרת הדברים מבחינת המפלגה: &quot;זו פגיעה חמורה בדמוקרטיה הישראלית ובזכות הבחירה של אזרחי ישראל. גופי האכיפה מוכרחים לפעול ביד קשה ובאופן מיידי&quot;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664862/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>כולם יודעים מה בריא. אז למה כל כך קשה להשתנות?</title>
+		<link>https://hm-news.co.il/664418/</link>
+					<comments>https://hm-news.co.il/664418/#respond</comments>
 		
 		<dc:creator><![CDATA[מערכת המחדש תוכן שיווקי]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 10:46:51 +0000</pubDate>
+		<pubDate>Wed, 28 Oct 2026 16:11:13 +0000</pubDate>
 				<category><![CDATA[תוכן שיווקי]]></category>
-		<category><![CDATA[המחדש חדשות]]></category>
-		<category><![CDATA[חדשות חרדים]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664799</guid>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664418</guid>
 
-					<description><![CDATA[במרכז הארץ, בשכונה תורנית חדשה, בית גדול ומרווח עם כל מה שחשוב למשפחה שלכם 🌑 ועכשיו בהזדמנות נדירה: הפנינג הטבות החורף בפרויקט אבני חושן ברמלה, הטבת מיזוג אוויר חכם בשווי 25,000 ₪ וחבילת הטבות נוספת ששווה לכם הרבה מאוד כסף.
-]]></description>
+					<description><![CDATA[אחרי שנים של התמודדות אישית עם משקל ובריאות, ואחרי עבודה עם אלפי אנשים, הגעתי למסקנה שהבעיה הגדולה בעולם הבריאות אינה מחסור בידע. הבעיה היא הפער שבין לדעת מה נכון, לבין להצליח להפוך את הידע הזה לחיים עצמם.]]></description>
 										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">יש החלטות שמשפיעות על החיים לשנים קדימה. הבחירה בבית היא אחת מהן: היכן הילדים יגדלו, מי יהיו השכנים, איך ייראה סדר היום ואיזו תחושה תלווה אתכם בכל פעם שתחזרו הביתה.<br>כשבוחנים דירה חדשה, מחפשים את המקום שבו כל הדברים החשובים האלה נפגשים. הפנינג הטבות החורף באבני חושן הוא ההזדמנות שלכם להכיר מקרוב בדיוק את המקום הזה, ולגלות מה תוכלו לקבל עכשיו בדרך לבית הבא.</p>
+<p class="wp-block-paragraph">יש היום יותר מידע על בריאות מאי פעם.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>כל היתרונות שאתם מחפשים, במקום אחד</strong></p>
+<p class="wp-block-paragraph">אנשים יודעים שכדאי לאכול נכון, לזוז ולישון טוב יותר. המידע נמצא בכל מקום.</p>
 
 
 
-<p class="wp-block-paragraph">פרויקט אבני חושן ממוקם במערב רמלה, מול שכונת נאות שמיר ובקרבת כביש 200, הוא מציע סביבת מגורים מתקדמת שתוכננה מתוך מחשבה על אורח החיים של המשפחה. שכונה שומרת שבת, מרפסות סוכה, מעליות שבת ועירוב מהודר, לצד מוסדות ושטחי מסחר מגוונים קרוב לבית, כל אלה מצטרפים לתמונה אחת: בית שמתאים לצרכים שלכם, בסביבה פסטורלית, שקטה ויפה.</p>
+<p class="wp-block-paragraph">ובכל זאת, רבים מהם לא מצליחים להשתנות לאורך זמן.</p>
 
 
 
-<p class="wp-block-paragraph">זו האפשרות לפתוח פרק חדש בפרויקט שכבר הפך לסמל לעתיד הדיור בציבור החרדי, מאות משפחות כבר בחרו להישאר במרכז, במחיר שפוי בלי להתפשר על שום דבר.<br>עכשיו, במסגרת הפנינג החורף, מתווספת לכל היתרונות האלה גם חבילת הטבות שכדאי להכיר לפני שמחליטים איפה יהיה הבית החדש.</p>
-
-
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="758" height="548" src="https://hm-news.co.il/wp-content/uploads/2026/10/card-2-CxYLDxsc.jpg" alt="החורף מגיע ואיתו הבית החדש שלכם באבני החושן" class="wp-image-664802" title="החורף מגיע ואיתו הבית החדש שלכם באבני החושן" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/card-2-CxYLDxsc.jpg 758w, https://hm-news.co.il/wp-content/uploads/2026/10/card-2-CxYLDxsc-300x217.jpg 300w" sizes="(max-width: 758px) 100vw, 758px" /></figure>
-
-
-<p class="wp-block-paragraph"><strong>הטבה בשווי 25,000 ש&quot;ח זו רק ההתחלה</strong></p>
+<p class="wp-block-paragraph">אחרי שנים של עבודה עם אנשים הגעתי למסקנה שהשאלה מתחילה במקום אחר.</p>
 
 
 
-<p class="wp-block-paragraph">במסגרת הפנינג הטבות החורף, <a href="https://avnei-hoshen.co.il/14/?utm_source=hm-news" data-type="link" data-id="https://avnei-hoshen.co.il/14/?utm_source=hm-news" target="_blank" rel="noopener">פרויקט אבני חושן </a>מציע לרוכשים הטבת מיזוג אוויר חכם בשווי <strong>25,000 ₪</strong>. כשמתכננים מעבר לדירה חדשה ומחשבים את ההוצאות הנלוות, זו הטבה משמעותית שהופכת את העסקה המשתלמת בלאו הכי, לכדאית אפילו יותר.</p>
+<p class="wp-block-paragraph">אם ידע היה מספיק, רוב האנשים כבר היו בריאים.</p>
 
 
 
-<p class="wp-block-paragraph">מעבר להטבת המיזוג, מחכה לכם <strong>חבילת הטבות נוספת, ששווה הרבה מאוד כסף</strong>. את מלוא פרטי החבילה, שוויה ותנאיה תקבלו בפגישה עם צוות השיווק של הפרויקט. זה בדיוק הזמן להגיע, לשמוע ולבחון את ההצעה המלאה: כדי להבין מה פרויקט אבני חושן יכול לתת למשפחה שלכם, איך הוא נכנס בתקציב שלכם ומה עוד אתם מקבלים במסגרת הפנינג החורף המיוחד.</p>
+<p class="wp-block-paragraph">הבעיה היא איך לוקחים את הידע ומכניסים אותו לבית אמיתי. לעבודה. לעומס. לחגים. לימים עייפים. ליום שבו הכול משתבש.</p>
 
 
 
-<p class="wp-block-paragraph"><strong>הצעד הבא לבית שלכם מתחיל בפגישה</strong></p>
+<p class="wp-block-paragraph"><strong>הפער הגדול בעולם הבריאות אינו בין חוסר ידע לידיעה. הוא בין ידיעה ליישום</strong><strong>.</strong></p>
 
 
 
-<p class="wp-block-paragraph">אם אתם מחפשים בית בסביבה שמתאימה לכם, עם חיי קהילה תוססים, שטחים ירוקים ומקום רגוע לגדל בו ילדים, זה הזמן להכיר את אבני חושן. בואו להתרשם מהפרויקט, לבדוק את אפשרויות הרכישה ולגלות את כל ההטבות שמחכות לכם במסגרת הפנינג החורף.</p>
+<p class="wp-block-paragraph"><strong>הרגע שבו הכול השתנה</strong><strong></strong></p>
 
 
 
-<p class="wp-block-paragraph"><strong><a href="https://avnei-hoshen.co.il/14/?utm_source=hm-news" data-type="link" data-id="https://avnei-hoshen.co.il/14/?utm_source=hm-news" target="_blank" rel="noopener">צרו קשר עוד היום, תאמו פגישה ובואו לגלות כמה תוכלו להרוויח בדרך לבית שלכם באבני חושן>></a></strong></p>
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="758" height="548" src="https://hm-news.co.il/wp-content/uploads/2026/10/card-1-Dis2cSJi.jpg" alt="החורף מגיע ואיתו הבית החדש שלכם באבני החושן" class="wp-image-664801" title="החורף מגיע ואיתו הבית החדש שלכם באבני החושן" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/card-1-Dis2cSJi.jpg 758w, https://hm-news.co.il/wp-content/uploads/2026/10/card-1-Dis2cSJi-300x217.jpg 300w" sizes="(max-width: 758px) 100vw, 758px" /></figure>
-
-<figure class="wp-block-image size-full"><img decoding="async" width="758" height="548" src="https://hm-news.co.il/wp-content/uploads/2026/10/card-4-CukiWIm6.jpg" alt="החורף מגיע ואיתו הבית החדש שלכם באבני החושן" class="wp-image-664800" title="החורף מגיע ואיתו הבית החדש שלכם באבני החושן" srcset="https://hm-news.co.il/wp-content/uploads/2026/10/card-4-CukiWIm6.jpg 758w, https://hm-news.co.il/wp-content/uploads/2026/10/card-4-CukiWIm6-300x217.jpg 300w" sizes="(max-width: 758px) 100vw, 758px" /></figure>]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664799/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>טיבי מנצל את התחזקות הערבים</title>
-		<link>https://hm-news.co.il/664796/</link>
-					<comments>https://hm-news.co.il/664796/#respond</comments>
-		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 09:28:00 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[פוליטי]]></category>
-		<category><![CDATA[אחמד טיבי]]></category>
-		<category><![CDATA[המחדש חדשות]]></category>
-		<category><![CDATA[חדשות חרדים]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664796</guid>
-
-					<description><![CDATA[יו"ר תע"ל  מתגאה בהקמת גוש חוסם מול מחנה הימין: "נשפיע על המערכת הפוליטית" • מציע שיתוף פעולה מבחוץ בתמורה לעצירת הריסות בתים ותקציבים: "פתוחים לדבר על הדרך - איך להצביע ומתי"]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">המפלגות הערביות מזהות את המבוי הסתום במערכת הפוליטית ומנסות למשוך בחוטים בדרך להשפעה ישירה על זהות הממשלה הבאה. לאחר פרסום תוצאות המדגמים והתחזקות הרשימות הערביות, יו&quot;ר תע&quot;ל וחבר הרשימה המשותפת מבהיר כי בכוונתו לנצל את יחסי הכוחות החדשים כדי למנוע בכל מחיר הקמת ממשלת ימין לאומית, ואף פונה בגלוי אל ראשי גוש המרכז-שמאל כדי לגבש שיתוף פעולה הדוק.</p>
+<p class="wp-block-paragraph">אני מכיר את הפער הזה קודם כול מהחיים שלי.</p>
 
 
 
-<p class="wp-block-paragraph">בדברים שנשא יו&quot;ר תע&quot;ל אחמד טיבי, אשר הובאו בכלי התקשורת, הוא הכריז בביטחון על הישג פוליטי ושרטט את היעדים המיידיים של סיעתו: &quot;בלמנו את האפשרות של נתניהו להקים ממשלה. גוש חוסם. הציבור שלנו רוצה שנמשיך הלאה ונשפיע על דמותה של המערכת הפוליטית לאחר בבחירות&quot;. בהמשך דבריו פנה באופן ישיר לשותפים הפוטנציאליים מהצד השני של המפה הפוליטית: &quot;הרשימה המשותפת רוצה לסייע, לעזור, ולהחליף את הממשלה הזאת, ולפלס את הדרך לממשלה חלופית. ולכן אני אומר שאנחנו מושיטים יד למה שקראו 'גוש השינוי', כדי לסייע בהקמת ממשלה חלופית, ולהחליף את הממשלה הנוראית הזאת&quot;.</p>
+<p class="wp-block-paragraph">כבר מילדות התמודדתי עם עודף משקל. במשך שנים ניסיתי שוב ושוב לרדת. לפעמים הצלחתי, ואז עליתי בחזרה. המעגל היה מוכר: החלטה, מאמץ, ירידה, שחיקה וחזרה להרגלים הישנים.</p>
 
 
 
-<p class="wp-block-paragraph">בדבריו פירט טיבי את האופן המעשי שבו יוכלו הסיעות הערביות לגבות קואליציה חלופית, גם ללא ישיבה רשמית סביב שולחן הממשלה, כשהוא מציג נכונות לתמרון פרלמנטרי גמיש בתמורה לוויתורים משמעותיים מצד המדינה: &quot;אני רוצה לעשות הכול בכנסת כדי לפלס את הדרך לכך שתוכרז ממשלה. סביר להניח שאנחנו לא נהיה חלק אורגני מהממשלה הזאת. יש כל מיני קונסטלציות נוספות. אנחנו פתוחים לדבר ולנהל דיאלוג על הדרך: איך להצביע, מתי להצביע, איפה להצביע, כדי להביא לשינוי במציאות של הציבור שלנו, לעזור בנושא הפשיעה, הריסות בתים, תשתיות, הפסקת ההסתה ודברים נוספים&quot;.</p>
+<p class="wp-block-paragraph">בהמשך מצבי הבריאותי הסתבך משמעותית. התחושה שקיבלתי מהרופאים הייתה קשה: האפשרויות מוגבלות, ואני צריך להתכונן לחיים עם נכות משמעותית.</p>
+
+
+
+<p class="wp-block-paragraph">אבל בשלב מסוים משהו התהפך.</p>
+
+
+
+<p class="wp-block-paragraph">אמרתי לעצמי: אולי אני לא יכול לשלוט בהכול, אבל אני רוצה לעשות את כל מה שכן נמצא בידיים שלי.</p>
+
+
+
+<p class="wp-block-paragraph">השינוי שעשיתי היה לצד המעקב והטיפול הרפואי, לא במקומם. שיניתי באופן משמעותי את אורח החיים ונכנסתי לעומק עולם הבריאות. בתוך כחמישה חודשים ירדתי 44 קילוגרמים. גם התפקוד שלי השתנה בצורה משמעותית, עד שחזרתי לכושר שמאפשר לי כיום להגיע גם להליכות של כ־20 קילומטרים ביום.</p>
+
+
+
+<p class="wp-block-paragraph">אבל דווקא אחרי ההצלחה הגדולה התחיל השיעור החשוב באמת.</p>
+
+
+
+<p class="wp-block-paragraph">כמה חודשים לאחר מכן שמתי לב שאני מתחיל להחליק בחזרה להרגלים הישנים.</p>
+
+
+
+<p class="wp-block-paragraph">אני זוכר לילה אחד שבו היד שלי כבר נמשכה כמעט אוטומטית לשוקולד במקרר. נעצרתי לרגע ושאלתי את עצמי: איך יכול להיות? עברתי שינוי כל כך גדול, ירדתי 44 קילוגרמים, ואני עדיין נאבק באותם הרגלים?</p>
+
+
+
+<p class="wp-block-paragraph">ושם התחילה להתחדד אצלי תובנה שהפכה בהמשך לבסיס של כל הדרך שלנו:</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" data-type="link" data-id="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" target="_blank" rel="noopener">לחצו כאן לפרטים ומידע נוסף>></a></strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>הבעיה אינה רק לדעת מה נכון. האתגר האמיתי הוא להפוך את מה שאנחנו יודעים להרגלים שמחזיקים שנים</strong><strong>.</strong></p>
+
+
+
+<p class="wp-block-paragraph">מהמסע האישי הזה התחלתי לעזור לאחרים, ובהמשך הגיעו עוד ועוד פניות.</p>
+
+
+
+<p class="wp-block-paragraph">כיום &quot;בקרמן בריאות&quot; מלווה כ־2,000 מתייעצים בשנה.</p>
+
+
+
+<p class="wp-block-paragraph">התוצאות הראשוניות היו לפעמים מדהימות. אנשים ירדו במשקל, המדדים השתפרו, והייתי בטוח שמצאתי את הדרך.</p>
+
+
+
+<p class="wp-block-paragraph">ואז רבים מהם חזרו לאחור.</p>
+
+
+
+<p class="wp-block-paragraph">ושם הבנתי משהו ששינה לי את כל צורת העבודה:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>לא מספיק לשאול האם ההמלצה נכונה מבחינה בריאותית. צריך לשאול גם האם האדם מסוגל לחיות איתה</strong><strong>.</strong></p>
+
+
+
+<p class="wp-block-paragraph">תוכנית יכולה להיות מצוינת על הנייר, אבל אם אדם צריך להילחם בעצמו בכל יום כדי להחזיק בה, היא לא תחזיק שנים.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>לא לבנות פרויקט. לבנות חיים</strong><strong></strong></p>
+
+
+
+<p class="wp-block-paragraph">עם השנים התחלתי להבחין בין &quot;פרויקט בריאות&quot; לבין שגרת חיים.</p>
+
+
+
+<p class="wp-block-paragraph">פרויקט דורש התגייסות. שגרה הופכת להיות חלק מהחיים.</p>
+
+
+
+<p class="wp-block-paragraph">אוכל צריך להיות טעים ומשביע, והדרך צריכה לעבוד גם ביום עמוס, כשהשגרה מתהפכת ואחרי חריגה.</p>
+
+
+
+<p class="wp-block-paragraph">וגיליתי עוד דבר: גם השאלה <strong>&quot;</strong><strong>מה להוסיף</strong><strong>?&quot;</strong> חשובה לא פחות מהשאלה <strong>&quot;</strong><strong>מה להוריד</strong><strong>?&quot;</strong></p>
+
+
+
+<p class="wp-block-paragraph">במקום רשימת איסורים, אנחנו מחפשים איך למלא את החיים באוכל טוב, משביע וטעים שהאדם באמת נהנה ממנו.</p>
+
+
+
+<p class="wp-block-paragraph">אני קורא לזה &quot;פשרות הוגנות ומתוכננות&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">במקום לחכות לרגע שבו הכול נשבר, מחליטים מראש איך נראים גם החיים הלא מושלמים.</p>
+
+
+
+<p class="wp-block-paragraph">המטרה אינה להגיע לארוחה רעבים מאוד ואז לנסות &quot;להיות חזקים&quot;. הרבה יותר חכם להחליט מראש מה באמת חשוב לנו, ממה אנחנו רוצים ליהנות ועל מה אפשר לוותר.</p>
+
+
+
+<p class="wp-block-paragraph">ובעיקר, צריך ללמוד גם איך להיכשל.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" data-type="link" data-id="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" target="_blank" rel="noopener">לחצו כאן לפרטים ומידע נוסף>></a></strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>אז מה אני עושה מחר בבוקר</strong><strong>?</strong></p>
+
+
+
+<p class="wp-block-paragraph">לפעמים המקצועיות היא דווקא לא להגיד לאדם את כל מה שאתה יודע.</p>
+
+
+
+<p class="wp-block-paragraph">צריך לדעת מה באמת חשוב עכשיו. מה העיקר, מה הטפל, ומה הצעד שיעשה כרגע את ההבדל הגדול ביותר.</p>
+
+
+
+<p class="wp-block-paragraph">במשך השנים בנינו ארגז כלים רחב: תזונה, שינוי הרגלים, התנהלות במטבח, פתרונות לזמנים עמוסים, פעילות, התמודדות עם נפילות, שינה וסטרס.</p>
+
+
+
+<p class="wp-block-paragraph">החכמה היא לדעת איזה כלי להוציא ממנו עבור האדם שיושב מולך.</p>
+
+
+
+<p class="wp-block-paragraph">ב&quot;בקרמן בריאות&quot; אנחנו רואים מקרים שבהם לצד הירידה במשקל משתפרים גם מדדים בריאותיים. כשהבדיקות משתנות, המתייעצים חוזרים לרופא, והוא מחליט אם יש צורך להתאים את הטיפול התרופתי.</p>
+
+
+
+<p class="wp-block-paragraph">חשוב לי להדגיש: אנחנו לא מחליפים רופא. אנחנו עובדים על אורח החיים. החלטות רפואיות מתקבלות על ידי הרופא.</p>
+
+
+
+<p class="wp-block-paragraph">אין הבטחות גורפות, ואין הנחה שכל אדם יגיב באותה צורה.</p>
+
+
+
+<p class="wp-block-paragraph">צריך להבין את האדם, את מצבו, את הבדיקות, התרופות, אורח החיים והיכולת שלו, ולבנות דרך אחראית.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>ואז נוצרה בעיה חדשה</strong><strong></strong></p>
+
+
+
+<p class="wp-block-paragraph">בשלב מסוים נוצרה בעיה שלא היה אפשר לפתור בעוד שעות עבודה.</p>
+
+
+
+<p class="wp-block-paragraph">הגיעו אלינו יותר אנשים מכפי שהצוות שלנו היה מסוגל ללוות.</p>
+
+
+
+<p class="wp-block-paragraph">והמסקנה הייתה ברורה: אם אנחנו רוצים להגיע להרבה יותר אנשים, לא מספיק להוסיף עוד מתייעצים ליומן.</p>
+
+
+
+<p class="wp-block-paragraph">צריך להכשיר עוד אנשים שיֵדעו לעשות את העבודה הזאת.</p>
+
+
+
+<p class="wp-block-paragraph">ואז הבנתי שהבעיה שפגשתי בתחילת הדרך שלי חוזרת גם אצל אנשי מקצוע:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>אפשר לדעת המון על בריאות ועדיין לא לדעת איך לעזור לאדם שיושב מולך</strong><strong>.</strong></p>
+
+
+
+<p class="wp-block-paragraph">מתוך המקום הזה נולד <strong>בית הספר לבריאות טבעית־מדעית</strong>.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" data-type="link" data-id="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" target="_blank" rel="noopener">לחצו כאן לפרטים ומידע נוסף>></a></strong></p>
+
+
+
+<p class="wp-block-paragraph">לא רציתי להקים עוד מקום שבו לומדים מאות שעות ומסיימים עם תעודה, אבל עדיין לא יודעים מה לעשות כשאדם אמיתי יושב מולם.</p>
+
+
+
+<p class="wp-block-paragraph">אדם אינו מגיע עם פרק מסומן בספר. הוא מגיע עם בדיקות, תרופות, הרגלים, חששות וחסמים. לפעמים הוא אפילו יודע בדיוק מה נכון עבורו, אבל לא מצליח לבצע.</p>
+
+
+
+<p class="wp-block-paragraph">וזו בעיניי הנקודה שמבדילה בין ידע לבין טיפול.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>ידע הוא הבסיס. אבל היכולת לקחת אדם מהמקום שבו הוא נמצא ולהוביל אותו לשינוי אמיתי, זו כבר אומנות הטיפול</strong><strong>.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>מהידע לקליניקה</strong><strong></strong></p>
+
+
+
+<p class="wp-block-paragraph">את ההכשרה בנינו סביב החיבור הזה.</p>
+
+
+
+<p class="wp-block-paragraph">הבסיס המקצועי רחב: תזונה ובריאות טבעית, מנגנוני הגוף, מצבים בריאותיים, בדיקות דם, תרופות וקריאת מחקרים.</p>
+
+
+
+<p class="wp-block-paragraph">הלימוד של בדיקות ותרופות נועד לתת לתלמיד תמונה רחבה, להבין מתי נדרשת התייחסות רפואית ולעבוד באחריות לצד הרופא המטפל, לא במקומו.</p>
+
+
+
+<p class="wp-block-paragraph">אבל לאורך כל הדרך אנחנו חוזרים לשאלה אחת:</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" data-type="link" data-id="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" target="_blank" rel="noopener">לחצו כאן לפרטים ומידע נוסף>></a></strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>מה עושים עם כל הידע הזה בפועל</strong><strong>?</strong></p>
+
+
+
+<p class="wp-block-paragraph">התלמידים לומדים לנתח מקרים, להבין מה קודם למה, לנהל פגישה, לזהות חסמים ולהפוך נושא מורכב להסבר פשוט וברור.</p>
+
+
+
+<p class="wp-block-paragraph">אנחנו עוסקים גם בסטרס, באכילה רגשית ובשינוי הרגלים, ובעיקר בשאלה כיצד מדברים עם אדם באופן שבונה אמון ולא התנגדות.</p>
+
+
+
+<p class="wp-block-paragraph">יש מטבח מעשי, עבודה על מקרים וגם כלים להקמת קליניקה ולשיווק.</p>
+
+
+
+<p class="wp-block-paragraph">אבל יש מבחן נוסף, ובעיניי הוא חשוב מאוד:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>כ־40 מבוגרי המחזור הראשון כבר עובדים כיום ב&quot;בקרמן בריאות</strong><strong>&quot;.</strong></p>
+
+
+
+<p class="wp-block-paragraph">מבחינתי זה בדיוק החיבור שחיפשתי.</p>
+
+
+
+<p class="wp-block-paragraph">לא רק לדעת.</p>
+
+
+
+<p class="wp-block-paragraph">לדעת לעשות.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>וכאן המעגל נסגר</strong><strong></strong></p>
+
+
+
+<p class="wp-block-paragraph">התחלתי את המאמר בשאלה פשוטה:</p>
+
+
+
+<p class="wp-block-paragraph">אם כולנו יודעים כל כך הרבה על בריאות, למה קשה לנו כל כך להשתנות?</p>
+
+
+
+<p class="wp-block-paragraph">אחרי המסע האישי ושנים של עבודה עם אנשים, התשובה שלי ברורה.</p>
+
+
+
+<p class="wp-block-paragraph">ידע חשוב מאוד.</p>
+
+
+
+<p class="wp-block-paragraph">אבל ידע לבדו אינו מספיק.</p>
+
+
+
+<p class="wp-block-paragraph">אדם צריך בהירות, דרך וכלים שמתאימים לחיים שלו. והוא צריך מישהו שיֵדע להסתכל על כל הרעש ולומר לו: זה הדבר החשוב עכשיו. מכאן מתחילים.</p>
+
+
+
+<p class="wp-block-paragraph">ואותו עיקרון בדיוק עומד מבחינתי גם בבסיס הכשרת אנשי מקצוע.</p>
+
+
+
+<p class="wp-block-paragraph">החלום שלי הוא להגיע להרבה יותר אנשים.</p>
+
+
+
+<p class="wp-block-paragraph">ואי אפשר לעשות את זה לבד.</p>
+
+
+
+<p class="wp-block-paragraph">אם נצליח להעביר הלאה את הידע, הניסיון והכלים שנבנו במשך השנים, ולהכשיר אנשי מקצוע שיודעים באמת לקחת אדם ולהוביל אותו לשינוי, נוכל להשפיע על הרבה יותר חיים.</p>
+
+
+
+<p class="wp-block-paragraph">כי בסופו של דבר, בעולם הבריאות לא חסרים אנשים שיודעים.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>חסרים אנשים שיודעים לעזור</strong><strong>.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" data-type="link" data-id="https://healthbetter.vibepages.co.il/chagim?utm_source=hamechadesh&amp;utm_medium=banner&amp;utm_campaign=chagim&amp;utm_content=hamechadesh_banner" target="_blank" rel="noopener">לחצו כאן לפרטים ומידע נוסף>></a></strong></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hm-news.co.il/664796/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hm-news.co.il/664418/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>&#034;איך להתעלם מעדות על פעולות בלתי חוקיות?&#034;</title>
-		<link>https://hm-news.co.il/664793/</link>
-					<comments>https://hm-news.co.il/664793/#respond</comments>
+		<title>הריקוד של חסידי ברסלב שחרך את הרשת בטורקיה</title>
+		<link>https://hm-news.co.il/664857/</link>
+					<comments>https://hm-news.co.il/664857/#respond</comments>
 		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 08:49:00 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[משפט]]></category>
-		<category><![CDATA[אביחי מנדלבליט]]></category>
-		<category><![CDATA[משפט נתניהו]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664793</guid>
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 16:01:14 +0000</pubDate>
+				<category><![CDATA[וידאו]]></category>
+		<category><![CDATA[סטוריז]]></category>
+		<category><![CDATA[רץ ברשת]]></category>
+		<category><![CDATA[איזמיר]]></category>
+		<category><![CDATA[טורקיה]]></category>
+		<category><![CDATA[רבי חיים פלאג&#039;י]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664857</guid>
 
-					<description><![CDATA[הפרקליטות דרשה לעצור את חקירת מנדלבליט סביב מחדלי החוקרים, אך נתקלה בתגובה חריפה מהשופטים • השופט בר-עם הטיח בתובעת: "היועץ המשפטי מעיד כאן על פעולות בלתי-חוקיות, אי אפשר להתעלם"]]></description>
+					<description><![CDATA[תיעוד של חסידי ברסלב קופצים סמוך לבית העלמין היהודי באיזמיר מעורר שיח ברשתות החברתיות בטורקיה • במקום טמון המקובל רבי חיים פלאג'י זי״ע, שקברו מושך מדי שנה מאות מתפללים מישראל • התיעודים לפי סעיף 27 א]]></description>
 										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">עימות נרשם הבוקר בבית המשפט המחוזי בירושלים בדיוני משפטו של ראש הממשלה בנימין נתניהו, כאשר מחלוקת עמוקה בין נציגי התביעה לבין הרכב השופטים חשפה שוב את הבקיעים המהותיים באופן ניהול החקירות. במוקד הסערה עמדה דרישתה של הפרקליטות להטיל מגבלות משמעותיות על קו החקירה הנגדית שמנהלים סנגוריו של נתניהו כלפי היועץ המשפטי לממשלה לשעבר, אביחי מנדלבליט, בכל הנוגע לפעולות שנקטו חוקרי המשטרה לאחר שניתנו האישורים לפתיחת ההליכים.</p>
+<p class="wp-block-paragraph">תיעוד חדש שהפיץ שיח ער ברשתות החברתיות בטורקיה מציג קבוצת ישראלים, חסידי ברסלב, כשהם קופצים ורוקדים בסביבת בית העלמין היהודי גורצ'שמה שבאיזמיר.</p>
+
+
+<figure class="hm-bunny-video"><div class="hm-bunny-video__frame"><iframe class="hm-bunny-video__iframe" src="https://iframe.mediadelivery.net/embed/261698/ce8b9594-795a-4c27-a6c8-e596da96a9b7?autoplay=false&#038;loop=false&#038;muted=false&#038;preload=false&#038;responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen title="נגן וידאו"></iframe></div></figure>
+
+
+<p class="wp-block-paragraph">המתחם העתיק באיזמיר משמש כהמוקד המרכזי אליו נוהרים מדי שנה מאות מתפללים מישראל, הפוקדים את קברו של המקובל הנודע רבי חיים פלאג'י זי&quot;ע ביום פטירתו. הציון הקדוש ממוקם בלב שטח אורבני צפוף ומאוכלס במיוחד.</p>
+
+
+<figure class="hm-bunny-video"><div class="hm-bunny-video__frame"><iframe class="hm-bunny-video__iframe" src="https://iframe.mediadelivery.net/embed/261698/e776e031-226f-499b-994a-1fabdbc0ba1d?autoplay=false&#038;loop=false&#038;muted=false&#038;preload=false&#038;responsive=true" loading="lazy" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen title="נגן וידאו"></iframe></div></figure>
+
+
+<p class="wp-block-paragraph">קבר הגר&quot;ח פלאג'י זצוק&quot;ל מתאפיין בייחודיות יוצאת דופן: בעוד שכלל המצבות בבית העלמין פונות לכיוון דרום, מצבתו של המקובל היא היחידה בשטח שפונה לכיוון מזרח.</p>
 
 
 
-<p class="wp-block-paragraph">על פי הדיווח מתוך אולם הדיונים, במרכז ההתכתשות המשפטית ניצבה השאלה האם מותר להגנה לבחון לא רק את עצם מתן האישורים לפתיחת החקירות, אלא גם את מידת המעורבות, הפיקוח והבקרה שהפעיל מנדלבליט על החוקרים בזמן אמת. עד כה התמקדה חקירת ההגנה בהחלטות שהתקבלו טרם מתן האישורים ובנסיבות לידתן, אולם כעת מבקשים הסנגורים לרדת לשורש פעולות החקירה שבוצעו בפועל בשטח. מנגד, התובעת יהודית תירוש התייצבה בתוקף נגד המהלך וטענה כי יש להגביל את השאלות למנדלבליט לנושאים החיוניים לבירור ההליך בלבד ובראשם האישורים שהעניק, כשהיא מתריעה כי הרחבת החקירה לתהליכי העבודה הפנימיים של התביעה עלולה ליצור תקדים מסוכן שישפיע על תיקים פליליים אחרים.</p>
-
-
-
-<p class="wp-block-paragraph">תירוש הוסיפה והסבירה בדיון כי החלטות התביעה מתקבלות באמצעות גורמים מקצועיים וצוותי עבודה, ולא בהכרח בידי אדם אחד המעיין בכל מסמך ומסמך, ולשיטתה אין הצדקה לחקור את היועץ המשפטי לשעבר על כל פרט ופרט מתוך החומרים. התובעת נשענה על פסיקה שלפיה בתי המשפט נוטים להימנע מזימון תובעים להעיד על תהליכי קבלת החלטות פנימיים, וטענה כי העובדה שהחוק מחייב אישור יועמ&quot;ש להגשת כתב אישום נגד ראש ממשלה אינה מצדיקה יחס חריג למנדלבליט. אלא שעמדת הפרקליטות נתקלה בחומה בצורה מצד השופטים; השופט משה בר-עם קטע את הדברים ותהה כיצד ניתן לסרס את החקירה כאשר כבר נשמעו עדויות מטרידות: &quot;איך אפשר להתעלם מכך שהיועץ המשפטי בא לפה ומעיד על פעולות בלתי-חוקיות?&quot;.</p>
-
-
-
-<p class="wp-block-paragraph">השופטת רבקה פרידמן-פלדמן חידדה את הביקורת והזכירה כי מנדלבליט עצמו כבר העיד שלא עיין בחלק מן החומרים, ובהם תמלילים מסוימים, בעוד השופט בר-עם הדגיש כי הדברים עשויים להיות בעלי משקל מכריע לטענות &quot;הגנה מן הצדק&quot; שהעלו עורכי דינו של ראש הממשלה, והזהיר כי מניעת שאלות תותיר פערי מידע עובדתיים קריטיים בפני ההרכב. תירוש ניסתה לאזן וטענה כי יש להבחין בין החלטות היועמ&quot;ש לבין מעשי החוקרים, וכי טענות על פעולות שלא תועדו כראוי יש להפנות לשוטרים עצמם, אך המחלוקת שבה והציפה את עדותו הקודמת של מנדלבליט בנוגע לגבולות האישורים בתיק 1000.</p>
-
-
-
-<p class="wp-block-paragraph">באותו דיון, כזכור, נשאל מנדלבליט האם אישר חקירה בחשד לעבירת שוחד, והתגונן באומרו: &quot;אישרתי נושא, זה לא אותו דבר כמו חקירה באזהרה. אני לא מאשר חקירה ספציפית אלא נושאים לחקירה&quot;. מנדלבליט טען כי נשמר קשר מקצועי וכי ציפה לעיין בפעולות מרכזיות, אך השופט בר-עם הקשה על המנגנון הרופף: &quot;השאלה היא מה מבינים חוקרי המשטרה שמקבלים את ההיתר הכללי. אולי צריך לתת אישור יותר קונקרטי, כדי שלא יעשו חלילה בטעות מה שאסור&quot;. מנדלבליט השיב כי התקיימו ישיבות מעקב לפיקוח, וכי כיווני חקירה חדשים חייבו אישור מחודש &#8211; תשובות שממשיכות להעמיד בסימן שאלה את התנהלות רשויות האכיפה בתיקי נתניהו.</p>
+<p class="wp-block-paragraph">המסורת המקומית מספרת כי במהלך מסע הלוויה הלך המון העם עם נרות דולקים תחת גשם קל, וברגע סתימת הגולל התחוללה רוח סערה פתאומית שכיבתה את אלפי הנרות בבת אחת.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hm-news.co.il/664793/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hm-news.co.il/664857/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>הישוב &#034;גבע שומרון&#034; עולה לקרקע</title>
-		<link>https://hm-news.co.il/664784/</link>
-					<comments>https://hm-news.co.il/664784/#respond</comments>
+		<title>אבל כבד: ראש ישיבת מרכז התורה הגאון רבי פנחס זליבנסקי זצ&#034;ל</title>
+		<link>https://hm-news.co.il/664849/</link>
+					<comments>https://hm-news.co.il/664849/#respond</comments>
 		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 08:26:00 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[בארץ]]></category>
-		<category><![CDATA[יהודה ושומרון]]></category>
-		<category><![CDATA[יוסי דגן]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664784</guid>
-
-					<description><![CDATA[בבוקר שאחרי הבחירות, עולה היום לקרקע הישוב "גבע שומרון", בבא"ח הצנחנים שא-נור, שנעקר ב-2002. הקרוואנים הוצבו, טקס ההקמה בצהריים. המשפחות המייסדות: מרמת גן, בוגרי ישיבה • יוסי דגן ראש מועצת שומרון אמר: "זו התשובה הציונית שלנו! אנחנו כאן בצפון השומרון על המפה - לתמיד"]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">ציון דרך היסטורי בצפון השומרון, בבוקר שלאחר הבחירות בישראל: לאחר שהקרוואנים הראשונים הגיעו ליישוב החדש &quot;גבע שומרון&quot;, והבוקר מגיעות המשפחות הראשונות וייכנסו לביתן החדש. משאיות עמוסות בציוד עושות את דרכן אל היישוב, והמשפחות, חברות גרעין ההקמה, בוגרי ישיבת רמת גן בראשות הרב יהושע שפירא והרב בן ציון אלגאזי, נכנסות להתגורר בקרוואנים שהוצבו בשטח.</p>
-
-
-
-<p class="wp-block-paragraph">משפחות החלוצים עושות את דרכן לישוב, טקס העלייה הרשמי ליישוב, צפוי להתקיים בהמשך היום, בהשתתפות שרים, חברי כנסת ואישי ציבור, בהם ראש מועצת שומרון יוסי דגן, נשיא ישיבת רמת גן ורב העיר רמת גן הרב יעקב אריאל, ראשי ישיבת רמת גן הרב יהשע שפירא והרב בן ציון אלגאזי, קהל רב ומשפחות הגרעין המיישב.</p>
-
-
-
-<p class="wp-block-paragraph">הקמת הישוב יוצאת לפועל כחלק מ&quot;תוכנית ההתחברות&quot; רחבת ההיקף שמובילה המועצה אזורית שומרון. התוכנית כוללת הקמה של 19 יישובים חדשים במרחב צפון השומרון, במקום ה &#8211; 4 שנעקרו בהתנתקות. והיא חלק מתוכנית &quot;מיליון בשומרון&quot; של המועצה האזורית שומרון. המועצה האזורית שומרון מקדמת את התוכנית ההתחברות יחד עם אמנה והחטיבה להתיישבות.</p>
-
-
-
-<p class="wp-block-paragraph">היישוב &quot;גבע שומרון&quot; מוקם בשטח שבו שכן בעבר בא&quot;ח הצנחנים &#8211; שא-נור, בסיס האימונים של החטיבה, סמוך ליישוב שא-נור, שנעקר וחזר אף הוא. הקמתו היא חלק מתנופת ההתיישבות בצפון השומרון, שבמסגרתה עלו לקרקע עשרה יישובים בתוך פחות משנה, בהמשך להחלטת הקבינט והממשלה, בהובלת השרים ישראל כ&quot;ץ ובצלאל סמוטריץ' וראש המועצה האזורית שומרון יוסי דגן ומטרתה לחזק את האחיזה הישראלית ולהקים ישובים במרחב החשוב הזה – היסטורית וביטחונית.</p>
-
-
-
-<p class="wp-block-paragraph">ראש מועצת שומרון יוסי דגן הגיע למקום בשעת בוקר, עם הבאת הקראוונים, ובירך יחד עם הפועלים הנרגשים ברכת &quot;שהחיינו וקיימנו והגיענו לזמן הזה&quot;.</p>
-
-
-
-<p class="wp-block-paragraph">יוסי דגן אמר: &quot;כאן היה בא&quot;ח שא-נור של הצנחנים, המקום הראשון שנעקר בצפון השומרון ב-2002, אנחנו זוכים לקדם את תוכנית ההתחברות.<br>ליד שא-נור המתחדשת מול נועה המתחדשת,<br>מול חומש המתחדשת, נניח את הקרוונים הראשונים, של &quot;גבע שומרון&quot;, שיהיה במקום שהיה בא&quot;ח צנחנים. ישוב ענק, עם גרעין מרמת גן, שאנחנו זוכים להקים.<br>זאת התשובה הציונית שלנו לעקירה, ביחד נרים את קרן ישראל וכל עם ישראל, אנחנו כאן כדי להישאר!&quot;</p>
-
-
-
-<p class="wp-block-paragraph">יצחק אלחנן דרורי, תושב רמת גן וכנר מוערך עולה הבוקר עם רעייתו ו &#8211; 6 ילדיו לישב את הישוב גבע שומרון, אומר: בהתרגשות: &quot;לאורך התקופה האחרונה נחשפנו למהפכה האדירה שמתחוללת ביו&quot;ש, כל ישוב וחווה שקמו מילאו את הלב בהתרגשות, לא חשבנו שנזכה להיות חלק מזה בתקופה הקרובה. אבל כשפורסם אצלנו שקם ישוב חדש ומתארגן גרעין מהישיבה לעלייה לקרקע, ידענו שאנחנו בפנים.<br>הכל קרה סביב פרשת לך לך והרגשנו שהקב&quot;ה ממש לוקח אותנו אל המשימה הזו, &quot;אל הארץ אשר אראך&quot;.<br>אנחנו מלאים התרגשות והודיה לה' שבחר בנו למשימה כל כך חשובה ומשמחת, ומקווים לראות בקרוב בעז&quot;ה את המקום שחיכה כל כך הרבה שנים, חי, פורח ומלא במשפחות ובאור של תורה&quot;.</p>
-
-
-
-<p class="wp-block-paragraph">הרב יהשע שפירא ראש ישיבת רמת גן אמר בסיור המשפחות בשטח לפני מספר ימים: &quot;אלפי שנים חיכינו להגיע לכאן. הגאון מווילנא נאבק למען יישוב הארץ והיה אומר לתלמידיו שצריך לרדת אל הקרקע, לבנות ממש. באנו לפה וקיבלנו הזדמנות שנייה לצפון השומרון, ואנחנו לא מפספסים אותה&quot;.</p>
-
-
-
-<p class="wp-block-paragraph">גבע שומרון מצטרף לתנופת ההתיישבות בצפון השומרון, הכוללת את היישובים שלם, רחבעם, עיבל, עמק דותן ונעה, לצד חידוש ההתיישבות בחומש, שא-נור, גנים וכדים, שנעקרו בהתנתקות והוקמו מחדש בקיץ האחרון.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664784/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>חוסל מחבל נוח&#039;בה שחטף את אלכס דנציג הי&#034;ד</title>
-		<link>https://hm-news.co.il/664787/</link>
-					<comments>https://hm-news.co.il/664787/#respond</comments>
-		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 07:48:00 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[צבא וביטחון]]></category>
-		<category><![CDATA[המחדש חדשות]]></category>
-		<category><![CDATA[חדשות חרדים]]></category>
-		<category><![CDATA[חמאס]]></category>
-		<category><![CDATA[עזה]]></category>
-		<category><![CDATA[צה"ל]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664787</guid>
-
-					<description><![CDATA[ צה"ל חיסל בדרום הרצועה את המחבל שהשתתף בטבח בניר עוז והחזיק בחטופים • יממה לאחר מכן: שני מחבלי נוח'בה נוספים חוסלו מהאוויר בצפון עזה בעת שניסו לשקם את תשתיות הטרור]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">כוחות הביטחון חיסלו מחבל נוח'בה מרכזי בזרוע הצבאית של ארגון הטרור חמאס, אשר נטל חלק פעיל באירועי הטבח והחטיפה מקיבוץ ניר עוז בשבעה באוקטובר, וכן היה מעורב באופן ישיר בהחזקת חטופים ישראלים במנהרות הטרור ברצועת עזה.</p>
-
-
-
-<p class="wp-block-paragraph">כוחות הצבא חיסלו ביום חמישי שעבר בדרום רצועת עזה את אחמד מחמד אחמד ברכה, מחבל נוח'בה בזרוע הצבאית של חמאס שלקח חלק בחטיפת אזרחים ישראלים מקיבוץ ניר עוז ב-7 באוקטובר, בהם אלכס דנציג ז&quot;ל. עוד נמסר כי במהלך חודשי המלחמה המחבל סייע באופן פעיל בהחזקתם של חטופים ישראלים רבים במרחב דרום הרצועה, ובהם החטוף נמרוד כהן.</p>
-
-
-
-<p class="wp-block-paragraph">הפעילות ההתקפית של צה&quot;ל נמשכה בעוצמה גם בצפון הרצועה, שם סוכלו מחבלים בכירים נוספים אשר ניסו לחדש את היערכות הארגון. למחרת החיסול בדרום, בתקיפה ממוקדת בצפון הרצועה, חיסל צה&quot;ל שני מחבלי נוח'בה נוספים מהזרוע הצבאית של חמאס &#8211; עמר עווצאללה, מפקד נוח'בה, ומעתז מחמוד מחמד אלנמר, מחבל נוח'בה. בצבא מדגישים כי לאורך המלחמה ולאחרונה קידמו שני המחבלים הללו מתווי טרור שונים נגד כוחות צה&quot;ל ואזרחי המדינה, ופעלו ללא הרף בניסיון לשקם את יכולותיו הצבאיות של חמאס במרחב.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664787/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>מחבל דאעש הסתער עם סכינים על שגרירות ישראל</title>
-		<link>https://hm-news.co.il/664770/</link>
-					<comments>https://hm-news.co.il/664770/#respond</comments>
-		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 07:23:00 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[טרור]]></category>
-		<category><![CDATA[סרביה]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664770</guid>
-
-					<description><![CDATA[פיגוע טרור מחוץ לנציגות הישראלית בסרביה • קטין חמוש בשתי סכינים צעק "אללהו אכבר", התנפל על השוטר שאיבטח את המתחם – וחוסל בזירה בירי מהיר • כוננות שיא הוכרזה ברחבי המדינה • משרד החוץ בירושלים: אין נפגעים בקרב עובדי השגרירות ]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">פיגוע טרור איסלאמיסטי סוכל הלילה מחוץ לשגרירות ישראל בבלגרד, בירת סרביה, לאחר שמחבל חמוש בשתי סכינים הסתער לעבר עמדת האבטחה וחוסל במקום בטרם הצליח לחדור אל תוך המתחם הדיפלומטי.<sup></sup> שרשרת התגובה המהירה של כוחות הביטחון המקומיים מנעה פגיעה נרחבת יותר, כאשר השוטר שנפגע בפניו התעשת בתוך שניות ספורות ופתח באש מדויקת לעבר התוקף עד לנטרולו המלא.</p>
-
-
-
-<p class="wp-block-paragraph">על פי דיווח שהובא בסוכנות הידיעות אי-פי, האירוע התרחש מעט אחרי חצות לפי השעון המקומי מחוץ לנציגות הישראלית. שר הפנים הסרבי, איביצה דאצ'יץ', מסר כי המשטרה מתייחסת לתקרית כאל &quot;פיגוע טרור&quot; והעלתה את רמת הכוננות לאיומי טרור לדרגה הגבוהה ביותר והגבירה את הנוכחות באתרים מרכזיים. השר דאצ'יץ' הוסיף ואמר כי התוקף הוא קטין, וכי במהלך הפיגוע הוא צעק &quot;אללהו אכבר&quot; ותקף את השוטר בשתי סכינים. לדבריו, השוטר חיסל את התוקף ונפצע באורח קל בפניו. לפי דאצ'יץ', סוכנויות הביטחון של סרביה עקבו אחר התוקף וגילו כי הוא תומך של ארגון &quot;המדינה האיסלאמית&quot; (דאעש), וציין כי בחשבון האינסטגרם שלו הציג המחבל את הדגל השחור של דאעש לאות תמיכה בארגון.</p>
-
-
-
-<p class="wp-block-paragraph">בירושלים עקבו בדריכות אחר ההתפתחויות, ובמשרד החוץ הבהירו כי הפיגוע אירע בשעה שהשגרירות הייתה סגורה, וכי אין נפגעים בקרב עובדי השגרירות.<sup></sup> מדובר בפעם השנייה לפחות מאז טבח שבעה באוקטובר ותחילת מלחמת חרבות ברזל שבה מתבצעת מתקפת טרור מכוונת בסמוך לנציגות הישראלית בבירת סרביה, הממחישה את האיום הגובר מצד גורמים איסלאמיסטיים קיצוניים באירופה כלפי יעדים וסמלים ישראליים.</p>
-
-
-
-<p class="wp-block-paragraph">התקרית הקודמת באותו המקום אירעה ביוני 2024, אז הותקף שוטר שאיבטח את השגרירות לאור יום על ידי גבר בשם מילוש זויוביץ' – תושב דרום סרביה שהתאסלם ועבר תהליך הקצנה דתית.<sup></sup> זויוביץ' התקרב לשוטר באמתלה של בירור מיקומו של מוזיאון, שלף במפתיע קשת מוצלבת וירה חץ ישירות לצווארו של השוטר, אשר חרף פציעתו האנושה הצליח להתעשת ולירות בו למוות. חודשיים לאחר מכן חיסלו כוחות הביטחון הסרביים את סנאד רמוביץ', בעל הבית של זויוביץ' שהורשע בעבר בעבירות טרור, לאחר שפתח באש חיה לעבר שוטרים שפשטו על מקום מחבואו בדרום המדינה.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664770/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ההצהרה של דונלד טראמפ לאחר הבחירות</title>
-		<link>https://hm-news.co.il/664768/</link>
-					<comments>https://hm-news.co.il/664768/#respond</comments>
-		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 06:39:00 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[בעולם]]></category>
-		<category><![CDATA[בנימין נתניהו]]></category>
-		<category><![CDATA[דונלד טראמפ]]></category>
-		<category><![CDATA[המחדש חדשות]]></category>
-		<category><![CDATA[חדשות חרדים]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664768</guid>
-
-					<description><![CDATA[נשיא ארה"ב מגיב לתוצאות הבחירות בישראל • טוען כי תמיכתו הפומבית בנתניהו חוללה מהפך ברגע האחרון והובילה לקאמבק פוליטי • "במקום תבוסה מוחצת – מסתמן תיקו או אפילו ניצחון" ]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">נשיא ארצות הברית, דונלד טראמפ, שבר הבוקר שתיקה והתייחס בקולו לתוצאות המסתמנות בקלפיות. הנשיא האמריקני, שליווה מקרוב את מערכת הבחירות הישראלית, טוען כי התערבותו הישירה והכרזות התמיכה החוזרות ונשנות שלו בראש הממשלה בנימין נתניהו הן שחוללו את השינוי הדרמטי במאזן הכוחות בין הגושים, ומנעו מפלה פוליטית מוחצת של מפלגת השלטון.</p>
-
-
-
-<p class="wp-block-paragraph">בפוסט שפרסם הבוקר ברשת החברתית שלו, Truth Social, הציג טראמפ את נקודת מבטו על התפתחות מערכת הבחירות בישראל.<sup></sup> הנשיא האמריקני הדגיש כי צעדיו האישיים הביאו לבלימת המומנטום השלילי של גוש הימין והפכו את מה שהסתמן בעיניו כמפלה ודאית לקאמבק חסר תקדים, המאפשר כעת לנתניהו להילחם על הרכבת הממשלה.</p>
-
-
-
-<p class="wp-block-paragraph">&quot;כשהנשיא טראמפ הביע תמיכה בביבי נתניהו, כל המגמה התהפכה, וכעת, במקום תבוסה מוחצת לראש ממשלה דגול, נראה שמסתמן תיקו לאחר קאמבק גדול, או אפילו ניצחון לנתניהו. כל זה קרה אחרי שנשיא טראמפ הביע את תמיכתו, והוא רוצה רק את מה שטוב למזרח התיכון, לישראל ולארצות הברית!&quot;, כתב טראמפ בהתייחסותו הישירה.</p>
-
-
-
-<p class="wp-block-paragraph">הדברים מגיעים לאחר שבמהלך הימים שקדמו להצבעה התייצב הנשיא האמריקני לצדו של ראש ממשלת ישראל בשתי הזדמנויות שונות, וקרא לציבור הישראלי לתמוך בו כדי &quot;לסיים את המלאכה&quot; במזרח התיכון מול האיומים האזוריים. </p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664768/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>לו&#034;ז היום שאחרי: מההתייעצויות ועד &#034;עלה בידי&#034;</title>
-		<link>https://hm-news.co.il/664765/</link>
-					<comments>https://hm-news.co.il/664765/#respond</comments>
-		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 06:25:47 +0000</pubDate>
-				<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[פוליטי]]></category>
-		<category><![CDATA[בחירות 2026]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664765</guid>
-
-					<description><![CDATA[הבחירות לכנסת ה-26 הגיעו לסיומן והמערכת הפוליטית נכנסת למרוץ נגד השעון • ספירת הקולות, השיחות בבית הנשיא והמועד האחרון להטלת המנדט • כמה זמן יעמוד לרשות המועמד להשגת 61 אצבעות, מתי אפשר לקבל ארכה ומה יקרה אם איש לא יצליח להרכיב קואליציה? • לוח הזמנים המלא]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">הבחירות לכנסת ה-26 הסתיימו והמערכת נערכת לשלבי הרכבת הממשלה: מתוצאות האמת ועד שיחות הנשיא. . למועמד יעמדו עד 42 יום להכריז &quot;עלה בידי&quot;, ואם ייכשל המנדט יעבור הלאה עד סכנת פיזור הכנסת.</p>
-
-
-
-<p class="wp-block-paragraph">עם סגירת הקלפיות בבחירות לכנסת ה-26 ותחילת ספירת הקולות המתוחה, נפתחת המערכה המשמעותית הבאה: המרוץ המפותל והקצוב בזמן להרכבת הממשלה הבאה של מדינת ישראל. לאחר מערכת בחירות יצרית שבה התמודדו לא פחות מ-35 רשימות שונות, המבט הציבורי מופנה כעת אל המשכן ואל משכן נשיא המדינה, שם ייקבעו זהות מקבל המנדט ומפת הקואליציה העתידית.</p>
-
-
-
-<p class="wp-block-paragraph">על פי סקירת לוח הזמנים, התחנה המשמעותית הראשונה נקבעה ל-4 בנובמבר, שמונה ימים לאחר יום הבחירות, אז צפויות להתפרסם רשמית תוצאות הבחירות. אף שתוצאות ספירת הקולות המעודכנות צפויות להתבהר לציבור עוד קודם לכן, יום זה מהווה את קו הזינוק המשפטי של התהליך. על פי חוק יסוד: הממשלה, בתוך שבוע ימים מפרסום התוצאות הרשמיות, ולמעשה לכל המאוחר עד 11 בנובמבר, יטיל נשיא המדינה יצחק הרצוג על אחד מחברי הכנסת שהסכים לכך את תפקיד הרכבת הממשלה, כאשר עד הטלת המנדט יקיים הנשיא סבב שיחות התייעצות רשמי עם נציגי כלל הסיעות שעברו את אחוז החסימה. בהמשך לכך, ב-18 בנובמבר, 22 ימים לאחר יום הבוחר, יתקיימו הערעורים על תוצאות הבחירות.</p>
-
-
-
-<p class="wp-block-paragraph">ברגע שיוטל המנדט על חבר הכנסת הנבחר, ייפתח חלון זמנים מוגדר ומדויק בחוק: המועמד הראשון ינסה להרכיב קואליציה בתוך 28 ימים. במידה שלא יצלח במשימה בתקופה זו, נתונה לנשיא המדינה הסמכות להעניק לו ארכה של עד 14 ימים נוספים, ובסך הכול יעמדו לרשותו עד 42 ימים לכל היותר. אם גם בתום פרק זמן זה לא יצליח המועמד לגבש רוב פרלמנטרי, באפשרותו להחזיר את המנדט לנשיא ולאפשר למועמד אחר לנסות את כוחו. במצב כזה עומדים לרשות הנשיא שלושה ימים לצורך התייעצויות מחודשות עם ראשי המפלגות, ועד לתומם יוכל להעניק את המנדט למועמד חלופי, שיקבל 28 ימים לצורך גיבוש הקואליציה.</p>
-
-
-
-<p class="wp-block-paragraph">בפני הנשיא עומדת גם הברירה שלא להטיל את המשימה על מועמד נוסף, אלא להעביר את המנדט ישירות לכנסת. בתרחיש מעין זה, אם 61 חברי כנסת חותמים על בקשה וממליצים על מועמד מוסכם, נתונים לנשיא עד יומיים להטיל עליו רשמית את מלאכת ההרכבה, ולרשות אותו מועמד יינתנו 14 ימים בלבד לסיום המהלך. אם כלל המאמצים הללו יעלו בתוהו ואף מועמד לא יצליח להרכיב ממשלה במסגרת הזמנים שנקבעה, הכנסת ה-26 תפוזר באופן אוטומטי ומדינת ישראל תצא למערכת בחירות נוספת.</p>
-
-
-
-<p class="wp-block-paragraph">רגע השיא של התהליך מתרחש כאשר חבר כנסת שהוטלה עליו המלאכה מצליח לגייס את הרוב הדרוש; או אז הוא מכריז &quot;עלה בידי&quot; ומוסר הודעה רשמית על כך לנשיא המדינה וליו&quot;ר הכנסת. בהמשך לכך קובע יו&quot;ר הכנסת מועד לישיבה מיוחדת לצורך כינון הממשלה, שבראשה יעמוד חבר הכנסת שהצליח בהרכבתה. במהלך הישיבה מתייצבת הממשלה בפני מליאת הכנסת, מציגה את קווי היסוד של מדיניותה, את הרכבה הסיעתי ואת חלוקת התיקים בין השרים, ומבקשת את אמון הכנסת. עם קבלת האמון קמה הממשלה באופן רשמי והשרים מתחילים מיד את כהונתם, כאשר עד לאותו רגע ממשיכה הממשלה היוצאת לכהן כממשלת מעבר לכל דבר ועניין.</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://www.outbrain.com/what-is/default/he" target="_blank" rel="noopener"></a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664765/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>מתעדכן &#124; הליכוד מוביל, איזנקוט שני – וכמה קולות נספרו עד כה?</title>
-		<link>https://hm-news.co.il/664761/</link>
-					<comments>https://hm-news.co.il/664761/#respond</comments>
-		
-		<dc:creator><![CDATA[יוחאי דנינו]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 03:27:53 +0000</pubDate>
-				<category><![CDATA[פוליטי]]></category>
-		<category><![CDATA[בחירות 2026]]></category>
-		<category><![CDATA[כתבה מתעדכנת]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664761</guid>
-
-					<description><![CDATA[הליכוד מוביל בתוצאות האמת עם 22.02%, ואחריו ישר של איזנקוט עם 15.46% • יהדות התורה זוכה ל־6.71% וש״ס ל־5.79% • עד כה נספרו יותר מ־1.77 מיליון קולות ב־4,274 מתוך 12,018 קלפיות • הספירה נמשכת, והתוצאות עדיין עשויות להשתנות.]]></description>
-										<content:encoded><![CDATA[הליכוד מוביל בתוצאות האמת עם 22.02%, ואחריו ישר של איזנקוט עם 15.46% • יהדות התורה זוכה ל־6.71% וש״ס ל־5.79% • עד כה נספרו יותר מ־1.77 מיליון קולות ב־4,274 מתוך 12,018 קלפיות • הספירה נמשכת, והתוצאות עדיין עשויות להשתנות.]]></content:encoded>
-					
-					<wfw:commentRss>https://hm-news.co.il/664761/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>מהומות בכביש 4, מדורות הוצתו ואבנים הושלכו לעבר ניידות</title>
-		<link>https://hm-news.co.il/664750/</link>
-					<comments>https://hm-news.co.il/664750/#respond</comments>
-		
-		<dc:creator><![CDATA[מנחם שוורץ]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 21:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 15:36:20 +0000</pubDate>
 				<category><![CDATA[חרדים]]></category>
-		<category><![CDATA[חדשות]]></category>
-		<category><![CDATA[גזירת הגיוס]]></category>
-		<category><![CDATA[המחדש חדשות]]></category>
-		<category><![CDATA[חדשות חרדים]]></category>
-		<guid isPermaLink="false">https://hm-news.co.il/?p=664750</guid>
+		<category><![CDATA[הגאון רבי פנחס זליבנסקי]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664849</guid>
 
-					<description><![CDATA[מהומות מתחוללות בשעה זו בבני ברק, לאחר מעצר בחור ישיבה ברחוב יצחק ניסים, שבעקבותיו נפוצו שמועות כי מדובר בעריק שנעצר בידי המשטרה הצבאית • כביש 4 נחסם בשני הכיוונים, מדורות הוצתו על הכביש ואבנים הושלכו לעבר ניידות משטרה • כוחות גדולים פועלים במקום]]></description>
+					<description><![CDATA[אבל כבד: הגאון רבי פנחס זליבנסקי זצ"ל, ראש ישיבת 'מרכז התורה' ורב קהילת 'דרך החיים' בהר נוף, הסתלק לבית עולמו לאחר שנות ייסורים • מסע הלוויה יצא מבית מדרשו בהר נוף לעבר הר המנוחות •  הותיר אחריו דור ישרים מבורך, בנים, חתנים, צאצאים ואלפי תלמידים הכואבים את הסתלקותו]]></description>
 										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">מהומות והפרות סדר מתרחשות ברגעים אלו בבני ברק, לאחר מעצר בחור ישיבה ברחוב יצחק ניסים בעיר. בעקבות המעצר התאספו המונים במקום, והחלו עימותים עם כוחות המשטרה. במקביל, המהומה מתפשטת לכביש 4, שנחסם לתנועה בשני הכיוונים.</p>
+<p class="wp-block-paragraph">אבל כבד ירד על עולם התורה והמוסר עם הסתלקותו לבית עולמו של הגאון רבי פנחס זליבנסקי זצ&quot;ל, ראש ישיבת וכולל 'מרכז התורה', רב קהילת 'דרך החיים' בשכונת הר נוף בירושלים ומחבר ספרי 'נכבדי נעם'. נסתלק לאחר שסבל בשנים האחרונות מייסורים קשים ומרים.</p>
 
 
 
-<p class="wp-block-paragraph">לפי הדיווחים מהשטח, בתחילת האירוע נפוצו שמועות כי מדובר במעצר עריק בידי המשטרה הצבאית, ובעקבות כך הגיעו למקום המונים. עם זאת, במשטרה מבהירים כי הרקע לאירוע הוא פלילי, וכי שני חשודים נעצרו בחשד להפרעה לשוטרים במילוי תפקידם ולהפרת הסדר הציבורי.</p>
+<p class="wp-block-paragraph">מסע הלוויה יצא בשעה 13:30 בצהריים מבית מדרשו 'דרך החיים' ברחוב אגסי 20 בשכונת הר נוף, לעבר הר המנוחות שבירושלים, שם נטמן למנוחת עולמים.</p>
 
 
 
-<p class="wp-block-paragraph">כוחות משטרה גדולים, ובהם לוחמי יס&quot;מ ממרחב דן, נמצאים בזירה ופועלים להתמודדות עם הפרות הסדר. בהמשך האירועים דווח על השלכת אבנים לעבר ניידות משטרה באזור תחנת משטרת בני ברק.</p>
+<p class="wp-block-paragraph">המנוח זצ&quot;ל נולד לאביו הרה&quot;ג ר' מרדכי אלתר זצ&quot;ל ולאמו מרת יוכבד ע&quot;ה, בתו של הגאון רבי אריה שפירא זצ&quot;ל אב&quot;ד ביאליסטוק. מצד אמו היה נכד מיוחס לבית וולאז'ין ולבעל ה'עונג יום טוב' זצ&quot;ל, ובבחרותו נחשב לנכד חביב במיוחד אצל סבו הגדול אב&quot;ד ביאליסטוק.</p>
 
 
 
-<p class="wp-block-paragraph">במקביל, המהומות הגיעו לכביש 4, שם מתפתחים עימותים בין מפגינים לנהגים. שמשת רכב נופצה, ובמקום הוצתו מדורות על הכביש. בעקבות ההתפרעויות נחסם הכביש בשני הכיוונים, וכוחות המשטרה פועלים לפינויו ולהשבת התנועה.</p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-large"><img decoding="async" data-id="664852" src="https://hm-news.co.il/wp-content/uploads/2026/10/%D7%9E%D7%A6%D7%91%D7%AA-%D7%94%D7%92%D7%90%D7%95%D7%9F-%D7%A8%D7%91%D7%99-%D7%A4%D7%A0%D7%97%D7%A1-%D7%96%D7%9C%D7%99%D7%91%D7%A0%D7%A1%D7%A7%D7%99-577x1024.jpeg" alt="אבל כבד: ראש ישיבת מרכז התורה הגאון רבי פנחס זליבנסקי זצ&quot;ל" class="wp-image-664852" title="אבל כבד: ראש ישיבת מרכז התורה הגאון רבי פנחס זליבנסקי זצ&quot;ל"></figure></figure>
 
 
 
-<p class="wp-block-paragraph">על פי הדיווחים האחרונים, כמה מהנוכחים במקום נזקקו לטיפול רפואי. כמו כן, דווח על שימוש ברימוני הלם באזור תחנת דלק.</p>
+<p class="wp-block-paragraph">בשנות בחרותו למד בישיבת 'באר יעקב', שם קנה את תורתו וספג דרכי לימוד ועבודת המוסר מרבו ודודו ראש הישיבה הגאון רבי משה שמואל שפירא זצ&quot;ל, וכן ממהרבו המשגיח הגה&quot;צ רבי שלמה וולבה זצ&quot;ל.</p>
 
 
 
-<p class="wp-block-paragraph">האירועים נמשכים בשעה זו, כאשר כוחות משטרה גדולים פועלים בכביש 4 ובמוקדי המהומות בבני ברק. ההתפתחויות בשטח נמשכות.</p>
+<p class="wp-block-paragraph">בהגיעו לפרקו נשא את רעייתו הרבנית שתחי', בתו של גאון ישראל רבי חיים קרייזוירט זצ&quot;ל גאב&quot;ד אנטוורפן, אשר מינה אותו ברבות השנים לעמוד בראשות ישיבת &quot;מרכז התורה&quot; שהקים בירושלים.</p>
+
+
+
+<p class="wp-block-paragraph">המנוח זצ&quot;ל הוא אחיו של הגאון רבי חיים זליבנסקי זצ&quot;ל, ראש ישיבת &quot;מאור התלמוד&quot; ברחובות, וחותנו של הגאון רבי מנחם צבי טווערסקי, ראש ישיבת 'תורת חיים'. הוא הותיר אחריו דור ישרים מבורך, בנים, חתנים, צאצאים ואלפי תלמידים הכואבים את הסתלקותו. תהא נשמתו צרורה בצרור החיים.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.bhol.co.il/news/1626823?utm_source=ultra&amp;utm_medium=textlink&amp;UcId=931&amp;UsId=8108&amp;UaId=347&amp;Utype=textlink" target="_blank" rel="noreferrer noopener"></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hm-news.co.il/664750/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hm-news.co.il/664849/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>אסון במתחם הבורסה: מנוף קרס ממשאית &#8211; פועל נלכד ונהרג</title>
+		<link>https://hm-news.co.il/664844/</link>
+					<comments>https://hm-news.co.il/664844/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 15:19:35 +0000</pubDate>
+				<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[הצלה]]></category>
+		<category><![CDATA[מד"א]]></category>
+		<category><![CDATA[רמת גן]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664844</guid>
+
+					<description><![CDATA[אסון עבודה במתחם הבורסה ברמת גן: פועל כבן 30 נהרג לאחר שמנוף קרס ממשאית במהלך עבודתו • צוותי מד״א והצלה ביצעו בו פעולות החייאה, אך בשל חומרת פציעותיו נקבע מותו בזירה]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">פועל כבן 30 נהרג אחר הצהריים (רביעי) בתאונת עבודה קשה במתחם הבורסה ברמת גן, בדרך מנחם בגין, לאחר שמנוף שקרס ממשאית פגע בו ולכד אותו תחתיו. צוותי הרפואה ביצעו בו פעולות החייאה ממושכות, אך נאלצו לקבוע את מותו בזירה.</p>
+
+
+
+<p class="wp-block-paragraph">בשעה 16:28 התקבל דיווח במוקד 101 של מד״א במרחב דן על פועל שנפצע במהלך עבודתו. חובשים ופראמדיקים שהגיעו למקום מצאו אותו מחוסר הכרה, ללא נשימה וללא דופק, כשהוא סובל מחבלה רב־מערכתית.</p>
+
+
+
+<p class="wp-block-paragraph">פראמדיק מד״א עמרי לוטו וחובשי רפואת החירום ליאור שחר וגלעד גולינסקי סיפרו: &quot;מדובר בזירה קשה מאוד. כשהגענו למקום ראינו את הפועל שככה&quot;נ נפגע מחפץ כבד. הוא היה מחוסר הכרה, ללא נשימה וללא דופק וסבל מחבלה רב מערכתית. מיד התחלנו בפעולות החייאה מתקדמות אך פציעותיו היו אנושות ולא נותר לנו אלא לקבוע את מותו במקום.&quot;</p>
+
+
+
+<p class="wp-block-paragraph"> יו״ר הצלה אשר שלומוביץ וחובשי יחידת האופנועים של הארגון, יעקב טהרני ומנחם שטרן, מסרו: &quot;כשהגענו למקום, מצאנו פועל, גבר כבן 30 מחוסר הכרה, ללא דופק וללא נשימה עם חבלה רב מערכתית, לאחר שנפגע ממנוף שקרס באתר הבנייה. יחד עם חובשים ופראמדיקים של מד&quot;א ביצענו בו פעולות החייאה מתקדמות אשר כללו עיסויים ומתן סיוע נשימתי, אך למרבה הצער בשל אופי הפציעות נאלצו הפראמדיקים לקבוע את מותו במקום.&quot;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664844/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>כ״ץ נגד איזנקוט: &#034;פנייתו לבכירי צה&#034;ל &#8211; אמירה לא דמוקרטית&#034;</title>
+		<link>https://hm-news.co.il/664840/</link>
+					<comments>https://hm-news.co.il/664840/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 15:09:01 +0000</pubDate>
+				<category><![CDATA[פוליטי]]></category>
+		<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[בחירות 2026]]></category>
+		<category><![CDATA[בנימין נתניהו]]></category>
+		<category><![CDATA[גדי איזנקוט]]></category>
+		<category><![CDATA[ישראל כץ]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664840</guid>
+
+					<description><![CDATA[שר הביטחון ישראל כ״ץ תוקף את גדי איזנקוט בעקבות קריאתו לראשי מערכת הביטחון שלא לציית להנחיות נתניהו וכ״ץ • כ״ץ כינה את הדברים ״אמירה לא דמוקרטית ומנותקת״ והבהיר: צה״ל ימלא כל החלטה שתידרש]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">שר הביטחון ישראל כ״ץ תקף היום (רביעי) את יו״ר מפלגת ישר! גדי איזנקוט, בעקבות דברים שאמר אמש לאחר פרסום תוצאות המדגמים, ובהם פנה לראשי מערכת הביטחון וקרא להם שלא לציית להנחיות ראש הממשלה ושר הביטחון.</p>
+
+
+
+<p class="wp-block-paragraph">&quot;הרבה עוד ידובר על נאומו המביך של איזנקוט אתמול במיטב המסורת הפוליטית של המקדימים לשיר, להכריז ולהכתיר&quot;. כתב כ&quot;ץ בחשבון ה-X</p>
+
+
+
+<p class="wp-block-paragraph">שר הביטחון הוסיף ותקף את קריאתו של איזנקוט לדרג הצבאי הבכיר: &quot;אבל פנייתו לבכירי צה&quot;ל שלא לציית להנחיות של רה&quot;מ ושלי ושל הפורומים הביטחוניים המוסמכים &quot;כי יש להם גיבוי ממנו&quot; היא אמירה לא דמוקרטית ומנותקת, והמשך הקמפיין השקרי שהוא וחבריו ניהלו בבחירות בנושא סכסוכים כביכול בין הדרג הצבאי והמדיני בעניין איראן&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">כ&quot;ץ הדגיש בדבריו את התיאום ההדוק מול הצבא וציין כי &quot;צה&quot;ל היה שותף מלא להישגים הגדולים מול איראן ושותף גם כיום לכל הדיונים &#8211; וימלא כל החלטה שתידרש&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">כזכור, בנאום שנשא אמש במטה מפלגתו בעקבות פרסום המדגמים, פנה איזנקוט ישירות לבכירי מערכת הביטחון והשירות הציבורי ואמר: &quot;אני רוצה לפנות לכל ראשי מערכת הביטחון והשירות הציבורי. נתניהו הוא ראש ממשלת מעבר ללא מנדט ואמון&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">איזנקוט המשיך וקרא לראשי המערכת: &quot;זכרו שאתם משרתים את האינטרסים של אזרחי ישראל בלבד. עמדו חזק ואיתן כנגד כל ניסיון לאתגר אתכם. יש לכם גיבוי ברור שלי&quot;. בהמשך דבריו פנה ישירות לראש הממשלה והזהיר: &quot;נתניהו, אל תעז להשתמש בביטחון ישראל לצרכיך הפוליטיים&quot;.</p>
+
+
+
+<p class="wp-block-paragraph">הפנייה של איזנקוט עוררה תדהמה במערכת הפוליטית, כיוון שמדובר בצעד חריג ביותר של מועמד פוליטי הפונה בגלוי אל צמרת גופי הביטחון בעת שספירת הקולות נמשכת ובעיצומה של תקופה ביטחונית מתוחה.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664840/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>שריפת ענק משתוללת ביער בן שמן: 400 מטיילים פונו &#8211; כביש 444 נסגר</title>
+		<link>https://hm-news.co.il/664837/</link>
+					<comments>https://hm-news.co.il/664837/#respond</comments>
+		
+		<dc:creator><![CDATA[יצחק מושקוביץ]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 14:49:22 +0000</pubDate>
+				<category><![CDATA[בארץ]]></category>
+		<category><![CDATA[חדשות]]></category>
+		<category><![CDATA[יער בן שמן]]></category>
+		<category><![CDATA[כבאות והצלה]]></category>
+		<category><![CDATA[משטרת ישראל]]></category>
+		<guid isPermaLink="false">https://hm-news.co.il/?p=664837</guid>
+
+					<description><![CDATA[שריפה גדולה מתפשטת באזור יער בן שמן ונאות קדומים. כ-400 מטיילים פונו, עשרות צוותי כיבוי ושישה מטוסי כיבוי פועלים בזירה • כביש 444 נסגר לתנועה בשני הכיוונים, וכוחות הכיבוי מזהירים את הנהגים שלא להגיע לאזור ולבחור בדרכים חלופיות]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">שריפת חורש פרצה היום (רביעי) באזור יער בן שמן, כשהאש מתפשטת במהירות בחסות הרוחות. כוחות כיבוי גדולים פועלים בזירה, וכ-400 מטיילים מפונים מהשטח.</p>
+
+
+
+<p class="wp-block-paragraph">לפי כבאות והצלה, השריפה החלה בבית העלמין בחדיד ומשם התפשטה לכיוון יער בן שמן ונאות קדומים. האש דילגה בין כביש 444 לעבר כביש 1 וכביש 6, והובילה לחסימת צירים באזור מחלף בן שמן.</p>
+
+
+
+<p class="wp-block-paragraph">בעקבות השריפה נסגר כביש 444 לתנועה בשני הכיוונים, בעוד שבכביש 6 נחסמה התנועה לכיוון צפון. בהמשך נפתח כביש 6 לכיוון צפון בסמוך למחלף בן שמן.</p>
+
+
+
+<p class="wp-block-paragraph">נציב כבאות והצלה, רב-טפסר אייל כספי, הורה על הזנקת סיוע כלל-ארצי. כ-50 צוותי כיבוי נוספים מכלל המחוזות נקראו להגיע לזירה, לצד שישה מטוסי כיבוי שהוזנקו לסיוע במאמצים לבלום את התפשטות האש.</p>
+
+
+
+<p class="wp-block-paragraph">במשטרה עדכנו כי כביש 444 באזור מחלף בן שמן עדיין סגור לתנועת כלי רכב בשני הכיוונים, וביקשו מהציבור להשתמש בדרכים חלופיות ולהתעדכן בהסדרי התנועה.</p>
+
+
+
+<p class="wp-block-paragraph">בהודעת משטרת ישראל נכתב: &quot;בשל שריפה באיזור יער בן שמן, כביש 444 ליד מחלף בן שמן נסגר לתנועת כלי רכב לשני הכיוונים וכעת כביש 6 לכיוון צפון נפתח לתנועת כלי רכב סמוך למחלף בן שמן. אנו ממליצים לציבור לנסוע בדרכים חלופיות ולהתעדכן. משטרת ישראל תמשיך לעדכן את הציבור בדבר חסימות כבישים ושינויים בהסדרי התנועה בהתאם להתפתחויות ולהערכות המצב. בכל אירוע חריג יש לדווח למוקד 100 של משטרת ישראל. לקבלת מידע ניתן לפנות למוקד 110.&quot;</p>
+
+
+
+<p class="wp-block-paragraph">בכבאות והצלה מדגישים את הסכנה ומבקשים מציבור הנהגים להימנע לחלוטין מהגעה לאזור כביש 444, וכן למקטעים הסמוכים בכביש 1 וכביש 6. על הנהגים לבחור בדרכים חלופיות ולהישמע להוראות כוחות המשטרה והביטחון הפועלים במקום להכוונת התנועה ושמירה על ביטחון הציבור.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hm-news.co.il/664837/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
