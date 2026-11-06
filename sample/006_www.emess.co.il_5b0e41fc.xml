@@ -13,7 +13,7 @@
 	<atom:link href="https://www.emess.co.il/feed" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>מקבוצת קול חי</description>
-	<lastBuildDate>Thu, 05 Nov 2026 22:36:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Nov 2026 01:31:59 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -264,6 +264,7 @@
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Thu, 05 Nov 2026 20:11:35 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[גדי איזנקוט]]></category>
 		<category><![CDATA[המלצה לנשיא]]></category>
 		<category><![CDATA[המנדט להרכבת ממשלה]]></category>
@@ -353,6 +354,8 @@
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Thu, 05 Nov 2026 19:51:37 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
+		<category><![CDATA[בית הנשיא]]></category>
 		<category><![CDATA[המהדורה המרכזית]]></category>
 		<category><![CDATA[המלצה לנשיא]]></category>
 		<category><![CDATA[מאיר פרוש]]></category>
@@ -423,11 +426,12 @@
 				<category><![CDATA[פוליטי חדש]]></category>
 		<category><![CDATA[אבו מאזן]]></category>
 		<category><![CDATA[איימן עודה]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[הרשות הפלסטינית]]></category>
 		<category><![CDATA[הרשימה המשותפת]]></category>
 		<guid isPermaLink="false">https://www.emess.co.il/?p=1957001</guid>
 
-					<description><![CDATA[<p>גורמים פלסטיניים טוענים כי ח"כ איימן עודה קיבל כספים מהרשות הפלסטינית ומאנשי עסקים בחו"ל</p>
+					<description><![CDATA[<p>גורמים פלסטיניים טוענים כי חבר הכנסת איימן עודה קיבל כספים מהרשות הפלסטינית ומאנשי עסקים בחו"ל</p>
 <p>The post <a href="https://www.emess.co.il/radio/1957001">בהנחיית אבו מאזן: הכסף שהועבר לח&quot;כ הערבי</a> appeared first on <a href="https://www.emess.co.il">אמס MS</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>החשדות סביב יו&quot;ר הרשימה המשותפת היוצא, איימן עודה: גורמים פלסטיניים אמרו הערב (חמישי) לפרשן לענייני ערבים של ערוץ i24NEWS, ברוך ידיד, כי הטענות על העברת כספים מהרשות הפלסטינית לעודה אינן מפתיעות אותם. לדבריהם, יו&quot;ר הרשות, אבו מאזן, גיבה את פעילותו הפוליטית של חבר הכנסת, והכספים נועדו לקדם פעילות חברתית, ציבורית ופוליטית.</p>
@@ -587,6 +591,7 @@
 		<pubDate>Thu, 05 Nov 2026 18:57:36 +0000</pubDate>
 				<category><![CDATA[דעות]]></category>
 		<category><![CDATA[אהוד ברק]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[בן כספית]]></category>
 		<category><![CDATA[חוק הגיוס]]></category>
 		<category><![CDATA[ידידיה מאיר]]></category>
@@ -702,6 +707,7 @@
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Thu, 05 Nov 2026 18:32:18 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[המפלגות הערביות]]></category>
 		<category><![CDATA[מפלגת ביחד]]></category>
 		<category><![CDATA[נפתלי בנט]]></category>
@@ -782,7 +788,11 @@
 		<pubDate>Thu, 05 Nov 2026 18:04:43 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
 		<category><![CDATA[אביגדור ליברמן]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
+		<category><![CDATA[גדי איזנקוט]]></category>
+		<category><![CDATA[גוש השמאל]]></category>
 		<category><![CDATA[המפלגות החרדיות]]></category>
+		<category><![CDATA[הרכבת ממשלה]]></category>
 		<category><![CDATA[חוק הגיוס]]></category>
 		<guid isPermaLink="false">https://www.emess.co.il/?p=1956964</guid>
 
@@ -816,10 +826,12 @@
 		<dc:creator><![CDATA[פנחס בן זיו]]></dc:creator>
 		<pubDate>Thu, 05 Nov 2026 18:01:58 +0000</pubDate>
 				<category><![CDATA[משפטי חדש]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[דוד זיני]]></category>
 		<category><![CDATA[מימון זר]]></category>
 		<category><![CDATA[נועם סולברג]]></category>
 		<category><![CDATA[רע"מגייט]]></category>
+		<category><![CDATA[שוחד בחירות]]></category>
 		<guid isPermaLink="false">https://www.emess.co.il/?p=1956967</guid>
 
 					<description><![CDATA[<p>ממאות אלפי שקלים לפני הבחירות, לכ־8 מיליון לאחריהן ועד להערכה של 100 מיליון שקל • השאלה המרכזית: האם החשדות יבשילו לראיות מבוססות?</p>
@@ -858,6 +870,7 @@
 		<dc:creator><![CDATA[שניאור כהן]]></dc:creator>
 		<pubDate>Thu, 05 Nov 2026 18:00:45 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[בית הנשיא]]></category>
 		<category><![CDATA[גדי איזנקוט]]></category>
 		<category><![CDATA[המפלגות הערביות]]></category>
@@ -1296,6 +1309,7 @@
 		<pubDate>Thu, 05 Nov 2026 15:44:01 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
 		<category><![CDATA[אחמד טיבי]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[גדי איזנקוט]]></category>
 		<category><![CDATA[המלצה לנשיא]]></category>
 		<category><![CDATA[הרשימה המשותפת]]></category>
@@ -1343,9 +1357,11 @@
 		<pubDate>Thu, 05 Nov 2026 15:36:16 +0000</pubDate>
 				<category><![CDATA[פוליטי חדש]]></category>
 		<category><![CDATA[אחמד טיבי]]></category>
+		<category><![CDATA[בחירות לכנסת ה-26]]></category>
 		<category><![CDATA[גדי איזנקוט]]></category>
 		<category><![CDATA[ממשלת מיעוט]]></category>
 		<category><![CDATA[מנסור עבאס]]></category>
+		<category><![CDATA[נפתלי בנט]]></category>
 		<guid isPermaLink="false">https://www.emess.co.il/?p=1956914</guid>
 
 					<description><![CDATA[<p>בעקבות קריאת עבאס להקים ממשלה במהירות, עולה אפשרות למהלך פוליטי מפתיע: הצגת קווי יסוד והצבעה מזורזת על ממשלת מיעוט • ליברמן מתנגד נחרצות, בנט שומר שתיקה וגם במפלגת ישר נשמעות התנגדויות</p>
