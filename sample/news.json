@@ -1,11 +1,271 @@
 [
   {
+    "title": "המלחמה באיראן מטלטלת את הבית הלבן: טראמפ מתרחק מסגנו",
+    "link": "https://www.bhol.co.il/news/1745005?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T22:26:00Z"
+  },
+  {
+    "title": "הזנחה מחפירה: עובש, ריקבון ועכברים בתחנת טיפת חלב בבני ברק",
+    "link": "https://www.bhol.co.il/news/1744978?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T22:17:00Z"
+  },
+  {
+    "title": "מה קורה ברשת? שורת תקלות משבשת שירותים של ענקיות הטכנולוגיה",
+    "link": "https://www.bhol.co.il/news/1745002?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T22:14:00Z"
+  },
+  {
+    "title": "ארה\"ב מודה לראשונה: איראן תקפה תשתיות חיוניות בשטחה",
+    "link": "https://www.bhol.co.il/news/1745000?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T22:14:00Z"
+  },
+  {
+    "title": "הרחק מגבולות ישראל: התרגיל החריג של חיל האוויר ביוון",
+    "link": "https://www.bhol.co.il/news/1744995?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T22:12:00Z"
+  },
+  {
+    "title": "איראן מכינה את שלוחותיה: המיליציות בעיראק נערכות למלחמה",
+    "link": "https://www.bhol.co.il/news/1744994?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:56:00Z"
+  },
+  {
+    "title": "אישה נדבקה בכלבת במרכז הארץ; מצבה אנוש",
+    "link": "https://www.bhol.co.il/news/1745003?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:50:00Z"
+  },
+  {
+    "title": "\"איום מיידי על הכוחות\": צה\"ל פתח במבצע להשמדת מנהרת טרור בעזה",
+    "link": "https://www.bhol.co.il/news/1745004?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:47:00Z"
+  },
+  {
+    "title": "ליקויי בנייה וירידת ערך: החברה תשלם לרוכשי דירות מיליוני שקלים",
+    "link": "https://www.bhol.co.il/news/1741561?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:39:00Z"
+  },
+  {
+    "title": "לפני מעצר פעילי רע\"ם: עוזר המפכ\"ל השתתף בפגישה עם נתניהו",
+    "link": "https://www.bhol.co.il/news/1744999?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:29:00Z"
+  },
+  {
+    "title": "חשפה איש שב\"כ: היועמ\"שית תגיש מחדש כתב אישום נגד גוטליב",
+    "link": "https://www.bhol.co.il/news/1745001?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:20:00Z"
+  },
+  {
+    "title": "משפחת היימנוט דורשת שב\"כ; המפכ\"ל מסביר את הבחירה בלהב 433",
+    "link": "https://www.bhol.co.il/news/1744997?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:16:00Z"
+  },
+  {
+    "title": "בצל החשש: ביקור היסטורי של חברי הפרלמנט בציון הצדיק מקרעסטיר",
+    "link": "https://www.bhol.co.il/news/1744990?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:14:00Z"
+  },
+  {
+    "title": "הפגנה מול ביתו של בנט נגד ממשלה עם נתניהו: \"הוא ישקר גם לך\"",
+    "link": "https://www.bhol.co.il/news/1744989?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T21:14:00Z"
+  },
+  {
+    "title": "בדרך לבג\"ץ? דרישה למנוע את מינוי גלעד קריב לראשות הוועדה",
+    "link": "https://www.bhol.co.il/news/1744992?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:59:00Z"
+  },
+  {
+    "title": "אירוע חריג בכפר קאסם: נהג יהודי דרס 8 בני אדם בחמישה מוקדים",
+    "link": "https://www.bhol.co.il/news/1744996?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:55:00Z"
+  },
+  {
+    "title": "לזכר הבן שנהרג: ספר תורה הוכנס לישיבת \"אורחות יהודה\" בראשות גדולי ישראל",
+    "link": "https://www.bhol.co.il/news/1744998?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:51:00Z"
+  },
+  {
+    "title": "עד להקמת ממשלה: ש\"ס הגישה חוק להקפאת מעצרי בני הישיבות",
+    "link": "https://www.bhol.co.il/news/1744993?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:43:00Z"
+  },
+  {
+    "title": "תוכניות התקיפה מוכנות; נתניהו קובע: \"אין מנוס מפעולה באיראן\"",
+    "link": "https://www.bhol.co.il/news/1744991?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:36:00Z"
+  },
+  {
+    "title": "אחרי הפגישה עם נתניהו: כך מתכנן בנט להביא לממשלת אחדות",
+    "link": "https://www.bhol.co.il/news/1744988?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:28:00Z"
+  },
+  {
+    "title": "המקור שהוביל למעצרי רע\"ם דורש מהיועמ\"שית לפתוח בבדיקה",
+    "link": "https://www.bhol.co.il/news/1744987?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T20:25:00Z"
+  },
+  {
+    "title": "סערה באיטליה: החוק נגד אנטישמיות אושר, פוליטקאי יהודי פרש בדמעות",
+    "link": "https://www.bhol.co.il/news/1744985?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T19:56:00Z"
+  },
+  {
+    "title": "טרגדיה במונסי: מרת בת שבע פרנק ע\"ה נהרגה בתאונת רכבת",
+    "link": "https://www.bhol.co.il/news/1744986?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T19:28:00Z"
+  },
+  {
+    "title": "האסלאם מזנק, הנצרות נחלשת: התחזית שמסעירה את העולם",
+    "link": "https://www.bhol.co.il/news/1744984?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T19:24:00Z"
+  },
+  {
+    "title": "השריפים האמריקנים בכנסת: \"המאבק באנטישמיות הוא אחריות של כולנו\"",
+    "link": "https://www.bhol.co.il/news/1744983?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T19:21:00Z"
+  },
+  {
+    "title": "ראש המוסד דחף לתקיפה באיראן, מפקד סנטקום הגיע לקריה",
+    "link": "https://www.bhol.co.il/news/1744982?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T19:15:00Z"
+  },
+  {
+    "title": "הכנסת אישרה הקמת שתי ועדות לביטול חוקי המשפט והתקשורת",
+    "link": "https://www.bhol.co.il/news/1744981?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T18:37:00Z"
+  },
+  {
+    "title": "ח\"כ חנמאל דורפמן הורד מהדוכן בעימות עם אחמד טיבי",
+    "link": "https://www.bhol.co.il/news/1744980?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T18:36:00Z"
+  },
+  {
+    "title": "מסע היסטורי של 'ברכת שמואל' לווילנא לציון מרן ר' ברוך בער",
+    "link": "https://www.bhol.co.il/news/1744925?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T18:31:00Z"
+  },
+  {
+    "title": "הפרה שיטתית של הפסקת האש: צה\"ל ושב\"כ חיסלו שני מפקדים בזרוע הצבאית",
+    "link": "https://www.bhol.co.il/news/1744976?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:46:00Z"
+  },
+  {
+    "title": "הפרקליטות החליטה: הנהג שדרס למוות את הנער החרדי יואשם בעבירת המתה מקלה יותר",
+    "link": "https://www.bhol.co.il/news/1744979?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:38:00Z"
+  },
+  {
+    "title": "לפיד ממשיך לשדר עסקים כרגיל: \"בנט ואני פועלים להקמת ממשלת אייזנקוט\"",
+    "link": "https://www.bhol.co.il/news/1744977?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:19:00Z"
+  },
+  {
+    "title": "המסר החריף שיצא מפגישת ראשי מפלגות גוש השינוי",
+    "link": "https://www.bhol.co.il/news/1744974?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:15:00Z"
+  },
+  {
+    "title": "היעד לחיסול האיראני: איש עסקים יהודי ונשיא הקהילה באתונה לשעבר",
+    "link": "https://www.bhol.co.il/news/1744975?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:11:00Z"
+  },
+  {
+    "title": "מצוקה חמורה בתחמושת: ההחלטה החריגה במערך הטילים נגד איראן",
+    "link": "https://www.bhol.co.il/news/1744973?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:11:00Z"
+  },
+  {
+    "title": "הסכם ערים תאומות: גשר של ברכה בין הערים בוברויסק לבירוביג'אן",
+    "link": "https://www.bhol.co.il/news/1744969?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:03:00Z"
+  },
+  {
+    "title": "רבני הציונות הדתית לגר\"ד לנדו והגרמ\"ה הירש: \"אל תתנו יד לפשע הנורא\"",
+    "link": "https://www.bhol.co.il/news/1744970?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T17:02:00Z"
+  },
+  {
+    "title": "הגיע לנפץ שמשות ולגנוב סחורה - וגילה שהעובדים הם בלשי משטרה",
+    "link": "https://www.bhol.co.il/news/1744968?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:59:00Z"
+  },
+  {
+    "title": "ההורים נעצרו: תינוקת אובחנה עם שברים בגופה",
+    "link": "https://www.bhol.co.il/news/1744967?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:57:00Z"
+  },
+  {
+    "title": "התפללו: זקן ראשי הישיבות באירופה פונה שוב לבית החולים",
+    "link": "https://www.bhol.co.il/news/1744972?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:51:00Z"
+  },
+  {
+    "title": "שמחה ב'רנה של תורה': ראש הישיבה אירס את המוז'יניק",
+    "link": "https://www.bhol.co.il/news/1744971?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:45:00Z"
+  },
+  {
+    "title": "גבול פולין: מוסקבה תכננה פיגוע מבוים להאשמת אוקראינה",
+    "link": "https://www.bhol.co.il/news/1744966?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:18:00Z"
+  },
+  {
+    "title": "הבינה המלאכותית חשפה פרצת אבטחה שהסתתרה במשך עשור",
+    "link": "https://www.bhol.co.il/news/1744965?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:17:00Z"
+  },
+  {
+    "title": "לא רק פוליטיקה: הפרויקט החדש של נתניהו מעבר לים",
+    "link": "https://www.bhol.co.il/news/1744964?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T16:14:00Z"
+  },
+  {
+    "title": "בנוכחות ראש המל\"ל: חבר בד\"ץ 'העדה' ביקש את הטלפון של החייל",
+    "link": "https://www.bhol.co.il/news/1744955?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:44:00Z"
+  },
+  {
+    "title": "הגיל השלישי על המפה: ארגון 'תבונה' מרים את הכפפה וחושף איפה מסתתר הכסף שלכם",
+    "link": "https://www.bhol.co.il/news/1744963?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:25:00Z"
+  },
+  {
+    "title": "אנשי דת המשמשים כקציני משטרה מעשרות מדינות בארה\"ב ביקרה במטה הארצי של זק\"א",
+    "link": "https://www.bhol.co.il/news/1744962?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:22:00Z"
+  },
+  {
+    "title": "עזבו כנס בחו\"ל וטסו להציל חיים: המרוץ נגד הזמן להצלת אב בן 37 שליבו קרס",
+    "link": "https://www.bhol.co.il/news/1744961?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:20:00Z"
+  },
+  {
+    "title": "עד 58 ימי מילואים, יותר אימונים: התוכנית החדשה שאישר הרמטכ\"ל",
+    "link": "https://www.bhol.co.il/news/1744959?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:19:00Z"
+  },
+  {
+    "title": "בנט רוצה אחדות, ליברמן את החרדים וגולן את הערבים - ואיזנקוט באמצע",
+    "link": "https://www.bhol.co.il/news/1744958?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:15:00Z"
+  },
+  {
+    "title": "הופסקו ההליכים נגד אחד הנאשמים ברצח הנער ניסים שטרית",
+    "link": "https://www.bhol.co.il/news/1744957?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T15:10:00Z"
+  },
+  {
+    "title": "\"וזו השנה שמתפללים ונענים\": פוסק הדור מכנס בית דין מיוחד בשעה התשיעית",
+    "link": "https://www.bhol.co.il/news/1744956?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
+    "time": "2026-11-18T14:35:00Z"
+  },
+  {
     "title": "לקראת חתונת הנכדה הראשונה: הגאב\"ד אצל פוסק הדור ופאר הדור",
     "link": "https://www.bhol.co.il/news/1744953?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
     "time": "2026-11-18T14:29:00Z"
   },
   {
-    "title": "המשא ומתן מסתבך: הדרישות של הליכוד שמכעיסות את גוש השינוי",
+    "title": "בתום פגישת נתניהו ובנט: גוש השינוי מתכנס בצל מחלוקות האחדות",
     "link": "https://www.bhol.co.il/news/1744951?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
     "time": "2026-11-18T14:28:00Z"
   },
@@ -255,614 +515,569 @@
     "time": "2026-11-17T23:37:00Z"
   },
   {
-    "title": "עידן חדש בכנסת: מתן כהנא נבחר לתפקיד היו\"ר",
-    "link": "https://www.bhol.co.il/news/1744896?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:51:00Z"
+    "title": "היועמ\"שית לא מוותרת: כתב אישום חדש יוגש נגד טלי גוטליב",
+    "link": "https://hm-news.co.il/669390/",
+    "time": "2026-11-18T21:05:43Z"
   },
   {
-    "title": "תאונה אווירית ברוסיה: מטוס מטען התרסק סמוך לעיר קמרובו",
-    "link": "https://www.bhol.co.il/news/1744889?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:44:00Z"
+    "title": "אשה נדבקה בכלבת מכלבה שנמצאה בכביש ומאושפזת במצב אנוש",
+    "link": "https://hm-news.co.il/669388/",
+    "time": "2026-11-18T20:57:34Z"
   },
   {
-    "title": "הגיע הזמן לומר די לרדיפה",
-    "link": "https://www.bhol.co.il/news/1744895?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:33:00Z"
+    "title": "הפגישה הדרמטית, הסערה בכנסת והמהלך של ש\"ס",
+    "link": "https://hm-news.co.il/669380/",
+    "time": "2026-11-18T20:00:00Z"
   },
   {
-    "title": "שגריר ארה\"ב באו\"ם ביצע 20 שכיבות סמיכה עם חיילי המארינס בלבנון",
-    "link": "https://www.bhol.co.il/news/1744888?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:15:00Z"
+    "title": "איראן בהוראה חריגה למיליציות בעיראק: \"אל תמסרו את הנשק\"",
+    "link": "https://hm-news.co.il/669384/",
+    "time": "2026-11-18T19:53:16Z"
   },
   {
-    "title": "קיבל על עצמו להניח תפילין ומצא מטבע זהב בשווי 20,000 ש''ח",
-    "link": "https://www.bhol.co.il/news/1744885?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:12:00Z"
+    "title": "צה\"ל נכנס לשטח חמאס: המבצע החריג להשמדת מנהרת הטרור",
+    "link": "https://hm-news.co.il/669382/",
+    "time": "2026-11-18T19:45:22Z"
   },
   {
-    "title": "דהירה מסוכנת מול קהל הצופים: המרוץ הצבעוני שמתקיים מדי שנה בטנזניה",
-    "link": "https://www.bhol.co.il/news/1744882?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:11:00Z"
+    "title": "בנט הציע לנתניהו: איזנקוט ראשון ברוטציה – כך הגיבו בגוש השינוי",
+    "link": "https://hm-news.co.il/669377/",
+    "time": "2026-11-18T19:28:08Z"
   },
   {
-    "title": "בנט מציב אולטימטום לשותפיו - וסופג ביקורת: \"מתכונן לבחירות\"",
-    "link": "https://www.bhol.co.il/news/1744880?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T22:03:00Z"
+    "title": "לא סומכים על הבטחות: מסמך הדרישות של המפלגות החרדיות נחשף",
+    "link": "https://hm-news.co.il/669373/",
+    "time": "2026-11-18T19:19:41Z"
   },
   {
-    "title": "יהדות התורה תימנע בהצבעה במליאת הכנסת על בחירת סגני יו\"ר הכנסת",
-    "link": "https://www.bhol.co.il/news/1744894?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:54:00Z"
+    "title": "כמעט יפנית במחיר כמעט סיני: מאזדה משיקה את החשמלית הראשונה",
+    "link": "https://hm-news.co.il/669340/",
+    "time": "2026-11-18T19:15:00Z"
   },
   {
-    "title": "סרביה: מטוס קרב התרסק סמוך לבלגרד | הטייס נהרג",
-    "link": "https://www.bhol.co.il/news/1744887?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:48:00Z"
+    "title": "רימו אותך? יעקב אבינו מלמד כיצד להתנהג | הרב אברהם שוורץ",
+    "link": "https://hm-news.co.il/669307/",
+    "time": "2026-11-18T19:00:00Z"
   },
   {
-    "title": "איראן: כ-1,000 מפגינים יצאו לרחובות בעיר אבדאנאן בעקבות תאונה קטלנית",
-    "link": "https://www.bhol.co.il/news/1744881?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:48:00Z"
+    "title": "רטיבות, הצפות וקצרים: האם הבית שלכם מוכן לחורף?",
+    "link": "https://hm-news.co.il/669366/",
+    "time": "2026-11-18T18:45:00Z"
   },
   {
-    "title": "דרמה בשב\"כ: מקורות מודיעיניים נחשפו במהלך חקירת הבחירות",
-    "link": "https://www.bhol.co.il/news/1744877?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:45:00Z"
+    "title": "תיעוד סוער: מפגינים התנפלו על רכבו של ח\"כ פרוש בירושלים | צפו",
+    "link": "https://www.kikar.co.il/israel-news/topt0t",
+    "time": "2026-11-18T20:36:09Z"
   },
   {
-    "title": "בכיר בצבא ארה\"ב לרויטרס: תקפנו אתר לשיגור טילים של משמרות המהפכה באי קשם",
-    "link": "https://www.bhol.co.il/news/1744893?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:34:00Z"
+    "title": "נקודת מפנה: טראמפ מאוכזב מסגנו - ושוקל תמיכה ביורש המתחרה",
+    "link": "https://www.kikar.co.il/world-news/topscc",
+    "time": "2026-11-18T20:27:11Z"
   },
   {
-    "title": "אם רק תרצו, כל אחד יכול להיות מגדולי ישראל: ראש הישיבה חזר על דבריו של פוסק הדור",
-    "link": "https://www.bhol.co.il/news/1744892?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:33:00Z"
+    "title": "מעבר לקו הצהוב: צה\"ל פתח במתקפה נגד מנהרת טרור",
+    "link": "https://www.kikar.co.il/israel-news/topqxa",
+    "time": "2026-11-18T19:50:46Z"
   },
   {
-    "title": "הליכוד הגיע להסכמות עם גוש השינוי על קיצור ההצבעה על יו״ר הכנסת שתתקיים כבר בשעה הקרובה",
-    "link": "https://www.bhol.co.il/news/1744891?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:29:00Z"
+    "title": "תאונה קטלנית: הולכת רגל נהרגה בלב תל אביב",
+    "link": "https://www.kikar.co.il/israel-news/topq8u",
+    "time": "2026-11-18T19:36:19Z"
   },
   {
-    "title": "אב החטוף קרע את חולצתו מעל דוכן הכנסת: \"הרי זה אבל\"",
-    "link": "https://www.bhol.co.il/news/1744884?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:20:00Z"
+    "title": "הבוקר שאחרי החתונה: המגיד במסר שכל זוג נשוי (ומאורס) חייב לשמוע",
+    "link": "https://www.kikar.co.il/haredim-news/marriage-relationships-yaakov-rachel-leah",
+    "time": "2026-11-18T19:33:00Z"
   },
   {
-    "title": "כחסיד לפני רבו: תיאור מלא משבת היסטורית של הרבי ממכנובקא בעלזא בסקווירא",
-    "link": "https://www.bhol.co.il/news/1744890?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:16:00Z"
+    "title": "הון, שלטון ומה שביניהם: האם האזרח הקטן נשאר מאחור?",
+    "link": "https://www.kikar.co.il/kipot-shchorot/conflict-of-interest-knesset-finance-committee",
+    "time": "2026-11-18T19:20:23Z"
   },
   {
-    "title": "תקלת ענק באפל: משתמשים ננעלו מחוץ לחשבונות",
-    "link": "https://www.bhol.co.il/news/1744886?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:12:00Z"
+    "title": "\"איך אתם מעזים?\" המתקפה החריפה נגד התחקיר שמגלה על מליונים שיש לרב",
+    "link": "https://www.kikar.co.il/davar-rishon/haredi-kosher-phones-breach-controversy",
+    "time": "2026-11-18T19:16:15Z"
   },
   {
-    "title": "הרבי מקאלוב במכתב חירום ליהודי צרפת: \"היזהרו שלא לעלות לארץ ישראל בבהלה\"",
-    "link": "https://www.bhol.co.il/news/1744883?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:05:00Z"
+    "title": "פרטי הפגישה הסודית נחשפים: הצעת בנט לרה\"מ - שכוללת את חוק הגיוס",
+    "link": "https://www.kikar.co.il/israel-news/topp0p",
+    "time": "2026-11-18T19:11:51Z"
   },
   {
-    "title": "המוסד סיפק את המידע: כך סוכל ניסיון ההתנקשות בבכיר ישראלי ביוון",
-    "link": "https://www.bhol.co.il/news/1744878?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T21:00:00Z"
+    "title": "אירוע חריג בכפר קאסם: נהג יהודי דרס תושבים ב-5 זירות; ככל הנראה תחת השפעה",
+    "link": "https://www.kikar.co.il/news/topnk7",
+    "time": "2026-11-18T18:40:50Z"
   },
   {
-    "title": "לקראת תקיפה באיראן? התנאי של הרמטכ\"ל וההוראות של נתניהו",
-    "link": "https://www.bhol.co.il/news/1744879?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T20:52:00Z"
+    "title": "דיווח: זה מה שאמר גופמן בפגישתו עם האמריקאים - והמודיעין הסודי שהעביר",
+    "link": "https://www.kikar.co.il/security-news/mossad-chief-gofman-trump-iran-strike-push",
+    "time": "2026-11-18T18:25:55Z"
   },
   {
-    "title": "שופט חיטט בטלפון של בעל דין, נציב התלונות נזף בו",
-    "link": "https://www.bhol.co.il/news/1744874?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T20:42:00Z"
+    "title": "הבדיחה לא הצחיקה: קומיקאי הותקף באגרופים לעיני הקהל ההמום",
+    "link": "https://www.kikar.co.il/world-news/topmqy",
+    "time": "2026-11-18T18:21:49Z"
   },
   {
-    "title": "נתניהו: \"האיומים גדולים מלפני מלחמת ששת הימים - זה לא ספין\"",
-    "link": "https://www.bhol.co.il/news/1744876?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T20:34:00Z"
+    "title": "להב 433 חשפה פרשת הלבנת הון בחצי מיליארד; נתפסו רכבי יוקרה",
+    "link": "https://www.kikar.co.il/police/flash-royal-affair-14-arrested-detained-half-billion-money-laundering",
+    "time": "2026-11-18T18:18:49Z"
   },
   {
-    "title": "רובי קלצ'ניקוב באמצעות בלונים: הברחת נשק סוכלה בגבול מצרים",
-    "link": "https://www.bhol.co.il/news/1744873?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T20:31:00Z"
+    "title": "בצל המתיחות מול איראן: טורקיה וקטאר חתמו על הסכם הגנה",
+    "link": "https://www.kikar.co.il/world-news/turkey-qatar-sign-new-mutual-defense-agreement-istanbul",
+    "time": "2026-11-18T18:13:57Z"
   },
   {
-    "title": "נתניהו בהצהרה מיוחדת מהכנסת: \"האיומים היום גדולים מפעם, ולכן מה שצריך זו ממשלת אחדות\"",
-    "link": "https://www.bhol.co.il/news/1744875?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T20:15:00Z"
+    "title": "מצמרר: בתה של דפנה מאיר הי\"ד הביאה תאומות לעולם ביום הולדת אימה",
+    "link": "https://www.kikar.co.il/israel-news/renana-meir-twins-birth-mothers-birthday",
+    "time": "2026-11-18T18:10:50Z"
   },
   {
-    "title": "בריטניה הטילה סנקציות, סער מאיים: \"ישראל תנקוט בצעדי נגד\"",
-    "link": "https://www.bhol.co.il/news/1744872?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T20:01:00Z"
+    "title": "קשה לצפייה: אב ובנו נעצרו בחשד שהשליכו כלב קשור למותו מפסגת הר",
+    "link": "https://www.kikar.co.il/israel-news/animal-cruelty-arrest-dog-death",
+    "time": "2026-11-18T17:42:02Z"
   },
   {
-    "title": "סרבן הגט נשלח ל-27 חודשי מאסר: \"נהנה מסבלה המתמשך של אשתו\"",
-    "link": "https://www.bhol.co.il/news/1744870?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:58:00Z"
+    "title": "איראן, תסתכלו: התמונות שפרסם דובר צה\"ל מהפגישה - בצל הדיווחים",
+    "link": "https://www.kikar.co.il/security-news/idf-chief-mossad-head-centcom-commander-meeting",
+    "time": "2026-11-18T16:57:10Z"
   },
   {
-    "title": "\"אני אהרוג את כולכם\": שנת מאסר לאמריקני שאיים לרצוח יהודים",
-    "link": "https://www.bhol.co.il/news/1744871?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:57:00Z"
+    "title": "״מפחיד להסתובב ברחובות״: שורת תקיפות כלבים, ילדים ונשים בין הנפגעים",
+    "link": "https://www.kikar.co.il/israel-news/dog-attacks-afula",
+    "time": "2026-11-18T16:35:55Z"
   },
   {
-    "title": "יורש העצר האיראני להרצוג: \"תהיה האורח הראשון שלי באיראן החופשית\"",
-    "link": "https://www.bhol.co.il/news/1744869?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:48:00Z"
+    "title": "מודיעין עילית: אב חשוד בפגיעה בבנותיו | שי טראמפ ופוטין לחצו ידיים",
+    "link": "https://www.kikar.co.il/ayom-bakikar/netanyahu-bennett-meeting-knesset",
+    "time": "2026-11-18T16:32:11Z"
   },
   {
-    "title": "וואטסאפ משנה את הדרך שבה מגבים שיחות - ומציעה אחסון בחינם",
-    "link": "https://www.bhol.co.il/news/1744868?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:42:00Z"
+    "title": "הפגישה דרמטית בין בנט לנתניהו המבוי סתום במו\"מ עם 'יהדות התורה'",
+    "link": "https://www.kikar.co.il/hzira/top6kx",
+    "time": "2026-11-18T16:30:00Z"
   },
   {
-    "title": "לא רק פטיש במליאה: מה הסמכויות של יו\"ר הכנסת ולמה כולם נאבקים על התפקיד?",
-    "link": "https://www.bhol.co.il/news/1744867?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:33:00Z"
+    "title": "בנט לראשי הגוש: \"השיחה עם נתניהו הייתה חצי פוליטית\" | גדי איזנקוט: \"אנו מבזבזים זמן לחינם\"",
+    "link": "https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-eisenkot-rotation-propos",
+    "time": "2026-11-18T16:17:45Z"
   },
   {
-    "title": "התרגשות שיא בויז'ניץ: הבן מאלעד מונה לרב קהילות החסידות בארה\"ב",
-    "link": "https://www.bhol.co.il/news/1744846?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:29:00Z"
+    "title": "מבזק חדשות כיכר FM | מהדורת השעה 18:00",
+    "link": "https://www.kikar.co.il/kikar-scoop-news/topghh",
+    "time": "2026-11-18T16:00:00Z"
   },
   {
-    "title": "לאחר מאבק הרב הראשי: נמנעה נתיחת גופת יהודייה בארגנטינה",
-    "link": "https://www.bhol.co.il/news/1744866?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T19:16:00Z"
+    "title": "מזעזע: חנק רופאה בחניון במרכז והמשיך גם לאחר שאמרה ששבר את רגלה",
+    "link": "https://www.kikar.co.il/israel-news/violent-robbery-doctor-parking-lot",
+    "time": "2026-11-18T15:58:34Z"
   },
   {
-    "title": "חקירת השב\"כ: אין ראיות לשוחד בחירות שעשוי לשנות את התוצאות",
-    "link": "https://www.bhol.co.il/news/1744865?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T18:55:00Z"
+    "title": "למרות ההסכמות: הפרקליטות בצעד חריג בתיקי נתניהו",
+    "link": "https://www.kikar.co.il/laws/topg8z",
+    "time": "2026-11-18T15:55:47Z"
   },
   {
-    "title": "לקראת שיתוף פעולה? בקשת הרשימה המשותפת ממתן כהנא",
-    "link": "https://www.bhol.co.il/news/1744864?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T18:54:00Z"
+    "title": "עימות סוער במליאה: טיבי הורה לסלק את דורפמן מהדוכן | צפו",
+    "link": "https://www.kikar.co.il/israel-news/knesset-dorfman-tibi-confrontation",
+    "time": "2026-11-18T15:51:29Z"
   },
   {
-    "title": "ראש השב\"כ זיני עדכן את סולברג: \"אין ראיות לתשלום שוחד בחירות לבוחרים בהיקף שעלול להשפיע על התוצאות\"",
-    "link": "https://www.bhol.co.il/news/1744863?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T18:33:00Z"
+    "title": "נחשף היעד: זה היה האיש שאותו רצתה החולייה האיראנית לחסל",
+    "link": "https://www.kikar.co.il/world-news/iran-assassination-plot-greece-jewish-businessman",
+    "time": "2026-11-18T15:47:24Z"
   },
   {
-    "title": "הרשת המסווגת של הסוכנות לביטחון לאומי בארה\"ב קרסה",
-    "link": "https://www.bhol.co.il/news/1744860?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T18:04:00Z"
+    "title": "מפלצת בתא הנוסע: התנפל על הנהג וחנק אותו עם חגורת בטיחות",
+    "link": "https://www.kikar.co.il/world-news/topf80",
+    "time": "2026-11-18T15:37:52Z"
   },
   {
-    "title": "רשת התקשורת הביטחונית המסווגת ביותר של הצבא האמריקני קרסה",
-    "link": "https://www.bhol.co.il/news/1744861?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T17:57:00Z"
+    "title": "תיעוד סוער: כך הוציאו הלוחמים את החשוד במעורבות ברצח מהבניין",
+    "link": "https://www.kikar.co.il/israel-news/gideonim-unit-arrest-rawabi-murder-suspect",
+    "time": "2026-11-18T15:28:09Z"
   },
   {
-    "title": "החל הקרב על ראשות הכנסת: אופיר כץ ומתן כהנא מתמודדים על התפקיד",
-    "link": "https://www.bhol.co.il/news/1744859?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T17:46:00Z"
+    "title": "\"לכל המודאגים\": ההודעה של לפיד אחרי פגישת בנט ונתניהו",
+    "link": "https://www.kikar.co.il/political-news/lapid-bennett-change-government-eisenkot",
+    "time": "2026-11-18T15:21:42Z"
   },
   {
-    "title": "קרעי ודגן: פריסת האנטנות בצפון השומרון תואץ",
-    "link": "https://www.bhol.co.il/news/1744856?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:56:00Z"
+    "title": "מבזק חדשות כיכר FM | מהדורת השעה 17:00",
+    "link": "https://www.kikar.co.il/kikar-scoop-news/top8nu",
+    "time": "2026-11-18T15:00:00Z"
   },
   {
-    "title": "הישג דרמטי לחוות: צניחה בלתי נתפסת במספר האירועים על כביש אלון",
-    "link": "https://www.bhol.co.il/news/1744855?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:54:00Z"
+    "title": "אחרי הפגישה, ראשי גוש השינוי בהודעה משותפת: \"רואים עין בעין את הדחיפות בהחלפת נתניהו\"",
+    "link": "https://www.kikar.co.il/political-news/change-bloc-joint-statement-eisenkot-government",
+    "time": "2026-11-18T14:57:02Z"
   },
   {
-    "title": "לא רק רובוט בחדר הניתוח: המרכז החדש בהדסה שמרכז את הטיפול בגידולי בית החזה",
-    "link": "https://www.bhol.co.il/news/1744854?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:53:00Z"
+    "title": "רבנים דתיים במכתב חריג לגדולי ישראל: \"אל תקימו ממשלה עם נוכרים\"",
+    "link": "https://www.kikar.co.il/political-news/religious-zionist-rabbis-letter-haredi-leaders-coa",
+    "time": "2026-11-18T14:52:17Z"
   },
   {
-    "title": "כעת במליאת הכנסת: החל הדיון על בחירת יו\"ר הכנסת",
-    "link": "https://www.bhol.co.il/news/1744853?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:51:00Z"
+    "title": "שנייה מאסון: רכב אוטונומי נתקע על מסילת הרכבת - כך זה הסתיים | צפו",
+    "link": "https://www.kikar.co.il/world-news/topc6x",
+    "time": "2026-11-18T14:33:03Z"
   },
   {
-    "title": "בן גביר נגד מינוי מתן כהנא ליו\"ר הכנסת: \"בושה וחרפה\"",
-    "link": "https://www.bhol.co.il/news/1744850?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:50:00Z"
+    "title": "דיווח: איראן תכננה לפגוע בבכירי ממשל טראמפ בנשק כימי",
+    "link": "https://www.kikar.co.il/world-news/cnn-report-iran-plans-dirty-bomb-chemical-attack-trump-officials",
+    "time": "2026-11-18T14:30:14Z"
   },
   {
-    "title": "האוצר חושף: נטל המס בישראל הגיע לשיא של שני עשורים",
-    "link": "https://www.bhol.co.il/news/1744843?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:48:00Z"
+    "title": "הזמר החרדי שזכה בפרס אקו\"ם היוקרתי: \"מיצב את עצמו כגשר בין העולמות\"",
+    "link": "https://www.kikar.co.il/tassel/shouli-rand-acum-uzi-hitman-prize-2025",
+    "time": "2026-11-18T14:25:41Z"
   },
   {
-    "title": "איזנקוט על חוק הגיוס: \"נחפש פשרות, אבל לא יהיה ויתור\"",
-    "link": "https://www.bhol.co.il/news/1744848?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:37:00Z"
+    "title": "נחלים פופולריים בצפון נסגרו שוב: זו הסיבה החריגה וסימני הזהירות",
+    "link": "https://www.kikar.co.il/israel-news/northern-streams-pollution-warning-november-2026",
+    "time": "2026-11-18T14:22:13Z"
   },
   {
-    "title": "גורמים במשרד רה\"מ טוענים: דניאל גרינברג התחזה לבכיר בשב\"כ",
-    "link": "https://www.bhol.co.il/news/1744845?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:23:00Z"
+    "title": "הרב יהושע ענבל על עולם הישיבות: \"פעם חיפשו נוקאאוט, היום מחפשים אמת\" | מטלטל",
+    "link": "https://www.kikar.co.il/579/yeshiva-world-faith-questions",
+    "time": "2026-11-18T14:15:47Z"
   },
   {
-    "title": "מעצר שערורייתי בנתב\"ג: אברך שהסיע את משפחתו לטיסה נלכד ביציאה מהטרמינל",
-    "link": "https://www.bhol.co.il/news/1744844?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:13:00Z"
+    "title": "מבזק חדשות כיכר FM | מהדורת השעה 16:00",
+    "link": "https://www.kikar.co.il/kikar-scoop-news/top81y",
+    "time": "2026-11-18T14:00:00Z"
   },
   {
-    "title": "דיווחים באיראן: לפחות שבעה פיצוצים באי קשם בעקבות תקיפה אמריקנית",
-    "link": "https://www.bhol.co.il/news/1744842?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T16:11:00Z"
+    "title": "סופגנייה שלישית ברצף: האם צריכים לברך ברכת המזון? • צפו",
+    "link": "https://www.kikar.co.il/sederhalacha/tlwuk3-39",
+    "time": "2026-11-18T14:00:00Z"
   },
   {
-    "title": "10 ילדים מחכים לאבא בבית: חשש כבד לחייו של ר' אברהם ישעיהו אדלר",
-    "link": "https://www.bhol.co.il/news/1744841?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T15:54:00Z"
+    "title": "חשד מזעזע באשדוד: תינוקת בת 4 חודשים הגיעה לבית חולים עם שברים בגופה - ההורים נעצרו",
+    "link": "https://www.kikar.co.il/israel-news/ashdod-infant-abuse-suspicion-parents-arrested",
+    "time": "2026-11-18T13:43:47Z"
   },
   {
-    "title": "אייל ברקוביץ': \"אם נתניהו חף מפשע - כולם בפרקליטות צריכים ללכת לכלא\"",
-    "link": "https://www.bhol.co.il/news/1744838?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T15:53:00Z"
+    "title": "\"צייד הלילה\" שהטיל אימה על תחנות דלק בכביש 65 נתפס במארב מבריק | צפו",
+    "link": "https://www.kikar.co.il/police/night-hunter-gas-stations-highway-65-undercover-ar",
+    "time": "2026-11-18T13:42:15Z"
   },
   {
-    "title": "חברה ישראלית מציעה עשרות אלפי דולרים למי שיצליח \"לעבוד\" על סוכן AI",
-    "link": "https://www.bhol.co.il/news/1744840?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T15:45:00Z"
+    "title": "בהלה בלב בני ברק: בולען ענק נפער באמצע הכביש; האוטובוס שקע לתוכו",
+    "link": "https://www.kikar.co.il/bnei-brak-news/sinkhole-bus-bnei-brak-damascus-eliezer-street",
+    "time": "2026-11-18T13:37:39Z"
   },
   {
-    "title": "מבצע מודיעיני: סוכלה מזימה איראנית להתנקשות בישראלי ביוון",
-    "link": "https://www.bhol.co.il/news/1744836?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T15:24:00Z"
+    "title": "יצאתי לאירוע ראשון אחרי הלידה - ואז הדודה פתחה את הפה",
+    "link": "https://www.kikar.co.il/437/postpartum-compliments-new-mothers",
+    "time": "2026-11-18T13:21:33Z"
   },
   {
-    "title": "כיבו מצלמות גוף ומחקו תיעוד: התיק נגד הפקחים שהכו נער חרדי נסגר",
-    "link": "https://www.bhol.co.il/news/1744835?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T15:00:00Z"
+    "title": "כזה עוד לא היה: זה מה שהשוטרים בקנדה רוצים ללמוד מהציבור החרדי",
+    "link": "https://www.kikar.co.il/haredim-news/canada-police-haredi-community-training",
+    "time": "2026-11-18T13:04:33Z"
   },
   {
-    "title": "חבושי כיפות ודוברי ערבית: תושבי רהט נכנסו לקיבוץ גבולות ללא בידוק",
-    "link": "https://www.bhol.co.il/news/1744833?utm_source=&utm_medium=ticker&utm_campaign=outer_ticker",
-    "time": "2026-11-17T14:43:00Z"
+    "title": "פרשת רצח ניסים שטרית: בית המשפט הפסיק את ההליכים נגד אחד הנאשמים",
+    "link": "https://www.kikar.co.il/law-and-courts/nisim-shterit-murder-case-proceedings-halted-sharv",
+    "time": "2026-11-18T13:00:00Z"
   },
   {
-    "title": "המנדט הסתיים ב-1948, כדאי שמישהו יעדכן את לונדון",
-    "link": "https://hm-news.co.il/669250/",
-    "time": "2026-11-18T12:13:47Z"
+    "title": "מבזק חדשות כיכר FM | מהדורת השעה 15:00",
+    "link": "https://www.kikar.co.il/kikar-scoop-news/top2ot",
+    "time": "2026-11-18T13:00:00Z"
   },
   {
-    "title": "מאמצים לשחרור האברך שנעצר בנתב\"ג",
-    "link": "https://hm-news.co.il/669247/",
-    "time": "2026-11-18T11:45:40Z"
+    "title": "הפגישה הדרמטית של נתניהו ובנט הסתיימה אחרי כשלוש שעות | בגוש זועמים: \"הפגישה היא פיגוע\"",
+    "link": "https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-eisenkot-fury",
+    "time": "2026-11-18T12:54:18Z"
   },
   {
-    "title": "נתניהו ובנט נפגשים בארבע עיניים בכנסת",
-    "link": "https://hm-news.co.il/669243/",
-    "time": "2026-11-18T11:19:00Z"
+    "title": "בלי רישיון, על קורקינט ומקפיצים מאות מפגינים: הבלוף מאחורי חלק ממעצרי ה'עריקים' נחשף",
+    "link": "https://www.kikar.co.il/davar-rishon/kobi-israel-bnei-brak-crisis-black-color",
+    "time": "2026-11-18T12:41:00Z"
   },
   {
-    "title": "\"חוק התפילין\" עולה היום להצבעה במליאת הכנסת",
-    "link": "https://hm-news.co.il/669241/",
-    "time": "2026-11-18T10:45:00Z"
+    "title": "התנועה לאיכות השלטון בפנייה דחופה ליועמ\"שית: פתחי בהליך להדחת ראש השב\"כ דוד זיני",
+    "link": "https://www.kikar.co.il/laws/shabak-chief-removal-demand",
+    "time": "2026-11-18T12:38:28Z"
   },
   {
-    "title": "האי באוקיינוס ההודי: עשרות מיליוני סרטנים אדומים יוצאים אל הים",
-    "link": "https://hm-news.co.il/669236/",
-    "time": "2026-11-18T10:29:43Z"
+    "title": "קידוש השם בכנסת: איסור הפרעה להנחת תפילין במרחב הציבורי - עבר",
+    "link": "https://www.kikar.co.il/political-news/knesset-approves-tefillin-protection-law-prelimina",
+    "time": "2026-11-18T12:36:07Z"
   },
   {
-    "title": "המדינה תיאלץ להסביר את אפליית הילדים החרדים",
-    "link": "https://hm-news.co.il/669239/",
-    "time": "2026-11-18T10:26:00Z"
+    "title": "שינוי בפריסת הכוחות האמריקניים: נושאת המטוסים ”ג'ורג' וושינגטון” עזבה את המזרח התיכון",
+    "link": "https://www.jdn.co.il/news/2768706/",
+    "time": "2026-11-18T20:52:15Z"
   },
   {
-    "title": "השיר שכתב השר וסרלאוף לח\"כ מהרשימה המשותפת",
-    "link": "https://hm-news.co.il/669229/",
-    "time": "2026-11-18T09:46:00Z"
+    "title": "צה\"ל פועל מעבר לקו הצהוב: מבצע להשמדת מנהרת טרור המאיימת על מוצב צבאי",
+    "link": "https://www.jdn.co.il/news/2768701/",
+    "time": "2026-11-18T20:30:57Z"
   },
   {
-    "title": "\"יש במדינת ישראל קואליציה ישראלית-פלסטינית\"",
-    "link": "https://hm-news.co.il/669219/",
-    "time": "2026-11-18T09:27:00Z"
+    "title": "דרעי בתרגיל פוליטי: יעלה להצבעה את חוק הקפאת המעצרים – ויציב את ליברמן בפני דילמה",
+    "link": "https://www.jdn.co.il/news/2768650/",
+    "time": "2026-11-18T19:46:47Z"
   },
   {
-    "title": "השפעת בחירות האמצע: בטהרן מרוצים, בוושינגטון סוער",
-    "link": "https://hm-news.co.il/669211/",
-    "time": "2026-11-18T08:52:00Z"
+    "title": "המשבר בפולין מחריף: חסינות נשיא בית הדין הוסרה",
+    "link": "https://www.jdn.co.il/news/2768671/",
+    "time": "2026-11-18T19:33:38Z"
   },
   {
-    "title": "כוחות צה\"ל השמידו תשתית תת-קרקעית של חיזבאללה",
-    "link": "https://hm-news.co.il/669215/",
-    "time": "2026-11-18T08:21:00Z"
+    "title": "דודי אייזנשטיין חוזר ללחני ר' משה גולדמן במחרוזת חדשה",
+    "link": "https://www.jdn.co.il/music/2768657/",
+    "time": "2026-11-18T19:28:25Z"
   },
   {
-    "title": "מבזק חדשות כיכר FM | מהדורת השעה 14:00",
-    "link": "https://www.kikar.co.il/kikar-scoop-news/top2kz",
-    "time": "2026-11-18T12:00:00Z"
+    "title": "דרמה ביטחונית: נתניהו אומר בשיחות סגורות \"אין מנוס מפעולה באיראן\"",
+    "link": "https://www.jdn.co.il/news/2768664/",
+    "time": "2026-11-18T19:20:06Z"
   },
   {
-    "title": "גוש השינוי יצא בהובלת אחמד טיבי: החוק המטריל של הליכוד - עבר | צפו",
-    "link": "https://www.kikar.co.il/political-news/change-bloc-boycotts-hamas-tefillin-laws-vote",
-    "time": "2026-11-18T11:40:20Z"
+    "title": "הרגיז את החרדים: האיתות לאיזנקוט וההתייצבות לצד נתניהו",
+    "link": "https://www.jdn.co.il/news/2768647/",
+    "time": "2026-11-18T18:29:15Z"
   },
   {
-    "title": "עוד ניצחון לאופוזיציה: חוק התקשורת של השר שלמה קרעי - מבוטל",
-    "link": "https://www.kikar.co.il/political-news/knesset-approves-cancellation-communications-law-p",
-    "time": "2026-11-18T11:37:22Z"
+    "title": "מיקי זוהר לא שולל: נתניהו שני ברוטציה – בליכוד ממהרים להכחיש",
+    "link": "https://www.jdn.co.il/news/2768645/",
+    "time": "2026-11-18T18:22:43Z"
   },
   {
-    "title": "חוק מהפכני של יעקב אשר: נגד שלילת הטבות שרירותית על ידי הפקידים",
-    "link": "https://www.kikar.co.il/israel-news/asher-law-prevents-officials-sanctions-without-aut",
-    "time": "2026-11-18T11:20:46Z"
+    "title": "המלחמה באיראן מטלטלת את הבית הלבן: טראמפ מתרחק מסגנו",
+    "link": "https://www.kore.co.il/viewArticle/225726",
+    "time": "2026-11-18T20:31:00Z"
   },
   {
-    "title": "אב ממודיעין עילית נעצר בחשד לפגיעה בבנותיו | אלו ההאשמות הקשות",
-    "link": "https://www.kikar.co.il/haredim/modiin-illit-father-arrested-abuse-daughters",
-    "time": "2026-11-18T11:18:34Z"
+    "title": "הזנחה מחפירה: עובש, ריקבון ועכברים בתחנת טיפת חלב בבני ברק",
+    "link": "https://www.kore.co.il/viewArticle/225730",
+    "time": "2026-11-18T20:22:00Z"
   },
   {
-    "title": "פרץ ל-6 דירות בבת ים, גנב כרטיסי אשראי, הלך לעשות קניות – תועד ונתפס | צפו",
-    "link": "https://www.kikar.co.il/police/bat-yam-burglary-suspect-arrested-credit-card-frau",
-    "time": "2026-11-18T11:15:28Z"
+    "title": "ארה\"ב מודה לראשונה: איראן תקפה תשתיות חיוניות בשטחה",
+    "link": "https://www.kore.co.il/viewArticle/225734",
+    "time": "2026-11-18T20:19:00Z"
   },
   {
-    "title": "המטבח נראה מיליון דולר - עד שהילדים חוזרים הביתה",
-    "link": "https://www.kikar.co.il/529/kitchen-cabinets-fingerprint-problem",
-    "time": "2026-11-18T11:11:58Z"
+    "title": "הרחק מגבולות ישראל: התרגיל החריג של חיל האוויר ביוון",
+    "link": "https://www.kore.co.il/viewArticle/225729",
+    "time": "2026-11-18T20:17:00Z"
   },
   {
-    "title": "הכנסת אישרה לבטל את חוק היועץ המשפטי לממשלה | לוין תקף: \"יחזור בעוצמה גדולה\"",
-    "link": "https://www.kikar.co.il/israel-news/knesset-attorney-general-law-cancellation-prelimin",
-    "time": "2026-11-18T11:09:02Z"
+    "title": "איראן מכינה את שלוחותיה: המיליציות בעיראק נערכות למלחמה",
+    "link": "https://www.kore.co.il/viewArticle/225731",
+    "time": "2026-11-18T20:01:00Z"
   },
   {
-    "title": "איזה נסיך הוקרב כקרבן?! מחלוקת הענקים וביאורו הנועז של הריק\"ם • פרק ב'",
-    "link": "https://www.kikar.co.il/haredim-news/mesha-king-moab-sacrifice",
-    "time": "2026-11-18T11:06:12Z"
+    "title": "אישה נדבקה בכלבת במרכז הארץ; מצבה אנוש",
+    "link": "https://www.kore.co.il/viewArticle/225727",
+    "time": "2026-11-18T19:55:00Z"
   },
   {
-    "title": "דיני נטילת ציפורניים ביום חמישי - לבני אשכנז ולבני ספרד • צפו",
-    "link": "https://www.kikar.co.il/haredim-news/tev4xk-94",
-    "time": "2026-11-18T11:00:00Z"
+    "title": "לפני מעצר פעילי רע\"ם: עוזר המפכ\"ל השתתף בפגישה עם נתניהו",
+    "link": "https://www.kore.co.il/viewArticle/225732",
+    "time": "2026-11-18T19:34:00Z"
   },
   {
-    "title": "מבזק חדשות כיכר FM | מהדורת השעה 13:00",
-    "link": "https://www.kikar.co.il/kikar-scoop-news/tooxba",
-    "time": "2026-11-18T11:00:00Z"
+    "title": "חשפה איש שב\"כ: היועמ\"שית תגיש מחדש כתב אישום נגד גוטליב",
+    "link": "https://www.kore.co.il/viewArticle/225728",
+    "time": "2026-11-18T19:25:00Z"
   },
   {
-    "title": "מול כל העולם: ראש ממשלת הודו מיהר להרים דבר חשוב מהשטיח",
-    "link": "https://www.kikar.co.il/world-news/india-pm-modi-flag-quad-summit",
-    "time": "2026-11-18T10:59:00Z"
+    "title": "בצל החשש: ביקור היסטורי של חברי הפרלמנט בציון הצדיק מקרעסטיר",
+    "link": "https://www.kore.co.il/viewArticle/225736",
+    "time": "2026-11-18T19:19:00Z"
   },
   {
-    "title": "דרמה בכנסת: נפתלי בנט נועד כעת עם ראש הממשלה נתניהו | גדי איזנקוט לא עודכן מראש",
-    "link": "https://www.kikar.co.il/political-news/bennett-netanyahu-meeting-drama",
-    "time": "2026-11-18T10:43:00Z"
+    "title": "הפגנה מול ביתו של בנט נגד ממשלה עם נתניהו: \"הוא ישקר גם לך\"",
+    "link": "https://www.kore.co.il/viewArticle/225735",
+    "time": "2026-11-18T19:19:00Z"
   },
   {
-    "title": "מתאמי קשרי הקהילה של כללית במחוז מרכז ערכו סיור באסותא אשדוד",
-    "link": "https://www.kikar.co.il/health-news/top124",
-    "time": "2026-11-18T10:30:48Z"
+    "title": "אירוע חריג בכפר קאסם: נהג יהודי דרס 8 בני אדם בחמישה מוקדים",
+    "link": "https://www.kore.co.il/viewArticle/225723",
+    "time": "2026-11-18T19:00:00Z"
   },
   {
-    "title": "עת להוביל: אירוע הוקרה והכשרה לראשי קהילות \"אחוות תורה\"",
-    "link": "https://www.kikar.co.il/haredim-news/top0os",
-    "time": "2026-11-18T10:24:57Z"
+    "title": "לזכר הבן שנהרג: ספר תורה הוכנס לישיבת \"אורחות יהודה\" בראשות גדולי ישראל",
+    "link": "https://www.kore.co.il/viewArticle/225733",
+    "time": "2026-11-18T18:56:00Z"
   },
   {
-    "title": "שני נהגים שיכורים נסעו נגד התנועה בכביש 4 וכמעט התנגשו בניידת משטרה",
-    "link": "https://www.kikar.co.il/police/two-drunk-drivers-wrong-way-route-4-near-collision",
-    "time": "2026-11-18T10:22:37Z"
+    "title": "עד להקמת ממשלה: ש\"ס הגישה חוק להקפאת מעצרי בני הישיבות",
+    "link": "https://www.kore.co.il/viewArticle/225724",
+    "time": "2026-11-18T18:48:00Z"
   },
   {
-    "title": "שוברת את החוקים: הקסדה שתציל אופנועים ממוות בטוח",
-    "link": "https://www.kikar.co.il/world-news/motorcycle-helmet-airbag-technology",
-    "time": "2026-11-18T10:22:00Z"
+    "title": "תוכניות התקיפה מוכנות; נתניהו קובע: \"אין מנוס מפעולה באיראן\"",
+    "link": "https://www.kore.co.il/viewArticle/225725",
+    "time": "2026-11-18T18:41:00Z"
   },
   {
-    "title": "הטעות עם הסומק שגורמת לפנים להיראות נפולות יותר",
-    "link": "https://www.kikar.co.il/445/blush-placement-makeup-mistakes",
-    "time": "2026-11-18T10:15:33Z"
+    "title": "אחרי הפגישה עם נתניהו: כך מתכנן בנט להביא לממשלת אחדות",
+    "link": "https://www.kore.co.il/viewArticle/225721",
+    "time": "2026-11-18T18:33:00Z"
   },
   {
-    "title": "מבזק חדשות כיכר FM | מהדורת השעה 12:00",
-    "link": "https://www.kikar.co.il/kikar-scoop-news/tooumg",
-    "time": "2026-11-18T10:00:00Z"
+    "title": "המקור שהוביל למעצרי רע\"ם דורש מהיועמ\"שית לפתוח בבדיקה",
+    "link": "https://www.kore.co.il/viewArticle/225722",
+    "time": "2026-11-18T18:30:00Z"
   },
   {
-    "title": "טראמפ נחת בסין - ונתן חיבוק חם לידידו הנשיא שי | זה מה שצפוי",
-    "link": "https://www.kikar.co.il/world-news/toozkk",
-    "time": "2026-11-18T09:58:40Z"
+    "title": "טרגדיה במונסי: מרת בת שבע פרנק ע\"ה נהרגה בתאונת רכבת",
+    "link": "https://www.kore.co.il/viewArticle/225715",
+    "time": "2026-11-18T17:33:00Z"
   },
   {
-    "title": "אל תתעסק איתי: בעל החנות המתחרה שלח מתנה קטלנית",
-    "link": "https://www.kikar.co.il/world-news/toozjp",
-    "time": "2026-11-18T09:58:39Z"
+    "title": "האסלאם מזנק, הנצרות נחלשת: התחזית שמסעירה את העולם",
+    "link": "https://www.kore.co.il/viewArticle/225716",
+    "time": "2026-11-18T17:29:00Z"
   },
   {
-    "title": "הכנסת אישרה בטרומית את ביטול השינויים בוועדה לבחירת שופטים",
-    "link": "https://www.kikar.co.il/political-news/knesset-preliminary-vote-judges-committee-cancella",
-    "time": "2026-11-18T09:57:00Z"
+    "title": "השריפים האמריקנים בכנסת: \"המאבק באנטישמיות הוא אחריות של כולנו\"",
+    "link": "https://www.kore.co.il/viewArticle/225718",
+    "time": "2026-11-18T17:26:00Z"
   },
   {
-    "title": "נאבק על חייו: כדורגלן צעיר מת בעקבות פגיעה אנושה במשחק",
-    "link": "https://www.kikar.co.il/world-news/football-player-death-argentina",
-    "time": "2026-11-18T09:56:00Z"
+    "title": "ראש המוסד דחף לתקיפה באיראן, מפקד סנטקום הגיע לקריה",
+    "link": "https://www.kore.co.il/viewArticle/225717",
+    "time": "2026-11-18T17:20:00Z"
   },
   {
-    "title": "הוועדה המסדרת אישרה פטור מהנחה ל-6 הצעות חוק - כולל ביטול חוקי הממשלה",
-    "link": "https://www.kikar.co.il/political-news/organizing-committee-approves-law-cancellation-exe",
-    "time": "2026-11-18T09:34:30Z"
+    "title": "הכנסת אישרה הקמת שתי ועדות לביטול חוקי המשפט והתקשורת",
+    "link": "https://www.kore.co.il/viewArticle/225719",
+    "time": "2026-11-18T16:42:00Z"
   },
   {
-    "title": "הבצל מתקרמל, הבשר סופג רוטב - והריח ממלא את הבית",
-    "link": "https://www.kikar.co.il/בשר/stuffed-onion-rolls-recipe",
-    "time": "2026-11-18T09:21:51Z"
+    "title": "״שיא הצביעות״: ח״כ מעוצמה יהודית התעמת עם טיבי וסולק",
+    "link": "https://www.kore.co.il/viewArticle/225713",
+    "time": "2026-11-18T16:41:00Z"
   },
   {
-    "title": "דרעי שוחח עם ח\"כ מדן באוהל האחדות; ראשי גוש השינוי יתכנסו בצהריים",
-    "link": "https://www.kikar.co.il/political-news/deri-calls-madan-unity-tent-shas-visit",
-    "time": "2026-11-18T09:21:40Z"
+    "title": "מסע היסטורי של 'ברכת שמואל' לווילנא לציון מרן ר' ברוך בער",
+    "link": "https://www.kore.co.il/viewArticle/225714",
+    "time": "2026-11-18T16:36:00Z"
   },
   {
-    "title": "הקצין המרגל הועבר למשמורת אמריקנית בבריטניה - והוא עלול לקבל עונש מוות",
-    "link": "https://www.kikar.co.il/world-news/us-officer-arrested-russia-espionage-charges-uk",
-    "time": "2026-11-18T09:21:12Z"
+    "title": "הפרה שיטתית של הפסקת האש: צה\"ל ושב\"כ חיסלו שני מפקדים בזרוע הצבאית",
+    "link": "https://www.kore.co.il/viewArticle/225711",
+    "time": "2026-11-18T15:51:00Z"
   },
   {
-    "title": "אחרי העתירה לבג\"ץ: סנגורי נתניהו הסירו את ההתנגדות לחקירת מנדלבליט",
-    "link": "https://www.kikar.co.il/law-and-order/netanyahu-mandelblit-cross-examination",
-    "time": "2026-11-18T09:12:38Z"
+    "title": "הפרקליטות החליטה: הנהג שדרס למוות את הנער החרדי יואשם בעבירת המתה מקלה יותר",
+    "link": "https://www.kore.co.il/viewArticle/225710",
+    "time": "2026-11-18T15:43:00Z"
   },
   {
-    "title": "צרור יריות בבני ברק: אופנוען ירה לעבר בניין מגורים ונמלט",
-    "link": "https://www.kikar.co.il/haredim-news/bney-brak-shooting-incident",
-    "time": "2026-11-18T09:09:10Z"
+    "title": "לפיד ממשיך לשדר עסקים כרגיל: \"בנט ואני פועלים להקמת ממשלת אייזנקוט\"",
+    "link": "https://www.kore.co.il/viewArticle/225704",
+    "time": "2026-11-18T15:24:00Z"
   },
   {
-    "title": "חשוד במעורבות בפיגוע ביריחו נעצר והועבר לחקירה בשב\"כ",
-    "link": "https://www.kikar.co.il/police/jericho-attack-suspect-arrested-investigation",
-    "time": "2026-11-18T09:03:48Z"
+    "title": "המסר החריף שיצא מפגישת ראשי מפלגות גוש השינוי",
+    "link": "https://www.kore.co.il/viewArticle/225703",
+    "time": "2026-11-18T15:20:00Z"
   },
   {
-    "title": "הזרוע הארוכה של איראן נחשפת: זה האיש שהורה לחסל ישראלי בלב יוון",
-    "link": "https://www.kikar.co.il/world-news/iran-assassination-plot-greece-israeli",
-    "time": "2026-11-18T09:03:00Z"
+    "title": "מצוקה חמורה בתחמושת: ההחלטה החריגה במערך הטילים נגד איראן",
+    "link": "https://www.kore.co.il/viewArticle/225706",
+    "time": "2026-11-18T15:16:00Z"
   },
   {
-    "title": "סיום מסכת בכורות, דף ס\"א | הדף היומי ב-10 דקות • האזינו",
-    "link": "https://www.kikar.co.il/daf-yomi/tonc61",
-    "time": "2026-11-18T09:00:00Z"
+    "title": "היעד לחיסול האיראני: איש עסקים יהודי ונשיא הקהילה באתונה לשעבר",
+    "link": "https://www.kore.co.il/viewArticle/225702",
+    "time": "2026-11-18T15:16:00Z"
   },
   {
-    "title": "מבזק חדשות כיכר FM | מהדורת השעה 11:00",
-    "link": "https://www.kikar.co.il/kikar-scoop-news/toouij",
-    "time": "2026-11-18T09:00:00Z"
+    "title": "הסכם ערים תאומות: גשר של ברכה בין הערים בוברויסק לבירוביג'אן",
+    "link": "https://www.kore.co.il/viewArticle/225705",
+    "time": "2026-11-18T15:08:00Z"
   },
   {
-    "title": "אחרי שכמעט מתה מצמא: איראן מתמלאת בכמויות מים",
-    "link": "https://www.kikar.co.il/world-news/iran-water-crisis-reservoirs-refilling",
-    "time": "2026-11-18T08:51:00Z"
+    "title": "הגיע לשדוד חנות ליד חדרה ולא תיאר מה מחכה לו בפנים",
+    "link": "https://www.kore.co.il/viewArticle/225707",
+    "time": "2026-11-18T15:04:00Z"
   },
   {
-    "title": "נעמד על הרגליים לעיני המצלמות: הפנדה האדומה ששבר שיא עולמי",
-    "link": "https://www.kikar.co.il/world-news/toowbo",
-    "time": "2026-11-18T08:50:42Z"
+    "title": "התפללו: זקן ראשי הישיבות באירופה פונה שוב לבית החולים",
+    "link": "https://www.kore.co.il/viewArticle/225708",
+    "time": "2026-11-18T14:56:00Z"
   },
   {
-    "title": "הנאום של אורית סטרוק שפירק את מתן כהנא: \"זה נורא מה שעשית לעצמך\"",
-    "link": "https://www.kikar.co.il/political-news/orit-strock-matan-kahana-knesset-speaker",
-    "time": "2026-11-18T08:42:49Z"
+    "title": "שמחה ב'רנה של תורה': ראש הישיבה אירס את המוז'יניק",
+    "link": "https://www.kore.co.il/viewArticle/225709",
+    "time": "2026-11-18T14:50:00Z"
   },
   {
-    "title": "וואו! כך נראה השמדה של 400 מוקשים ברמת הגולן • צפו ברגע הפיצוץ",
-    "link": "https://www.kikar.co.il/israel-news/golan-heights-mine-clearance",
-    "time": "2026-11-18T08:35:58Z"
+    "title": "גבול פולין: מוסקבה תכננה פיגוע מבוים להאשמת אוקראינה",
+    "link": "https://www.kore.co.il/viewArticle/225699",
+    "time": "2026-11-18T14:23:00Z"
   },
   {
-    "title": "אתם מנקים את המסנן, אבל מפספסים את החלק המסוכן",
-    "link": "https://www.kikar.co.il/472/dryer-fire-hazard-lint-buildup",
-    "time": "2026-11-18T08:31:12Z"
+    "title": "הבינה המלאכותית חשפה פרצת אבטחה שהסתתרה במשך עשור",
+    "link": "https://www.kore.co.il/viewArticle/225698",
+    "time": "2026-11-18T14:22:00Z"
   },
   {
-    "title": "מרגע ה\"פלאש\" ועד לנפילת הנשורת: כך תשרדו פיצוץ אטומי שלב אחר שלב",
-    "link": "https://www.kikar.co.il/interesting/nuclear-explosion-survival-guide",
-    "time": "2026-11-18T08:28:22Z"
+    "title": "לא רק פוליטיקה: הפרויקט החדש של נתניהו מעבר לים",
+    "link": "https://www.kore.co.il/viewArticle/225697",
+    "time": "2026-11-18T14:19:00Z"
   },
   {
-    "title": "יותר מ-500 אלף אמצעי לחימה הוחזרו לצה\"ל | תיעוד",
-    "link": "https://www.kikar.co.il/security-news/idf-equipment-return-operation",
-    "time": "2026-11-18T08:26:31Z"
+    "title": "בנוכחות ראש המל\"ל: חבר בד\"ץ 'העדה' ביקש את הטלפון של החייל",
+    "link": "https://www.kore.co.il/viewArticle/225688",
+    "time": "2026-11-18T13:49:00Z"
   },
   {
-    "title": "איפה ישי מאיר חוטר? המשטרה מבקשת מהציבור לסייע באיתור נעדר מבני ברק",
-    "link": "https://www.kikar.co.il/police/missing-person-yishai-meir-choter-bnei-brak",
-    "time": "2026-11-18T08:25:06Z"
+    "title": "עזבו כנס בחו\"ל וטסו להציל חיים: המרוץ נגד הזמן להצלת אב בן 37 שליבו קרס",
+    "link": "https://www.kore.co.il/viewArticle/225690",
+    "time": "2026-11-18T13:25:00Z"
   },
   {
-    "title": "מקסיקו מתחננת וישראל פספסה: נשק הפנדות של סין עולה שלב",
-    "link": "https://www.kikar.co.il/world-news/panda-diplomacy-mexico-china",
-    "time": "2026-11-18T08:17:00Z"
+    "title": "עד 58 ימי מילואים, יותר אימונים: התוכנית החדשה שאישר הרמטכ\"ל",
+    "link": "https://www.kore.co.il/viewArticle/225689",
+    "time": "2026-11-18T13:24:00Z"
   },
   {
-    "title": "הבעל עזב את החדר, הדיין ירד בעקבותיו - והגט נמסר רגע לפני ההרדמה",
-    "link": "https://www.kikar.co.il/haredim-news/toouq2",
-    "time": "2026-11-18T08:16:07Z"
+    "title": "בנט רוצה אחדות, ליברמן את החרדים וגולן את הערבים - ואיזנקוט באמצע",
+    "link": "https://www.kore.co.il/viewArticle/225687",
+    "time": "2026-11-18T13:20:00Z"
   },
   {
-    "title": "מבזק חדשות כיכר FM | מהדורת השעה 10:00",
-    "link": "https://www.kikar.co.il/kikar-scoop-news/toou7p",
-    "time": "2026-11-18T08:00:00Z"
+    "title": "\"וזו השנה שמתפללים ונענים\": פוסק הדור מכנס בי\"ד מיוחד",
+    "link": "https://www.kore.co.il/viewArticle/225691",
+    "time": "2026-11-18T12:40:00Z"
   },
   {
-    "title": "הבוטח בה' לא מפחד שייגמר הכסף • צפו בחיזוק היומי עם הרב יגאל כהן",
-    "link": "https://www.kikar.co.il/haredim-news/tdvqzf-173",
-    "time": "2026-11-18T08:00:00Z"
+    "title": "לקראת חתונת הנכדה הראשונה: הגאב\"ד אצל פוסק הדור ופאר הדור",
+    "link": "https://www.kore.co.il/viewArticle/225686",
+    "time": "2026-11-18T12:34:00Z"
   },
   {
-    "title": "מכה לתשתיות הטרור: כוחות צה\"ל השמידו מתחם תת-קרקעי של חיזבאללה בהר דב",
-    "link": "https://www.kikar.co.il/security-news/tootxv",
-    "time": "2026-11-18T07:56:09Z"
+    "title": "בתום פגישת נתניהו ובנט: גוש השינוי מתכנס בצל המחלוקות על האחדות",
+    "link": "https://www.kore.co.il/viewArticle/225685",
+    "time": "2026-11-18T12:33:00Z"
   },
   {
-    "title": "ירוק בעיניים: משאית עם תכולה של 5 טון התהפכה באמצע הכביש",
-    "link": "https://www.kikar.co.il/world-news/florida-truck-peppers-spill",
-    "time": "2026-11-18T07:47:00Z"
+    "title": "ממחר החיים שלכם הולכים להשתנות: אסור לכם לפספס",
+    "link": "https://www.kore.co.il/viewArticle/225692",
+    "time": "2026-11-18T12:16:00Z"
   },
   {
-    "title": "מבוי סתום במגעים על נוסח חוק הגיוס מול גוש השינוי | גורם ב'דגל התורה': \"קל יותר מול איווט ליברמן\"",
-    "link": "https://www.kikar.co.il/haredim/draft-law-negotiations-deadlock-lando-lieberman",
-    "time": "2026-11-18T07:36:26Z"
+    "title": "אווירה של פחד: רופאים ומטופלים יהודים מסתירים את זהותם",
+    "link": "https://www.kore.co.il/viewArticle/225693",
+    "time": "2026-11-18T12:08:00Z"
   },
   {
-    "title": "מדמויות ההוד | אביו של מפיק המוזיקה, הרב אהרן לוין זצ\"ל הלך לעולמו",
-    "link": "https://www.kikar.co.il/dayan-haamet/toosbe",
-    "time": "2026-11-18T07:25:45Z"
-  },
-  {
-    "title": "וואט ניו-יורק?! טסים לתפוח הגדול ב-444 דולר!",
-    "link": "https://www.kikar.co.il/world-tourism/toosh7",
-    "time": "2026-11-18T07:25:22Z"
-  },
-  {
-    "title": "אושר בטרומית: שלילת זכויות מחבר כנסת שיסרב להכיר בחמאס כארגון טרור",
-    "link": "https://www.jdn.co.il/news/2768277/",
-    "time": "2026-11-18T12:36:57Z"
-  },
-  {
-    "title": "מסתערבי מג\"ב ושב\"כ עצרו שני פעילי פת\"ח החשודים בתכנון פיגוע",
-    "link": "https://www.jdn.co.il/news/2768272/",
-    "time": "2026-11-18T12:16:26Z"
-  },
-  {
-    "title": "יואצו העבודות להרחבת כביש 505 מאריאל לצומת תפוח",
-    "link": "https://www.jdn.co.il/economy/2768269/",
-    "time": "2026-11-18T12:08:59Z"
-  },
-  {
-    "title": "ח\"כ יוסי טייב מש\"ס שוחח עם אביו של האברך שנעצר בנתב\"ג",
-    "link": "https://www.jdn.co.il/j_world/2768266/",
-    "time": "2026-11-18T12:05:19Z"
-  },
-  {
-    "title": "התחילו להרוס! ביטול חוק התקשורת אושר בקריאה טרומית ברוב של 63 מול 49",
-    "link": "https://www.jdn.co.il/news/2768263/",
-    "time": "2026-11-18T12:01:02Z"
-  },
-  {
-    "title": "מפלגת 'ישר'! מחרימה את הצעות החוק של הליכוד: \"לא נשתתף בהצגות\"",
-    "link": "https://www.jdn.co.il/news/2768258/",
-    "time": "2026-11-18T11:50:55Z"
-  },
-  {
-    "title": "דוח חדש מארה\"ב: משתמשי זריקות ההרזיה אושפזו פחות ב-34% עד 42%",
-    "link": "https://www.jdn.co.il/health/2768254/",
-    "time": "2026-11-18T11:46:51Z"
-  },
-  {
-    "title": "ישראל וצ'כיה ירחיבו את תוכנית המלגות ההדדית לזכרה של ראש שלוחת שגרירות צ'כיה",
-    "link": "https://www.jdn.co.il/news/2768242/",
-    "time": "2026-11-18T11:39:08Z"
+    "title": "פרץ ל6 דירות ויצא למסע קניות בכרטיסים הגנובים",
+    "link": "https://www.kore.co.il/viewArticle/225700",
+    "time": "2026-11-18T11:37:00Z"
   },
   {
     "title": "השופטים חזרו בהם והתירו לפרקליטות לחקור את מנדלבליט בחקירה נגדית",
@@ -873,6 +1088,21 @@
     "title": "החוק של יעקב אשר: למנוע שלילת הטבות ללא הסמכה מפורשת בחוק",
     "link": "https://www.kore.co.il/viewArticle/225682",
     "time": "2026-11-18T11:29:00Z"
+  },
+  {
+    "title": "אחרי מלחמה ארוכה: הלקחים שהופקו בכנס בינלאומי לקראת ההערכות לאיום האיראני",
+    "link": "https://www.kore.co.il/viewArticle/225694",
+    "time": "2026-11-18T11:07:00Z"
+  },
+  {
+    "title": "נסעו נגד כיוון התנועה בכביש 4 וכמעט התנגשו חזיתית בניידת - השוטרים נדהמו מהטענה",
+    "link": "https://www.kore.co.il/viewArticle/225696",
+    "time": "2026-11-18T10:55:00Z"
+  },
+  {
+    "title": "חמש שעות בתוך מטוס צבאי: כך הושמד ההרקולס",
+    "link": "https://www.kore.co.il/viewArticle/225712",
+    "time": "2026-11-18T10:29:00Z"
   },
   {
     "title": "הצעת 'חוק התפילין' תעלה היום במליאת הכנסת",
@@ -1045,189 +1275,74 @@
     "time": "2026-11-17T21:42:00Z"
   },
   {
-    "title": "עידן חדש בכנסת: מתן כהנא נבחר לתפקיד היו",
-    "link": "https://www.kore.co.il/viewArticle/225639",
-    "time": "2026-11-17T20:56:00Z"
+    "title": "מקרה כלבת באדם: אישה במצב אנוש",
+    "link": "https://www.hidabroot.org/article/1229784",
+    "time": "2026-11-18T18:58:00Z"
   },
   {
-    "title": "תאונה אווירית ברוסיה: מטוס מטען התרסק סמוך לעיר קמרובו",
-    "link": "https://www.kore.co.il/viewArticle/225680",
-    "time": "2026-11-17T20:49:00Z"
+    "title": "ממשלת פולין: \"סיכלנו בגבול פיגוע קטלני רוסי שנועד להאשים את אוקראינה\"",
+    "link": "https://www.hidabroot.org/article/1229783",
+    "time": "2026-11-18T18:37:00Z"
   },
   {
-    "title": "שגריר ארה\"ב באו\"ם ביצע 20 שכיבות סמיכה עם חיילי המארינס בלבנון",
-    "link": "https://www.kore.co.il/viewArticle/225644",
-    "time": "2026-11-17T20:20:00Z"
+    "title": "אוסטרליה: \"הטלנו סנקציות על חברות הבונות בהתיישבות ביו\"ש\"",
+    "link": "https://www.hidabroot.org/article/1229782",
+    "time": "2026-11-18T18:19:00Z"
   },
   {
-    "title": "בנט מציב אולטימטום לשותפיו - וסופג ביקורת: \"מתכונן לבחירות\"",
-    "link": "https://www.kore.co.il/viewArticle/225640",
-    "time": "2026-11-17T20:08:00Z"
+    "title": "בכיר אמריקני מאשר: איראן עומדת מאחורי גל תקיפות סייבר בארה\"ב",
+    "link": "https://www.hidabroot.org/article/1229779",
+    "time": "2026-11-18T17:20:00Z"
   },
   {
-    "title": "דרמה בשב\"כ: מקורות מודיעיניים נחשפו במהלך חקירת הבחירות",
-    "link": "https://www.kore.co.il/viewArticle/225642",
-    "time": "2026-11-17T19:50:00Z"
+    "title": "דיווח: השר לשעבר דרמר וראש המוסד דנו בארה\"ב בקידום תקיפה באיראן",
+    "link": "https://www.hidabroot.org/article/1229778",
+    "time": "2026-11-18T16:42:00Z"
   },
   {
-    "title": "אם רק תרצו, כל אחד יכול להיות מגדולי ישראל: ראש הישיבה חזר על דבריו של פוסק הדור",
-    "link": "https://www.kore.co.il/viewArticle/225643",
-    "time": "2026-11-17T19:38:00Z"
+    "title": "היעד לחיסול שסוכל ביוון: בכיר בקהילה היהודית",
+    "link": "https://www.hidabroot.org/article/1229777",
+    "time": "2026-11-18T16:36:00Z"
   },
   {
-    "title": "אב החטוף קרע את חולצתו מעל דוכן הכנסת: \"הרי זה אבל\"",
-    "link": "https://www.kore.co.il/viewArticle/225648",
-    "time": "2026-11-17T19:25:00Z"
+    "title": "חושבים שאתם עוזרים לבן או לבת הזוג? יכול להיות שאתם רק מפריעים",
+    "link": "https://www.hidabroot.org/article/1229694",
+    "time": "2026-11-18T16:33:00Z"
   },
   {
-    "title": "חסיד לפני רבו: תיאור מלא משבת היסטורית של הרבי ממכנובקא בעלזא בסקווירא",
-    "link": "https://www.kore.co.il/viewArticle/225645",
-    "time": "2026-11-17T19:21:00Z"
+    "title": "המליאה אישרה: שלילת זכויות מחבר כנסת בגין אי-הכרה בחמאס כארגון טרור",
+    "link": "https://www.hidabroot.org/article/1229775",
+    "time": "2026-11-18T15:44:00Z"
   },
   {
-    "title": "הרבי מקאלוב במכתב חירום ליהודי צרפת: \"היזהרו שלא לעלות לארץ ישראל בבהלה\"",
-    "link": "https://www.kore.co.il/viewArticle/225636",
-    "time": "2026-11-17T19:10:00Z"
+    "title": "אוכלוסייה מתפנה: צה\"ל ושב\"כ פתחו במבצע ממוקד במרכז רצועת עזה - מערבית לקו הצהוב",
+    "link": "https://www.hidabroot.org/article/1229774",
+    "time": "2026-11-18T15:18:00Z"
   },
   {
-    "title": "המוסד סיפק את המידע: כך סוכל ניסיון ההתנקשות בישראלי ביוון",
-    "link": "https://www.kore.co.il/viewArticle/225633",
-    "time": "2026-11-17T19:05:00Z"
+    "title": "אושר בקריאה טרומית: איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך",
+    "link": "https://www.hidabroot.org/article/1229773",
+    "time": "2026-11-18T15:04:00Z"
   },
   {
-    "title": "לקראת תקיפה באיראן? התנאי של הרמטכ\"ל וההוראות של נתניהו",
-    "link": "https://www.kore.co.il/viewArticle/225630",
-    "time": "2026-11-17T18:57:00Z"
+    "title": "מפנים גב לכותל? ההלכה המדויקת על הליכה לאחור בתום התפילה",
+    "link": "https://www.hidabroot.org/article/1229767",
+    "time": "2026-11-18T14:23:00Z"
   },
   {
-    "title": "שופט חיטט בטלפון של בעל דין, נציב התלונות נזף בו",
-    "link": "https://www.kore.co.il/viewArticle/225631",
-    "time": "2026-11-17T18:47:00Z"
+    "title": "למה לבן חיבק את יעקב אבינו? רש\"י בפירוש נפלא לפרשת ויצא",
+    "link": "https://www.hidabroot.org/article/1229754",
+    "time": "2026-11-18T13:38:00Z"
   },
   {
-    "title": "נתניהו: \"האיומים גדולים מלפני מלחמת ששת הימים - זה לא ספין\"",
-    "link": "https://www.kore.co.il/viewArticle/225632",
-    "time": "2026-11-17T18:39:00Z"
+    "title": "ההיסטוריון מפתיע: \"רון ארד מעולם לא היה באיראן, אך זה לא מה שמעניין את האיראנים\"",
+    "link": "https://www.hidabroot.org/article/1229768",
+    "time": "2026-11-18T13:25:00Z"
   },
   {
-    "title": "רובי קלצ'ניקוב באמצעות בלונים: הברחת נשק סוכלה בגבול מצרים",
-    "link": "https://www.kore.co.il/viewArticle/225637",
-    "time": "2026-11-17T18:36:00Z"
-  },
-  {
-    "title": "בריטניה הטילה סנקציות, סער מאיים: \"ישראל תנקוט בצעדי נגד\"",
-    "link": "https://www.kore.co.il/viewArticle/225638",
-    "time": "2026-11-17T18:06:00Z"
-  },
-  {
-    "title": "יורש העצר האיראני להרצוג: \"תהיה האורח הראשון שלי באיראן החופשית\"",
-    "link": "https://www.kore.co.il/viewArticle/225647",
-    "time": "2026-11-17T17:53:00Z"
-  },
-  {
-    "title": "וואטסאפ משנה את הדרך שבה מגבים שיחות - ומציעה אחסון בחינם",
-    "link": "https://www.kore.co.il/viewArticle/225629",
-    "time": "2026-11-17T17:47:00Z"
-  },
-  {
-    "title": "לא רק פטיש במליאה: מה הסמכויות של יו\"ר הכנסת ולמה כולם נאבקים על התפקיד?",
-    "link": "https://www.kore.co.il/viewArticle/225634",
-    "time": "2026-11-17T17:38:00Z"
-  },
-  {
-    "title": "התרגשות שיא בויז'ניץ: הבן מאלעד מונה לרב קהילות החסידות בארה\"ב",
-    "link": "https://www.kore.co.il/viewArticle/225635",
-    "time": "2026-11-17T17:34:00Z"
-  },
-  {
-    "title": "חקירת השב\"כ: אין ראיות לשוחד בחירות שעשוי לשנות את התוצאות",
-    "link": "https://www.kore.co.il/viewArticle/225628",
-    "time": "2026-11-17T17:00:00Z"
-  },
-  {
-    "title": "לקראת שיתוף פעולה? בקשת הרשימה המשותפת ממתן כהנא",
-    "link": "https://www.kore.co.il/viewArticle/225646",
-    "time": "2026-11-17T16:59:00Z"
-  },
-  {
-    "title": "הרשת המסווגת של הסוכנות לביטחון לאומי בארה\"ב קרסה",
-    "link": "https://www.kore.co.il/viewArticle/225626",
-    "time": "2026-11-17T16:09:00Z"
-  },
-  {
-    "title": "החל הקרב על ראשות הכנסת: אופיר כץ ומתן כהנא מתמודדים על התפקיד",
-    "link": "https://www.kore.co.il/viewArticle/225625",
-    "time": "2026-11-17T15:51:00Z"
-  },
-  {
-    "title": "ביקוש רב: הונחה אבן הפינה לפרויקט \"הפסגה הירוקה\" ברכסים",
-    "link": "https://www.kore.co.il/viewArticle/225627",
-    "time": "2026-11-17T15:31:00Z"
-  },
-  {
-    "title": "לא רק רובוט בחדר הניתוח: המרכז החדש בהדסה שמרכז את הטיפול בגידולי בית החזה",
-    "link": "https://www.kore.co.il/viewArticle/225620",
-    "time": "2026-11-17T14:58:00Z"
-  },
-  {
-    "title": "בן גביר נגד מינוי מתן כהנא ליו\"ר הכנסת: \"בושה וחרפה\"",
-    "link": "https://www.kore.co.il/viewArticle/225621",
-    "time": "2026-11-17T14:55:00Z"
-  },
-  {
-    "title": "האוצר חושף: נטל המס בישראל הגיע לשיא של שני עשורים",
-    "link": "https://www.kore.co.il/viewArticle/225622",
-    "time": "2026-11-17T14:53:00Z"
-  },
-  {
-    "title": "גדי איזנקוט על חוק הגיוס: \"נחפש פשרות, אבל לא יהיה ויתור\"",
-    "link": "https://www.kore.co.il/viewArticle/225623",
-    "time": "2026-11-17T14:42:00Z"
-  },
-  {
-    "title": "גורמים במשרד רה\"מ טוענים: \"המקור המודיעיני\" התחזה לבכיר בשב\"כ",
-    "link": "https://www.kore.co.il/viewArticle/225616",
-    "time": "2026-11-17T14:28:00Z"
-  },
-  {
-    "title": "מעצר שערורייתי בנתב\"ג: אברך הסיע את משפחתו לטיסה - ונלכד",
-    "link": "https://www.kore.co.il/viewArticle/225612",
-    "time": "2026-11-17T14:18:00Z"
-  },
-  {
-    "title": "דיווחים באיראן: לפחות שבעה פיצוצים באי קשם בעקבות תקיפה אמריקנית",
-    "link": "https://www.kore.co.il/viewArticle/225613",
-    "time": "2026-11-17T14:16:00Z"
-  },
-  {
-    "title": "10 ילדים מחכים לאבא בבית: חשש כבד לחייו של ר' אברהם ישעיהו אדלר",
-    "link": "https://www.kore.co.il/viewArticle/225611",
-    "time": "2026-11-17T13:59:00Z"
-  },
-  {
-    "title": "ברקוביץ': \"אם נתניהו חף מפשע - בפרקליטות צריכים ללכת לכלא\"",
-    "link": "https://www.kore.co.il/viewArticle/225614",
-    "time": "2026-11-17T13:58:00Z"
-  },
-  {
-    "title": "חברה ישראלית מציעה עשרות אלפי דולרים למי שיצליח \"לעבוד\" על סוכן AI",
-    "link": "https://www.kore.co.il/viewArticle/225619",
-    "time": "2026-11-17T13:50:00Z"
-  },
-  {
-    "title": "מבצע מודיעיני: סוכלה מזימה איראנית להתנקשות בישראלי ביוון",
-    "link": "https://www.kore.co.il/viewArticle/225617",
-    "time": "2026-11-17T13:29:00Z"
-  },
-  {
-    "title": "כיבו מצלמות גוף ומחקו תיעוד: התיק נגד הפקחים שהכו חרדי נסגר",
-    "link": "https://www.kore.co.il/viewArticle/225615",
-    "time": "2026-11-17T13:05:00Z"
-  },
-  {
-    "title": "חבושי כיפות ודוברי ערבית: תושבי רהט נכנסו לקיבוץ גבולות ללא בידוק",
-    "link": "https://www.kore.co.il/viewArticle/225608",
-    "time": "2026-11-17T12:48:00Z"
+    "title": "מה מרתק את עיתונאי העולם בהיכלי הישיבות?",
+    "link": "https://www.hidabroot.org/article/1229769",
+    "time": "2026-11-18T13:21:00Z"
   },
   {
     "title": "מה יישאר מהשינוי כשהפעילות הזאת תיגמר?",
@@ -1360,6 +1475,11 @@
     "time": "2026-11-18T07:03:00Z"
   },
   {
+    "title": "מסיימים מסכת | הדף היומי: מסכת בכורות דף ס\"א",
+    "link": "https://www.hidabroot.org/article/1229533",
+    "time": "2026-11-18T06:30:00Z"
+  },
+  {
     "title": "האם מותר להפסיק בדיבור בין ברכת המוציא לאכילה, וגם - סגולה לשמחה",
     "link": "https://www.hidabroot.org/article/1229505",
     "time": "2026-11-18T06:00:00Z"
@@ -1368,65 +1488,5 @@
     "title": "גביע לכולם או רק למנצחים? מה ילדים באמת חושבים על פרסים",
     "link": "https://www.hidabroot.org/article/1229695",
     "time": "2026-11-18T04:38:00Z"
-  },
-  {
-    "title": "ניו יורק: פורקה היחידה המשטרתית שטיפלה בהפגנות פרו-פלסטיניות ובאיומי טרור",
-    "link": "https://www.hidabroot.org/article/1229739",
-    "time": "2026-11-17T18:24:00Z"
-  },
-  {
-    "title": "נשק מעופף: סוכל ניסיון להבריח לישראל כלי נשק באמצעות בלונים",
-    "link": "https://www.hidabroot.org/article/1229738",
-    "time": "2026-11-17T18:16:00Z"
-  },
-  {
-    "title": "ראש השב\"כ: \"אין ראיות לתשלום שוחד בחירות שהשפיע על תוצאות הבחירות\"",
-    "link": "https://www.hidabroot.org/article/1229737",
-    "time": "2026-11-17T16:50:00Z"
-  },
-  {
-    "title": "גל התקלות בארה\"ב נמשך: הרשת הביטחונית המסווגת ביותר קרסה במפתיע",
-    "link": "https://www.hidabroot.org/article/1229736",
-    "time": "2026-11-17T16:41:00Z"
-  },
-  {
-    "title": "בשורה לנוסעים בתחבורה ציבורית: נבלמה היוזמה לייקר את התעריפים",
-    "link": "https://www.hidabroot.org/article/1229735",
-    "time": "2026-11-17T16:15:00Z"
-  },
-  {
-    "title": "ועדת החוץ והביטחון אישרה להאריך בארבעה חודשים את ההכרזה על מצב חירום",
-    "link": "https://www.hidabroot.org/article/1229734",
-    "time": "2026-11-17T16:02:00Z"
-  },
-  {
-    "title": "יוון: סוכל ניסיון איראני להתנקש באיש עסקים ישראלי",
-    "link": "https://www.hidabroot.org/article/1229733",
-    "time": "2026-11-17T15:53:00Z"
-  },
-  {
-    "title": "נשאר לכם עוף טחון במקפיא? מתכון מעולה לקציצות עוף עם קישואים ברוטב לימוני מנצח",
-    "link": "https://www.hidabroot.org/article/1229686",
-    "time": "2026-11-17T15:51:00Z"
-  },
-  {
-    "title": "מיכלית נפגעה במצר הורמוז; ארה\"ב תקפה באיראן",
-    "link": "https://www.hidabroot.org/article/1229732",
-    "time": "2026-11-17T15:12:00Z"
-  },
-  {
-    "title": "מקדימים שלום, יוצרים הידברות – כשהחינוך הופך לגשר בין לבבות",
-    "link": "https://www.hidabroot.org/article/1229731",
-    "time": "2026-11-17T14:12:00Z"
-  },
-  {
-    "title": "קשה לכם לחייך היום? עצת הזהב של רבי נחמן לגירוש העצבות",
-    "link": "https://www.hidabroot.org/article/1229671",
-    "time": "2026-11-17T13:00:00Z"
-  },
-  {
-    "title": "בלי חובות, המשכורת גבוהה - והבנק אומר לכם לא: הסוד של דירוג האשראי",
-    "link": "https://www.hidabroot.org/article/1229641",
-    "time": "2026-11-17T12:54:00Z"
   }
 ]
